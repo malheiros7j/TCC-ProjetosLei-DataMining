@@ -1,0 +1,424 @@
+n_documentos:6958 	 n_palavras: 3148 	 
+__________________________________________________________________________________
+
+
+Realizando a modelagem de topicos LDA com tfidf features, n_documentos: 6958 e n_palavras = 3148 ...
+
+Topicos no Cluster_1 modelo LDA: 112
+Topico #0:  gestao_governamental equipe_urbana provas fundurb_municipal acarretara_infrator inserido lote_numeros aplicacao_presente ocasiao entrega
+Topico #1:  eventos_cidade area_construidas menor branco concessionaria autorizado_executivo gestor_fundo higiene evitar publico_devera
+Topico #2:  eventos_municipio institui_passa passa_constar constar_calendario eventos_institui data_eventos oficial_data institui_calendario institui_municipio realizar_anualmente
+Topico #3:  claudinho_souza claudinho eventos_esportes eventos_institui institui_calendario passa_constar institui_passa plano_obras esclarecimentos municipal_bibliotecas
+Topico #4:  eventos_municipio constar_calendario institui_passa passa_integrada passa_constar oficial_data eventos_institui data_comemorado oficial_municipio institui_calendario
+
+Topicos no Cluster_2 modelo LDA: 48
+Topico #0:  gestao_governamental eventos_cidade equipe_urbana atividades_cultura provas fundurb_municipal acarretara_infrator lote_numeros ocasiao entrega
+Topico #1:  eventos_cidade incluir_calendario publico_devera area_construidas menor branco concessionaria autorizado_executivo gestor_fundo higiene
+Topico #2:  oficial_municipio incluir_calendario atualizados_anualmente franca primario sentencas_judiciais realizar_anualmente termo_compromisso expedicao pecuniaria
+Topico #3:  sao_abertos plano_obras esclarecimentos municipal_bibliotecas musica representantes_municipal acoes_educativas jacana transparencia_gestao nelo_rodolfo
+Topico #4:  incluir_calendario oficial_municipio eventos_cidade natalini fica_incluir festa anualmente_mes pv constar_calendario goulart
+
+Topicos no Cluster_3 modelo LDA: 137
+Topico #0:  fica_inserido festa mes_setembro inserido realizar_anualmente municipal_pessoas infancia progressiva preventiva semana_mes
+Topico #1:  fica_inserido inserido calendario_eventos incluir_calendario festa premio passa_tem universitario tuma eduardo_tuma
+Topico #2:  sao_celebrar celebrar reis implantacao_correrao franca atualizados_anualmente oficial_municipio primario sentencas_judiciais termo_compromisso
+Topico #3:  musica finalidade_incluir eventos_cidade metropolitana_sao calendario_eventos vereadora_edir edir edir_sala incluir_calendario internacional
+Topico #4:  consultoria previdencia_municipal universal devera_observadas embarque_desembarque data_comemorado conta_partir comunitaria_publico orcamentarias_municipio subseqa
+
+Topicos no Cluster_4 modelo LDA: 37
+Topico #0:  gestao_governamental equipe_urbana acarretara_infrator provas fundurb_municipal entrega lote_numeros ocasiao suporte_tecnica efeitos_estufa
+Topico #1:  area_construidas menor branco concessionaria autorizado_executivo gestor_fundo higiene evitar publico_devera constantes_anexo
+Topico #2:  alcool bebidas bebidas_alcool proibicao venda comercializacao atualizados_anualmente dobro dispoe_proibicao cassacao
+Topico #3:  plano_obras esclarecimentos municipal_bibliotecas musica sao_abertos representantes_municipal acoes_educativas jacana transparencia_gestao nelo_rodolfo
+Topico #4:  consultoria previdencia_municipal devera_observadas embarque_desembarque comunitaria_publico orcamentarias_municipio conta_partir submetidos subseqa creches
+
+Topicos no Cluster_5 modelo LDA: 113
+Topico #0:  moeda aquisitivo ibge ipca variacao extincao estatistica acumulada amplo indice_sao
+Topico #1:  repasse area_construidas concessionaria menor branco autorizado_executivo gestor_fundo impressos higiene evitar
+Topico #2:  atualizados_anualmente franca amplo primario ibge expedicao sonora sentencas_judiciais variacao termo_compromisso
+Topico #3:  moeda ipca variacao ibge aquisitivo amplo extincao dobro estatistica acumulada
+Topico #4:  consultoria previdencia_municipal devera_observadas embarque_desembarque comunitaria_publico orcamentarias_municipio conta_partir subseqa creches submetidos
+
+Topicos no Cluster_6 modelo LDA: 79
+Topico #0:  gestao_governamental equipe_urbana provas fundurb_municipal acarretara_infrator lote_numeros suporte_tecnica ocasiao entrega efeitos_estufa
+Topico #1:  imposto_servicos iss servicos_natureza natureza_iss isencao contribuinte refere_caput alteracoes_posteriores isentos entidades_fins
+Topico #2:  iptu atualizados_anualmente franca primario dispoe_concessao sentencas_judiciais desconto territorial termo_compromisso expedicao
+Topico #3:  plano_obras esclarecimentos cumprimento_obrigacoes municipal_bibliotecas musica sao_abertos representantes_municipal acoes_educativas jacana servicos_natureza
+Topico #4:  iptu isencao predial imposto_predial territorial predial_territorial urbana_iptu incidente concedido_isencao isencao_imposto
+
+Topicos no Cluster_7 modelo LDA: 147
+Topico #0:  cooperativas lixo reciclaveis descarte embalagens reciclagem plasticas seletiva coletivo_seletiva destinacao
+Topico #1:  papel area_construidas menor evitar branco concessionaria autorizado_executivo gestor_fundo higiene ambiental_adequada
+Topico #2:  lixo coletivo_lixo pequeno_portaria embalagens particulares publico_particulares pequeno escolas_publico coronel plasticas
+Topico #3:  papel baixa plano_obras populacao_baixa esclarecimentos municipal_bibliotecas jogos musica doador sao_abertos
+Topico #4:  lixo reciclaveis coletivo_seletiva consultoria seletiva previdencia_municipal devera_observadas embarque_desembarque comunitaria_publico orcamentarias_municipio
+
+Topicos no Cluster_8 modelo LDA: 20
+Topico #0:  gestao_governamental equipe_urbana provas fundurb_municipal acarretara_infrator lote_numeros ocasiao entrega suporte_tecnica efeitos_estufa
+Topico #1:  area_construidas branco menor concessionaria autorizado_executivo gestor_fundo higiene evitar publico_devera constantes_anexo
+Topico #2:  atualizados_anualmente franca primario sentencas_judiciais termo_compromisso expedicao pecuniaria concessionaria_servicos vias_circulacao servidores_emprego
+Topico #3:  sangue doador doacao concurso_publico concurso musica plano_obras esclarecimentos municipal_bibliotecas realizar_anualmente
+Topico #4:  consultoria previdencia_municipal devera_observadas embarque_desembarque comunitaria_publico orcamentarias_municipio conta_partir subseqa creches submetidos
+
+Topicos no Cluster_9 modelo LDA: 56
+Topico #0:  gestao_governamental movel equipe_urbana sao_implantado provas fundurb_municipal acarretara_infrator publico_sao lote_numeros ocasiao
+Topico #1:  movel area_construidas menor branco concessionaria autorizado_executivo evitar higiene gestor_fundo veterinario
+Topico #2:  veterinario atualizados_anualmente franca primario sentencas_judiciais termo_compromisso expedicao pecuniaria concessionaria_servicos vias_circulacao
+Topico #3:  animal veterinario caes gatos caes_gatos domesticos medico_veterinario vacinacao atestado cirurgia
+Topico #4:  consultoria veterinario previdencia_municipal devera_observadas embarque_desembarque comunitaria_publico orcamentarias_municipio conta_partir subseqa submetidos
+
+Topicos no Cluster_10 modelo LDA: 26
+Topico #0:  gestao_governamental equipe_urbana provas fundurb_municipal acarretara_infrator lote_numeros ocasiao entrega suporte_tecnica efeitos_estufa
+Topico #1:  bilhete bilhete_unico coletivo_urbana area_construidas menor branco concessionaria autorizado_executivo evitar gestor_fundo
+Topico #2:  bilhete atualizados_anualmente franca primario beneficios_concedido sentencas_judiciais termo_compromisso expedicao pecuniaria concessionaria_servicos
+Topico #3:  bilhete bilhete_unico sptrans sao_transporte plano_obras representantes_municipal esclarecimentos cometidas municipal_bibliotecas musica
+Topico #4:  consultoria previdencia_municipal devera_observadas embarque_desembarque comunitaria_publico conta_partir orcamentarias_municipio subseqa creches submetidos
+
+Topicos no Cluster_11 modelo LDA: 810
+Topico #0:  libras lingua lingua_brasileiro brasileiro_sinais sinais auditor habitacionais habitacional cohab cohab_sp
+Topico #1:  banheiros_quimicos banheiros quimicos poder_concedente portadoras concessionaria feiras_livre cao pessoas_portadoras assentamentos
+Topico #2:  placas energia venda similares arvores sinalizacao feiras_livre anuncios restaurantes descumprimento
+Topico #3:  gestantes visual bicicletas semaforos pedestres deficiencia_visual trafego cet companhia companhia_engenharia
+Topico #4:  concessionaria caixa automotores asfalto cadeiras restricao agencia exclusivamente_onibus veiculos_automotores circulacao
+
+Topicos no Cluster_12 modelo LDA: 3453
+Topico #0:  magisterio laercio_benko laercio qpe phs magisterio_municipal evolucao_funcional quadra_magisterio evolucao situado_avenida
+Topico #1:  acrescenta tarifa item cobranca condutor placas descumprimento obra motorista isencao
+Topico #2:  realizar_anualmente incluir_calendario domingo data_comemorado ferias sabado samba eventos_cidade internacional inserido
+Topico #3:  vacinacao retirada abono aposentadoria ocupantes proventos aa afastamento reajustes efetivo_exercicio
+Topico #4:  conscientizacao palestras estudantes exames pacientes combate psicologico creches aulas pedagogico
+
+Topicos no Cluster_13 modelo LDA: 33
+Topico #0:  gestao_governamental equipe_urbana provas fundurb_municipal acarretara_infrator lote_numeros ocasiao entrega suporte_tecnica efeitos_estufa
+Topico #1:  registro_codigo determinado_emplacamento bairro_nova endereco_postal localizado_bairro ademar endereco destinados_recursos fica_criterios vigente_suplementadas
+Topico #2:  atualizados_anualmente franca primario sentencas_judiciais termo_compromisso expedicao pecuniaria concessionaria_servicos vias_circulacao servidores_emprego
+Topico #3:  plano_obras esclarecimentos municipal_bibliotecas musica sao_abertos representantes_municipal acoes_educativas jacana transparencia_gestao nelo_rodolfo
+Topico #4:  consultoria previdencia_municipal devera_observadas embarque_desembarque comunitaria_publico orcamentarias_municipio conta_partir subseqa creches submetidos
+
+Topicos no Cluster_14 modelo LDA: 58
+Topico #0:  gestao_governamental equipe_urbana provas fundurb_municipal acarretara_infrator lote_numeros encontrar_amparo ocasiao entrega suporte_tecnica
+Topico #1:  branco amparo_legal area_construidas menor concessionaria cachoeirinha autorizado_executivo gestor_fundo encontrar_amparo higiene
+Topico #2:  pirituba jaragua presente_propositura amparo_legal encontrar_amparo denominacao_vias implantacao_correrao vias_logradouro subprefeitura_pirituba altura
+Topico #3:  plano_obras esclarecimentos municipal_bibliotecas musica sao_abertos representantes_municipal acoes_educativas jacana transparencia_gestao nelo_rodolfo
+Topico #4:  consultoria previdencia_municipal devera_observadas embarque_desembarque localizado_confluencia conta_partir comunitaria_publico orcamentarias_municipio subseqa creches
+
+Topicos no Cluster_15 modelo LDA: 34
+Topico #0:  gestao_governamental equipe_urbana provas fundurb_municipal acarretara_infrator lote_numeros ocasiao entrega suporte_tecnica efeitos_estufa
+Topico #1:  area_construidas menor branco concessionaria autorizado_executivo gestor_fundo higiene evitar publico_devera constantes_anexo
+Topico #2:  itaquera atualizados_anualmente franca primario vias_circulacao sentencas_judiciais termo_compromisso expedicao pecuniaria concessionaria_servicos
+Topico #3:  plano_obras esclarecimentos municipal_bibliotecas musica sao_abertos representantes_municipal acoes_educativas jacana transparencia_gestao nelo_rodolfo
+Topico #4:  itaquera subprefeitura_itaquera confluencia inominado_situado confluencia_ruas praca_inominado estrada altura livre_denominacao denominacao_localizado
+
+Topicos no Cluster_16 modelo LDA: 49
+Topico #0:  confluencia_rua gestao_governamental equipe_urbana provas fundurb_municipal acarretara_infrator lote_numeros ocasiao entrega suporte_tecnica
+Topico #1:  area_construidas menor branco concessionaria autorizado_executivo gestor_fundo higiene evitar publico_devera cachoeirinha
+Topico #2:  franca primario atualizados_anualmente sentencas_judiciais termo_compromisso expedicao pecuniaria concessionaria_servicos vias_circulacao servidores_emprego
+Topico #3:  plano_obras esclarecimentos municipal_bibliotecas musica sao_abertos representantes_municipal acoes_educativas jacana transparencia_gestao nelo_rodolfo
+Topico #4:  confluencia localizado_confluencia confluencia_rua confluencia_ruas inominado_localizado confluencia_avenida situado_confluencia itaquera prefeitura_regional capela
+
+Topicos no Cluster_17 modelo LDA: 59
+Topico #0:  gestao_governamental equipe_urbana provas fundurb_municipal localizado_avenida acarretara_infrator lote_numeros ocasiao cidade_dutra entrega
+Topico #1:  area_construidas menor branco concessionaria autorizado_executivo gestor_fundo higiene evitar publico_devera constantes_anexo
+Topico #2:  denominacao_logradouro dispoe_denominacao milton passa_denomina zona_sul despesas_presente inominado_situado natalini sul situado_bairro
+Topico #3:  jacana plano_obras esclarecimentos municipal_bibliotecas musica sao_abertos representantes_municipal acoes_educativas transparencia_gestao nelo_rodolfo
+Topico #4:  zona_sul sul denominacao_logradouro altura altura_rua confluencia consultoria bela localizado_confluencia inominado_situado
+
+Topicos no Cluster_18 modelo LDA: 58
+Topico #0:  gestao_governamental equipe_urbana provas fundurb_municipal acarretara_infrator lote_numeros ocasiao entrega suporte_tecnica efeitos_estufa
+Topico #1:  boi area_construidas menor autorizado_executivo branco concessionaria gestor_fundo higiene evitar publico_devera
+Topico #2:  altura localizado_altura altura_rua boi mirim travessa denomina_travessa inominado_localizado dispoe_denominacao cep
+Topico #3:  travessa mirim altura_rua altura plano_obras esclarecimentos municipal_bibliotecas musica sao_abertos representantes_municipal
+Topico #4:  mirim boi altura_rua consultoria localizado_confluencia confluencia altura previdencia_municipal aproximada inominado_situado
+
+Topicos no Cluster_19 modelo LDA: 40
+Topico #0:  prudente sapopemba vereadora_edir edir_sala setor_quadra edir denominacao_rua situado_ruas altura logradouro_inominado
+Topico #1:  prudente area_construidas menor branco concessionaria autorizado_executivo gestor_fundo higiene evitar publico_devera
+Topico #2:  atualizados_anualmente franca primario sentencas_judiciais termo_compromisso expedicao pecuniaria concessionaria_servicos chico_macena vias_circulacao
+Topico #3:  plano_obras esclarecimentos municipal_bibliotecas musica sao_abertos representantes_municipal acoes_educativas jacana transparencia_gestao nelo_rodolfo
+Topico #4:  consultoria previdencia_municipal devera_observadas embarque_desembarque natural comunitaria_publico orcamentarias_municipio conta_partir sapopemba subseqa
+
+Topicos no Cluster_20 modelo LDA: 34
+Topico #0:  gestao_governamental equipe_urbana ocasiao licitacao provas fundurb_municipal acarretara_infrator lote_numeros entrega suporte_tecnica
+Topico #1:  concessionaria area_construidas menor autorizado_executivo branco gestor_fundo higiene evitar publico_devera constantes_anexo
+Topico #2:  atualizados_anualmente franca primario sentencas_judiciais termo_compromisso expedicao pecuniaria concessionaria_servicos vias_circulacao servidores_emprego
+Topico #3:  confrontando reta area_municipal lado instrumentos_concessao concessionaria municipal_situado segmento esquerda linha_curva
+Topico #4:  consultoria previdencia_municipal devera_observadas embarque_desembarque comunitaria_publico orcamentarias_municipio conta_partir subseqa creches submetidos
+
+Topicos no Cluster_21 modelo LDA: 22
+Topico #0:  gestao_governamental equipe_urbana provas fundurb_municipal acarretara_infrator lote_numeros ocasiao entrega suporte_tecnica efeitos_estufa
+Topico #1:  cidade_irmas fica_declarados intercambio declaracao povos esferas servir fortalecimento declarados legislacao_municipal
+Topico #2:  atualizados_anualmente franca primario sentencas_judiciais termo_compromisso expedicao pecuniaria concessionaria_servicos declaracao vias_circulacao
+Topico #3:  cidade_irmas intercambio troca cooperacao_tecnica musica povos fortalecimento sao_firmar declarados declaracao
+Topico #4:  consultoria previdencia_municipal devera_observadas embarque_desembarque comunitaria_publico orcamentarias_municipio conta_partir subseqa creches submetidos
+
+Topicos no Cluster_22 modelo LDA: 48
+Topico #0:  gestao_governamental terreno equipe_urbana utilidade provas fundurb_municipal acarretara_infrator lote_numeros ocasiao entrega
+Topico #1:  utilidade declara_utilidade declarados_utilidade terreno declarados desapropriacao fica_declarados judicial area_localizado fundamento
+Topico #2:  atualizados_anualmente franca primario sentencas_judiciais termo_compromisso expedicao pecuniaria concessionaria_servicos vias_circulacao servidores_emprego
+Topico #3:  plano_obras esclarecimentos municipal_bibliotecas musica sao_abertos representantes_municipal acoes_educativas jacana transparencia_gestao nelo_rodolfo
+Topico #4:  consultoria previdencia_municipal devera_observadas embarque_desembarque comunitaria_publico orcamentarias_municipio conta_partir subseqa creches submetidos
+
+Topicos no Cluster_23 modelo LDA: 21
+Topico #0:  gestao_governamental equipe_urbana provas fundurb_municipal acarretara_infrator lote_numeros ocasiao entrega suporte_tecnica efeitos_estufa
+Topico #1:  area_construidas menor branco concessionaria autorizado_executivo gestor_fundo higiene evitar publico_devera constantes_anexo
+Topico #2:  atualizados_anualmente franca primario sentencas_judiciais termo_compromisso expedicao pecuniaria concessionaria_servicos vias_circulacao servidores_emprego
+Topico #3:  viaduto itaim plano_obras esclarecimentos situado_avenida municipal_bibliotecas musica moraes sao_abertos representantes_municipal
+Topico #4:  consultoria previdencia_municipal devera_observadas embarque_desembarque comunitaria_publico orcamentarias_municipio conta_partir subseqa creches submetidos
+
+Topicos no Cluster_24 modelo LDA: 42
+Topico #0:  praca_inominado gestao_governamental equipe_urbana situado_ruas provas fundurb_municipal acarretara_infrator lote_numeros ocasiao entrega
+Topico #1:  praca_inominado lado localizado_ruas area_construidas menor branco concessionaria autorizado_executivo gestor_fundo higiene
+Topico #2:  franca praca_inominado atualizados_anualmente primario sentencas_judiciais azul termo_compromisso expedicao pecuniaria concessionaria_servicos
+Topico #3:  localizado_ruas praca_inominado plano_obras esclarecimentos claudinho_souza claudinho municipal_bibliotecas musica sao_abertos representantes_municipal
+Topico #4:  praca_inominado inominado_situado jd consultoria confluencia localizado_confluencia aricanduva previdencia_municipal devera_observadas embarque_desembarque
+
+Topicos no Cluster_25 modelo LDA: 126
+Topico #0:  situado_ruas perus parque_municipal gestao_governamental zona_norte equipe_urbana implantacao_parque psol provas fundurb_municipal
+Topico #1:  casa_verde subprefeitura_casa cachoeirinha zona_norte brasilandia norte parque_municipal criado_parque altura travessa
+Topico #2:  denominacao_situado parque_municipal livre_denominacao criado_parque situado_ruas freguesia toninho brasilandia criacao_parque bairro_vila
+Topico #3:  brasilandia freguesia denominacao_situado claudinho claudinho_souza situado_confluencia subprefeitura_freguesia confluencia situado_bairro confluencia_avenida
+Topico #4:  consultoria previdencia_municipal conta_partir devera_observadas embarque_desembarque comunitaria_publico orcamentarias_municipio subseqa creches submetidos
+
+Topicos no Cluster_26 modelo LDA: 35
+Topico #0:  gestao_governamental equipe_urbana provas fundurb_municipal acarretara_infrator lote_numeros ocasiao entrega suporte_tecnica efeitos_estufa
+Topico #1:  area_construidas menor branco concessionaria autorizado_executivo gestor_fundo higiene evitar publico_devera constantes_anexo
+Topico #2:  ubs basica_saude unidade_basica ama saude_municipio rua_dr dotacao cep assistencia_medico atualizados_anualmente
+Topico #3:  plano_obras esclarecimentos municipal_bibliotecas musica sao_abertos representantes_municipal acoes_educativas jacana transparencia_gestao nelo_rodolfo
+Topico #4:  unidade_basica consultoria previdencia_municipal devera_observadas embarque_desembarque comunitaria_publico basica_saude orcamentarias_municipio conta_partir subseqa
+
+Topicos no Cluster_27 modelo LDA: 65
+Topico #0:  gestao_governamental equipe_urbana provas fundurb_municipal acarretara_infrator lote_numeros ocasiao entrega suporte_tecnica efeitos_estufa
+Topico #1:  delimitado area_construidas vias_circulacao menor branco concessionaria autorizado_executivo gestor_fundo higiene evitar
+Topico #2:  penha mooca delimitado vias_circulacao subprefeitura_penha toninho logradouro_inominado subprefeitura_mooca circulacao moraes
+Topico #3:  mooca plano_obras esclarecimentos municipal_bibliotecas musica sao_abertos representantes_municipal acoes_educativas jacana transparencia_gestao
+Topico #4:  bela subprefeitura_mooca consultoria confluencia inominado_situado previdencia_municipal mooca devera_observadas embarque_desembarque comunitaria_publico
+
+Topicos no Cluster_28 modelo LDA: 1062
+Topico #0:  conflitos agente_apoio terminal segmento vigilancia sao_paulista cargos_emprego integracao subseqa_entes sao_manter
+Topico #1:  transporte_escolas escolas_municipal ensino_infantil branco tiete rio_tiete cor distancia castelo_branco capao_redondo
+Topico #2:  denominacao_rua cep logradouro_inominado altura delimitado padre dispoe_denominacao confluencia bairro_vila lapa
+Topico #3:  trecho fica_revogadas aprovar_plano psol atl sr alinhamento toninho_vespoli vespoli planta
+Topico #4:  parelheiros guaianases cei carmo subprefeitura_campo jd complexo_viario estrada limpo inominado_situado
+
+Topicos no Cluster_29 modelo LDA: 67
+Topico #0:  gestao_governamental equipe_urbana provas fundurb_municipal acarretara_infrator lote_numeros ocasiao entrega suporte_tecnica efeitos_estufa
+Topico #1:  area_construidas menor branco concessionaria autorizado_executivo gestor_fundo higiene evitar publico_devera constantes_anexo
+Topico #2:  travessa denomina_travessa travessa_rua atualizados_anualmente franca primario itaquera sentencas_judiciais altura termo_compromisso
+Topico #3:  travessa denomina_travessa travessa_rua altura itaim inominado_situado toninho penha localizado_ruas vereadora_juliana
+Topico #4:  travessa_rua consultoria previdencia_municipal inominado_situado devera_observadas orcamentarias_municipio embarque_desembarque travessa conta_partir comunitaria_publico
+
+Topicos no Cluster_30 modelo LDA: 67
+Topico #0:  gestao_governamental equipe_urbana provas fundurb_municipal acarretara_infrator lote_numeros ocasiao entrega suporte_tecnica efeitos_estufa
+Topico #1:  itaim area_construidas menor branco concessionaria autorizado_executivo gestor_fundo higiene evitar publico_devera
+Topico #2:  cod franca atualizados_anualmente primario itaim sentencas_judiciais termo_compromisso expedicao pecuniaria concessionaria_servicos
+Topico #3:  itaim cod subprefeitura_itaim denominacao_localizado quintas livre_denominacao localizado_ruas praca_inominado orcamentarias_vigente consignadas
+Topico #4:  itaim caps consultoria previdencia_municipal devera_observadas embarque_desembarque jabaquara comunitaria_publico orcamentarias_municipio conta_partir
+
+###################################################################################################################################
+###################################################################################################################################
+###################################################################################################################################
+
+
+
+Topicos no Cluster_29_30 modelo LDA: 134
+Topico #0:  cod vaz situado_ruas bairro_sao nascimento gestao_governamental equipe_urbana provas fundurb_municipal acarretara_infrator
+Topico #1:  cod itaim livre_denominacao subprefeitura_itaim denominacao_localizado quintas situado_ruas cel vaz bairro_sao
+Topico #2:  travessa denomina_travessa cod travessa_rua atualizados_anualmente franca altura primario sentencas_judiciais termo_compromisso
+Topico #3:  itaim travessa denomina_travessa padre situado_ruas travessa_rua flores prefeitura_regional altura inominado_localizado
+Topico #4:  travessa_rua caps consultoria itaim jabaquara previdencia_municipal inominado_situado devera_observadas orcamentarias_municipio embarque_desembarque
+
+Topicos no Cluster_27_28 modelo LDA: 1127
+Topico #0:  conflitos flores mes_agosto psol conscientizacao mapa carmo domingo toninho_vespoli unidade_escolas
+Topico #1:  transporte_escolas capela subprefeitura_capela orcamentarias_vigente sao_paulista vigente_suplementadas consignadas_orcamentarias cor consignadas bandeira
+Topico #2:  delimitado logradouro_inominado confluencia cep altura trecho estrada bairro_vila denominacao_rua lapa
+Topico #3:  jacana tremembe subprefeitura_jacana samia_bomfim memoria funaps psol denominacao_rua patrimonio_cultural plano_obras
+Topico #4:  guaianases subprefeitura_guaianases agente_apoio situado_rua segmento vigilancia inominado_situado barra ensino_infantil leito
+
+Topicos no Cluster_26_28 modelo LDA: 1162
+Topico #0:  ensino_infantil institui_municipal frei serra infantil_ensino area_municipais corte rede_privadas fase escolas_municipal
+Topico #1:  maxima construidas_computadores area_construidas equipe_publico restricao computadores parametros vagas_estacionamento classificacao zona_uso
+Topico #2:  delimitado coronel prefeitura_regional logradouro_inominado denominacao_rua cep confluencia altura inominado_localizado estrada
+Topico #3:  transporte_escolas gratuito veiculos_transporte funaps escolas_municipal acervo departamento_transporte memoria fica_revogadas suspensao
+Topico #4:  cei zona_uso aproveitamento coeficiente_aproveitamento area_construidas outorga_onerosa outorga impacto usos_residenciais usos
+
+Topicos no Cluster_25_28 modelo LDA: 1288
+Topico #0:  psol samia_bomfim situado_ruas perus campanhas_educativas antiga mooca frei institui_municipal alto
+Topico #1:  construidas_computadores escolas_municipal maxima area_construidas cei zona_uso formosa equipe_publico emei restricao
+Topico #2:  coronel delimitado denominacao_rua logradouro_inominado confluencia prefeitura_regional cep altura inominado_localizado bairro_vila
+Topico #3:  jacana aproveitamento regional_estrategico coeficiente_aproveitamento zona_uso outorga_onerosa tremembe outorga plano_regional conflitos
+Topico #4:  transporte_escolas agente_apoio segmento suspensao vigilancia proibida departamento_transporte gratuito operadores certificado
+
+Topicos no Cluster_24_28 modelo LDA: 1330
+Topico #0:  conflitos sao_paulista mapa unidade_escolas flores terreno conscientizacao implantacao_parque envolvidos solucoes
+Topico #1:  casa_verde cachoeirinha subprefeitura_casa orcamentarias_vigente praca_inominado consignadas_orcamentarias bandeira vigente_suplementadas consignadas zona_norte
+Topico #2:  delimitado logradouro_inominado confluencia altura cep denominacao_rua estrada bairro_vila padre trecho
+Topico #3:  brasilandia freguesia transporte_escolas coronel coronel_telhada escolas_municipal claudinho claudinho_souza denominacao_situado linear
+Topico #4:  area_construidas impacto memoria zona_uso construidas_computadores construtivo potencial aproveitamento distancia acervo
+
+Topicos no Cluster_23_28 modelo LDA: 1351
+Topico #0:  praca_inominado samia_bomfim campanhas_educativas psol anuais situado_ruas consignadas_orcamentarias estadual_municipal recursos_destinados consignadas
+Topico #1:  bandeira psol casa_verde toninho_vespoli pinheiros vespoli limpo toninho subprefeitura_campo cachoeirinha
+Topico #2:  mooca parque_municipal delimitado barreto penha gilson_barreto gilson publicacao_revogadas carmo subprefeitura_penha
+Topico #3:  cep confluencia altura praca_inominado denominacao_rua estrada trecho padre viaduto inominado_localizado
+Topico #4:  guaianases basica_saude subprefeitura_guaianases unidade_basica situado_rua conta_dotacao dotacao alfredinho inominado_situado jd
+
+Topicos no Cluster_21_22 modelo LDA: 70
+Topico #0:  utilidade terreno declara_utilidade gestao_governamental equipe_urbana judicial provas fundurb_municipal localizado_avenida acarretara_infrator
+Topico #1:  utilidade declara_utilidade declarados declarados_utilidade fica_declarados terreno cidade_irmas desapropriacao declaracao fundamento
+Topico #2:  atualizados_anualmente particulares franca primario declaracao sentencas_judiciais termo_compromisso expedicao pecuniaria concessionaria_servicos
+Topico #3:  cidade_irmas intercambio cooperacao_tecnica povos troca musica declarados fortalecimento sao_firmar turismo
+Topico #4:  consultoria previdencia_municipal devera_observadas embarque_desembarque conta_partir comunitaria_publico orcamentarias_municipio subseqa creches submetidos
+
+Topicos no Cluster_21_28 modelo LDA: 1421
+Topico #0:  parque_municipal utilidade psol mooca terreno leito declara_utilidade criado_parque declarados_utilidade declarados
+Topico #1:  area_construidas construidas_computadores zona_uso maxima aproveitamento computadores parametros coeficiente_aproveitamento equipe_publico restricao
+Topico #2:  ermelino ermelino_matarazzo ama matarazzo casa_verde franca subprefeitura_casa basica_saude unidade_basica subprefeitura_ermelino
+Topico #3:  delimitado altura cep logradouro_inominado confluencia prefeitura_regional denominacao_rua praca_inominado inominado_localizado padre
+Topico #4:  transporte_escolas impacto gratuito distancia cei veiculos_transporte infantil_cei escolas_municipal conflitos unidade_escolas
+
+Topicos no Cluster_20_28 modelo LDA: 1455
+Topico #0:  praca_inominado casa_verde psol conflitos subprefeitura_casa situado_ruas toninho_vespoli vespoli mooca toninho
+Topico #1:  lapa delimitado parque_municipal logradouro_inominado unificados utilidade educacional_unificados bairro_vila barreto branco
+Topico #2:  basica_saude unidade_basica saude_municipio franca ama conta_partir dispoe_inclusao hospitais estabelecimentos_diretrizes certificado
+Topico #3:  confluencia denominacao_rua cep trecho altura estrada padre viaduto inominado_situado prefeitura_regional
+Topico #4:  capela orcamentarias_vigente subprefeitura_capela sao_paulista consignadas_orcamentarias vigente_suplementadas consignadas praca_inominado jd alfredinho
+
+Topicos no Cluster_19_28 modelo LDA: 1495
+Topico #0:  praca_inominado prudente psol sapopemba gilson_barreto mooca paz gilson barreto denominacao_rua
+Topico #1:  lapa confluencia pinheiros estrada delimitado logradouro_inominado viaduto inominado_localizado limpo trecho
+Topico #2:  casa_verde ermelino penha basica_saude vias_circulacao subprefeitura_casa ermelino_matarazzo unidade_basica cachoeirinha matarazzo
+Topico #3:  cep escolas_municipal brasilandia denominacao_rua denominacao_situado freguesia parelheiros altura livre_denominacao situado_rua
+Topico #4:  funaps lajeado rua_navio navio_negreiro certificado veiculos_transporte renovacao impacto_ambiental rua_venus operadores
+
+Topicos no Cluster_17_18 modelo LDA: 117
+Topico #0:  gestao_governamental cidade_dutra localizado_avenida equipe_urbana provas fundurb_municipal acarretara_infrator lote_numeros ocasiao entrega
+Topico #1:  boi area_construidas menor branco autorizado_executivo concessionaria gestor_fundo higiene evitar mirim
+Topico #2:  altura denominacao_logradouro dispoe_denominacao altura_rua localizado_altura boi mirim zona_sul milton travessa
+Topico #3:  jacana plano_obras esclarecimentos municipal_bibliotecas musica sao_abertos representantes_municipal acoes_educativas transparencia_gestao travessa
+Topico #4:  zona_sul sul denominacao_logradouro mirim confluencia consultoria inominado_situado altura altura_rua localizado_confluencia
+
+Topicos no Cluster_17_28 modelo LDA: 1612
+Topico #0:  prudente sapopemba conflitos paz vereadora_edir edir edir_sala cultura_paz finalidade_incluir eventos_cidade
+Topico #1:  utilidade parque_municipal terreno declarados confrontando declarados_utilidade desapropriacao cidade_irmas planta reta
+Topico #2:  altura cep logradouro_inominado delimitado dispoe_denominacao confluencia praca_inominado inominado_localizado estrada bairro_vila
+Topico #3:  jacana transporte_escolas tremembe subprefeitura_jacana escolas_municipal gratuito veiculos_transporte distancia agente_apoio matricula
+Topico #4:  basica_saude unidade_basica saude_municipio cei infantil_cei conta_partir municipais_ensino corte mooca patrimonio_cultural
+
+Topicos no Cluster_15_16 modelo LDA: 83
+Topico #0:  confluencia_rua gestao_governamental equipe_urbana provas fundurb_municipal acarretara_infrator lote_numeros rua_sao ocasiao entrega
+Topico #1:  area_construidas branco menor concessionaria autorizado_executivo gestor_fundo higiene evitar publico_devera cachoeirinha
+Topico #2:  itaquera franca primario atualizados_anualmente vias_circulacao sentencas_judiciais termo_compromisso expedicao pecuniaria concessionaria_servicos
+Topico #3:  plano_obras esclarecimentos municipal_bibliotecas musica sao_abertos representantes_municipal acoes_educativas jacana transparencia_gestao nelo_rodolfo
+Topico #4:  confluencia itaquera confluencia_rua localizado_confluencia subprefeitura_itaquera confluencia_ruas inominado_localizado situado_confluencia confluencia_avenida inominado_situado
+
+Topicos no Cluster_15_28 modelo LDA: 1695
+Topico #0:  conflitos terminal cargos_emprego institui_gratificacao desempenho_atividades concedido_servidores prudente equipe_esportes integracao importe
+Topico #1:  cei infantil_cei utilidade ensino_infantil localizacao religiosos minima municipais_ensino declarados_utilidade distancia
+Topico #2:  escolas_municipal brasilandia freguesia educacional_unificados ubs coronel_telhada unificados coronel capao_redondo centro_educacional
+Topico #3:  confrontando transporte_escolas fica_revogadas reta cidade_irmas segmento terreno perimetro zona_uso distancia
+Topico #4:  altura confluencia delimitado logradouro_inominado cep denominacao_rua inominado_localizado dispoe_denominacao praca_inominado itaquera
+
+Topicos no Cluster_14_28 modelo LDA: 1753
+Topico #0:  terreno lixo envio dizeres_respeito seguintes_objetivos corte vereadora_claudete corregos desenvolvimento_acoes verbas
+Topico #1:  confrontando reta utilidade conflitos fica_declarados declarados segmento impacto declarados_utilidade distancia
+Topico #2:  escolas_municipal jacana ubs transporte_escolas emei basica_saude unidade_basica tremembe subprefeitura_jacana ensino_infantil
+Topico #3:  cidade_irmas memoria acervo intercambio paz troca cultura_paz fortalecimento agente_apoio declaracao
+Topico #4:  confluencia altura delimitado logradouro_inominado cep inominado_localizado dispoe_denominacao estrada praca_inominado itaquera
+
+Topicos no Cluster_14_30 modelo LDA: 1887
+Topico #0:  corte terreno serra lixo envio dizeres_respeito seguintes_objetivos vereadora_claudete corregos desenvolvimento_acoes
+Topico #1:  confrontando reta utilidade declarados fica_declarados declarados_utilidade conflitos segmento impacto distancia
+Topico #2:  escolas_municipal educacional_unificados unificados ubs centro_educacional jacana transporte_escolas emei basica_saude unidade_basica
+Topico #3:  cidade_irmas memoria acervo intercambio troca paz fortalecimento cultura_paz agente_apoio declaracao
+Topico #4:  travessa itaim altura confluencia logradouro_inominado delimitado inominado_localizado denomina_travessa praca_inominado cep
+
+Topicos no Cluster_13_30 modelo LDA: 1920
+Topico #0:  conflitos paz memoria finalidade_incluir cultura_paz eventos_cidade gilson_barreto gilson barreto unico_fica
+Topico #1:  utilidade confrontando registro_codigo determinado_emplacamento reta bairro_nova endereco_postal declarados_utilidade declarados ademar
+Topico #2:  pirituba escolas_municipal parelheiros parque_municipal jaragua jacana coronel emei dispoe_denominacao tremembe
+Topico #3:  cidade_irmas transporte_escolas impacto area_construidas construtivo potencial segmento intercambio zona_uso troca
+Topico #4:  travessa altura itaim confluencia logradouro_inominado delimitado inominado_localizado praca_inominado cep denomina_travessa
+
+Topicos no Cluster_11_12 modelo LDA: 4263
+Topico #0:  magisterio tribunal reajustes inativos sr atl aa abono pensionistas aposentadoria
+Topico #1:  samba perus escolas_samba banheiros_quimicos banheiros povos quimicos domingo localizado_bairro centro_olimpicos
+Topico #2:  placas acrescenta pacientes gratuito exames obrigatoriamente estudantes item descumprimento aurelio
+Topico #3:  realizar_anualmente semana_municipal incluir_calendario conscientizacao domingo eventos_cidade data_comemorado ultimo semana_mes sabado
+Topico #4:  restricao exclusivamente_onibus corredores laercio_benko circulacao laercio circulacao_veiculos faixa_exclusivamente phs transito_veiculos
+
+Topicos no Cluster_10_12 modelo LDA: 4289
+Topico #0:  incluir_calendario data_comemorado museu sabado internacional turismo domingo eventos_cidade lingua perus
+Topico #1:  samba magisterio tribunal reajustes abono inativos pensionistas aposentadoria procurador domingo
+Topico #2:  restricao exclusivamente_onibus adilson corredores natalini adilson_amadeu circulacao amadeu circulacao_veiculos faixa_exclusivamente
+Topico #3:  conscientizacao placas acrescenta palestras doencas gratuito exames combate estudantes obrigatoriamente
+Topico #4:  arvores maternidade nascido rec rec_nascido plantio arborea asfalto constar_calendario planta
+
+Topicos no Cluster_8_9 modelo LDA: 76
+Topico #0:  movel gestao_governamental equipe_urbana provas fundurb_municipal acarretara_infrator lote_numeros populacao_rua caes_gatos ocasiao
+Topico #1:  veterinario area_construidas branco menor concessionaria higiene autorizado_executivo gestor_fundo evitar empreendedor
+Topico #2:  veterinario atualizados_anualmente franca primario sentencas_judiciais termo_compromisso expedicao pecuniaria concessionaria_servicos vias_circulacao
+Topico #3:  animal sangue veterinario caes doador gatos doacao caes_gatos domesticos medico_veterinario
+Topico #4:  consultoria veterinario previdencia_municipal devera_observadas embarque_desembarque conta_partir comunitaria_publico orcamentarias_municipio subseqa creches
+
+Topicos no Cluster_8_12 modelo LDA: 4365
+Topico #0:  domingo sabado perus realizar_anualmente samba jesus eventos_cidade incluir_calendario lingua ultimo
+Topico #1:  aa magisterio tribunal exercicio_cargos reajustes cargos_efetivo abono inativos pensionistas aposentadoria
+Topico #2:  data_comemorado casa_cultura cohab situado_rua habitacional incluir_calendario inominado_localizado natalini azul itaquera
+Topico #3:  conscientizacao exames placas acrescenta palestras inserido hospitais gratuito combate doencas
+Topico #4:  asfalto olimpicos denomina_parque localizado_avenida reis centro_olimpicos confluencia ecologico confluencia_rua pavimentacao
+
+Topicos no Cluster_7_12 modelo LDA: 4512
+Topico #0:  conscientizacao acrescenta placas exames gratuito palestras doencas cidadao pacientes aurelio
+Topico #1:  domingo incluir_calendario data_comemorado samba perus realizar_anualmente eventos_cidade escolas_samba situado_rua despesas_presente
+Topico #2:  magisterio tribunal reajustes aa inativos abono jesus pensionistas aposentadoria sr
+Topico #3:  museu casa_cultura exclusivamente_onibus laercio_benko laercio phs faixa_exclusivamente corredores trafego companhia
+Topico #4:  olimpicos operacoes_credito operacoes garcia denomina_parque cohab confluencia cep localizado_avenida cachoeirinha
+
+Topicos no Cluster_6_12 modelo LDA: 4591
+Topico #0:  conscientizacao acrescenta placas doencas gratuito palestras exames aurelio pv obrigatoriamente
+Topico #1:  magisterio abono aposentadoria sr atl docentes qpe magisterio_municipal proventos ocupantes
+Topico #2:  jesus situado_rua azul inominado_localizado despesas_presente subprefeitura_cidade operacoes_credito operacoes historico_cultural itaim
+Topico #3:  samba domingo perus casa_cultura escolas_samba habitacional polo povos polo_cultural habitacionais
+Topico #4:  iptu isencao predial territorial imposto_predial predial_territorial iss data_comemorado lingua imposto_servicos
+
+Topicos no Cluster_4_5 modelo LDA: 150
+Topico #0:  indice_sao infracao_disposto disposto_acarretara moeda recomponha_poder sao_extincao criado_federal acarretara aquisitivo ibge
+Topico #1:  area_construidas menor repasse concessionaria branco autorizado_executivo gestor_fundo higiene evitar publico_devera
+Topico #2:  alcool bebidas bebidas_alcool proibicao ibge venda amplo atualizados_anualmente dobro variacao
+Topico #3:  variacao ipca moeda aquisitivo ibge amplo extincao perda estatistica acumulada
+Topico #4:  consultoria previdencia_municipal devera_observadas embarque_desembarque comunitaria_publico orcamentarias_municipio conta_partir subseqa submetidos creches
+
+Topicos no Cluster_4_12 modelo LDA: 4741
+Topico #0:  conscientizacao palestras obra inserido realizar_anualmente popular combate domingo semana_municipal providenciasa
+Topico #1:  aa exercicio_cargos cargos_efetivo admitidos magisterio perus abono aposentadoria atl sr
+Topico #2:  isencao iptu predial sangue territorial imposto_predial predial_territorial iss isentos contribuinte
+Topico #3:  placas descumprimento dobro proibida ipca variacao amplo ibge estatistica acumulada
+Topico #4:  exames maternidade cancer nascido pacientes rec rec_nascido incluir_calendario sabado gestantes
+
+Topicos no Cluster_2_3 modelo LDA: 185
+Topico #0:  fica_inserido inserido festa calendario_eventos realizar_anualmente incluir_calendario eventos_cidade data_comemorado mes_setembro patricia_bezerra
+Topico #1:  eventos_cidade incluir_calendario fica_inserido inserido calendario_eventos finalidade_incluir domingo tadeu mes_agosto goulart
+Topico #2:  sao_celebrar celebrar oficial_municipio reis incluir_calendario implantacao_correrao realizar_anualmente tematicas unico_fica finalidade_incluir
+Topico #3:  festa musica finalidade_incluir eventos_cidade vereadora_edir incluir_calendario edir edir_sala anualmente_mes calendario_eventos
+Topico #4:  incluir_calendario oficial_municipio natalini pv fica_incluir constar_calendario cabiveis eventos_municipio municipal_decreta institui_passa
+
+Topicos no Cluster_1_3 modelo LDA: 297
+Topico #0:  fica_inserido inserido realizar_anualmente patricia_bezerra sabado bezerra municipal_pessoas infancia conferencias progressiva
+Topico #1:  eventos_cidade fica_inserido inserido incluir_calendario calendario_eventos finalidade_incluir vereadora_edir edir_sala musica edir
+Topico #2:  sao_celebrar eventos_municipio celebrar realizar_anualmente data_eventos constar_calendario passa_constar oficial_data institui_passa premio
+Topico #3:  musica festa envidara_esforcos esforcos claudinho_souza claudinho domingo negra realizacao_eventos benedito
+Topico #4:  festa incluir_calendario institui_passa oficial_municipio passa_constar constar_calendario eventos_municipio eventos_institui institui_calendario natalini
+
+Topicos no Cluster_1_12 modelo LDA: 5038
+Topico #0:  magisterio reajustes tribunal aa lingua pensionistas abono inativos aposentadoria diretoria
+Topico #1:  estudantes isencao exames cidadao iptu psicologico incentivar firmar gratuito pedagogico
+Topico #2:  incluir_calendario realizar_anualmente eventos_cidade inserido eventos_municipio domingo semana_municipal fica_inserido conscientizacao oficial_municipio
+Topico #3:  placas proibida descumprimento acrescenta dobro ipca variacao amplo acumulada estatistica
+Topico #4:  casa_cultura natalini municipal_decreta inominado_localizado despesas_presente pv prado situado_avenida olimpicos denomina_parque
+
+Topicos no Cluster_1_30 modelo LDA: 6958
+Topico #0:  escolas_municipal emei perus acrescenta_paragrafo lingua denomina_parque polo acrescenta libras parque_linear
+Topico #1:  isencao iptu sr territorial atl estudantes tribunal predial mensal turismo
+Topico #2:  incluir_calendario eventos_cidade realizar_anualmente inserido eventos_municipio domingo fica_inserido finalidade_incluir conscientizacao festa
+Topico #3:  placas proibida gratuito descumprimento obrigatoriamente ipca concessionaria exames dobro estatistica
+Topico #4:  itaim travessa altura confluencia cod inominado_localizado praca_inominado delimitado logradouro_inominado cep

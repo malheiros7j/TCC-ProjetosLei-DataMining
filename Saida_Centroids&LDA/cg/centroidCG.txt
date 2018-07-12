@@ -1,0 +1,110 @@
+n_documentos:3126 	 n_palavras: 1777 	 
+__________________________________________________________________________________
+
+
+Cluster#0(72):centro_educacao educacao_infantil infantil ceinf professora localizada_rua dedicou homenagem pedagogico faleceu mae justa_homenagem dedicacao moreninhas justa -> EDUCACAO
+
+Cluster#1(106):portadores portadoras pessoas_portadoras deficientes necessario_especiais portadores_deficiencia portadoras_deficiencia pessoas_deficiencia acessibilidade mobilidade mobilidade_reduzir 
+deficiencia_fisica portadores_necessario locomocao auditiva -> ASSISTENCIA SOCIAL / INCLUSAO
+
+Cluster#2(170):vigorar_redacao vigorar habitacao imoveis municipal_habitacao imovel lotes nr altera_dispositivos habitacional parcela issqn receita debitos regularizacao -> ATOS POLITICOS -> URBANO
+
+Cluster#3(168):farmacia similares farmaceutico clientes sanitaria penalidades reincidencia reais defesa_consumidor alvara restaurantes supermercados infracao infrator venda -> INDUSTRIA E COMERCIO
+
+Cluster#4(44): trecho trecho_compreendido compreendido presente_apreciacao casa_aprovacao denominacao denomina_rua vila travessa encaminhamos_presente conta_costumeira costumeira parcela apreciacao propoe
+-> ATOS POLITICOS ->NOMEACAO DE RUAS
+
+Cluster#5(55):  unidade_basica basica_saude saude_familia medicina localizada_bairro denomina_dr universidade santa_casa universidade_federal saude_municipio clinicas hospital celso_ianaze santa faleceu
+-> SAUDE
+
+Cluster#6(30):  incendio bombeiros patrimonio_historia corpo_bombeiros patrimonio corpo militar edificios municipal_protecao prevencao_combate artistico treinamento emergencia primeira_socorros edificacoes
+-> SEGURANCA
+
+Cluster#7(129):  feiras lixo reciclaveis musica turismo feiras_livre artistico plasticos materiais coletivo_seletiva descarte reciclagem seletiva turistico ambiental
+-> MEIO AMBIENTE / CULTURA
+
+Cluster#8(122):  municipal_associacao associacao_moradores declara espirita lucrativos comunitaria unanimidade vereador_presente unanimidade_vereador associados simbolica declaracao_utilidade religiosa direito_privadas declaracao -> ATOS POLITICOS 
+
+Cluster#9(205):  sr futebol vila faleceu souza travessa praca_localizada ruas santa homenagear sra amigos tem_filhos regiao homenagem
+-> ATOS POLITICOS -> HOMENAGENS
+
+Cluster#10(142):  calendario comemorado calendario_oficial oficial ser_comemorado oficial_eventos semana_municipal eventos_municipio comemorado_anualmente festa oficial_municipio institui_semana institui_municipal incluindo_calendario conscientizacao -> ATOS POLITICOS -> INSTITUICAO DE DIAS FESTIVOS/FERIADOS/EVENTOS 
+
+Cluster#11(83):  edil prof presidencia presidencia_nobres aquiescencia_presidencia rocha aquiescencia costumeira_aquiescencia costumeira conta_costumeira encaminhamos_presente museu submetemos_apreciacao localizada_rua apreciacao -> ATOS POLITICOS
+
+
+Cluster#13(31):  agentes jornada agentes_comunitaria jornada_trabalho comunitaria_saude comunitaria categoria diario fixado competencia_legislativo psicologia visa_atendimento enfermagem desempenho legislativo_municipal -> DIREITO DO TRABALHO
+
+Cluster#14(20):  vacina vacinacao exposicao programa_municipal etaria faixa_etaria reduzir cancer obrigatoriedade faixa imunidade ocupacao prevenir adultos institui_programa -> SAUDE
+
+Cluster#15(285):  alcool onibus placas ambiental bicicleta bebidas bebidas_alcool mosquito ecologico dengue acidentes pedestres parque cacambas pontos -> INDUSTRIA COMERCIO / SEGURANCA 
+
+Cluster#16(93):  emergencia socorros monitoramento primeira_socorros video acidentes guarda combustiveis vitimas imagens urgencia aerea hospital ocorrencia postos -> SAUDE
+
+Cluster#17(44):  estacionamento vagas estacionamento_veiculos comercial clientes cobranca gratuidade central reserva ordenamento veiculos_automotores automotores pedestres condutor cobrado 
+-> INDUSTRIA E COMERCIO
+
+Cluster#18(160):  mato_grossense grossense sul_mato prefeito advogados justica universidade rio premio nery athayde_nery athayde homenagem militar manoel -> ATOS POLITICOS -> HOMENAGENS
+
+Cluster#19(37):  animal caes veterinario zoonoses proprietario domestica sanitaria abandono vacinacao porte cirurgia proibida medicina vias_publico maus_trata -> MEIO AMBIENTE -> ANIMAIS
+
+Cluster#20(132):  passageiros eletronico taxistas motivos_taxa permissao municipal_transporte agetran internet permissionario velocidade coletivo_urbano transporte_transito condutor servicos_publico agencia
+-> INDUSTRIA E COMERCIO
+
+Cluster#21(464):  estudantes alimentacao psicologia drogas exames sexual obesidade escola_rede fundamental aulas municipal_educacao matriculados formacao atencao orientacao
+-> EDUCACAO
+
+Cluster#22(33):  doadores sangue doacao medula medula_ossea ossea voluntarios gratuidade incentivo ato estimular isencao desconto maternidade incentivar
+-> SAUDE
+
+Cluster#23(109):  denominacao denominacao_rua denomina_rua altera_denominacao passa_denomina localizada_bairro pedra loteamento homenagem logradouros faleceu vila homenagear fica_altera favoraveis_contrario
+-> ATOS POLITICOS -> NOMEACAO DE RUAS E HOMENAGENS
+
+Cluster#24(46):  cancer odontologia amigos exposicao exames celso_ianaze hospital clinicas celso associacao_amigos universidade diagnostico lar preventivas higiene
+-> SAUDE
+
+Cluster#25(46):  iptu isencao territorial_urbano predial_territorial predial territorial contribuinte imposto_predial imovel imoveis propriedade religiosa sala_minimo aposentados debitos
+-> TRIBUTARIO
+
+Cluster#26(37):  maternidade recem_nasceu gestantes recem teste bebidas maes mae exames licenca nascimento hospitais hospital auditiva pos
+-> SAUDE
+
+Cluster#27(41):  indigenas concurso vagas reserva concurso_publico reserva_vagas negros candidatos desemprego inscricao inclusao regime mercado_trabalho igualdade aberto
+-> ASSISTENCIA SOCIAL / INCLUSAO
+
+Cluster#28(97):  sede_capital declara visa_declarada lucrativos leis_submetemos proposicao_apresentamos apresentamos_casa direito_privadas estatuto fundacao ilustres_pares municipal_associacao submetemos_apreciacao encaminhamos_presente filantropicas
+-> ATOS POLITICOS
+
+Cluster#29(62):  tarifa energia concessionaria eletrica energia_eletrica esgoto cobranca empresas_concessionaria corte iluminacao isencao servicos_publico cobrado contribuicao contribuinte
+-> INDUSTRIA E COMERCIO 
+
+Cluster0:72 documentos, esse cluster representa: 2.30% no total
+Cluster1:106 documentos, esse cluster representa: 3.39% no total
+Cluster2:170 documentos, esse cluster representa: 5.44% no total
+Cluster3:168 documentos, esse cluster representa: 5.37% no total
+Cluster4:44 documentos, esse cluster representa: 1.41% no total
+Cluster5:55 documentos, esse cluster representa: 1.76% no total
+Cluster6:30 documentos, esse cluster representa: 0.96% no total
+Cluster7:129 documentos, esse cluster representa: 4.13% no total
+Cluster8:122 documentos, esse cluster representa: 3.90% no total
+Cluster9:205 documentos, esse cluster representa: 6.56% no total
+Cluster10:142 documentos, esse cluster representa: 4.54% no total
+Cluster11:83 documentos, esse cluster representa: 2.66% no total
+Cluster12:60 documentos, esse cluster representa: 1.92% no total
+Cluster13:31 documentos, esse cluster representa: 0.99% no total
+Cluster14:20 documentos, esse cluster representa: 0.64% no total
+Cluster15:285 documentos, esse cluster representa: 9.12% no total
+Cluster16:96 documentos, esse cluster representa: 3.07% no total
+Cluster17:44 documentos, esse cluster representa: 1.41% no total
+Cluster18:160 documentos, esse cluster representa: 5.12% no total
+Cluster19:37 documentos, esse cluster representa: 1.18% no total
+Cluster20:132 documentos, esse cluster representa: 4.22% no total
+Cluster21:464 documentos, esse cluster representa: 14.84% no total
+Cluster22:33 documentos, esse cluster representa: 1.06% no total
+Cluster23:109 documentos, esse cluster representa: 3.49% no total
+Cluster24:46 documentos, esse cluster representa: 1.47% no total
+Cluster25:46 documentos, esse cluster representa: 1.47% no total
+Cluster26:37 documentos, esse cluster representa: 1.18% no total
+Cluster27:41 documentos, esse cluster representa: 1.31% no total
+Cluster28:97 documentos, esse cluster representa: 3.10% no total
+Cluster29:62 documentos, esse cluster representa: 1.98% no total

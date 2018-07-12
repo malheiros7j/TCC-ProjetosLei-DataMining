@@ -1,0 +1,64 @@
+n_documentos:2023 	 n_palavras: 1449 	 
+__________________________________________________________________________________
+
+
+Cluster#0:  logradouro praca dara_nome logradouro_publico executivo_dara observados_disposto executivo_observados inominada avenida dara localizada observados santa determinacao homenagear
+Cluster#1:  feira turistico regiao oeste santa zona_oeste zona biblioteca altera tijuca redacao praca barra praia vereadora
+Cluster#2:  pedagio velocidade transito usuarios instalacao vias concessionarias acidentes taxistas taxa cobranca pagamento condutores monitoramento eletronico
+Cluster#3:  professor unidades_escolas pedagogico aula campo cargo estudantes sala_aula rogerio sala executivo_dara dara_nome dara filhos atuais
+Cluster#4:  polo gastronomico gastronomico_cultural reconhecimento_polo reconhecimento comercial instalados_area implantacao poder_estabelecimentos intermedio_orgaos denominacao transito_veiculos sinalizacao indicacao intervencoes_urbana
+Cluster#5:  imaterial patrimonio natureza_imaterial povo_carioca povo natureza registro declara popular declarada proprios arte fica_declarada praia competente
+Cluster#6:  animal veterinario animais_domesticos caes domesticos maus_trata maus gatos abandono adocao donos protecao piui infrator proibe
+Cluster#7:  regularizacao urbanizacao fundiaria complementar regularizacao_fundiaria ocupacao urbanistica anexo aeis urbanistica_fundiaria regularizacao_urbanistica parcelamento_terra declarada fins_urbanizacao parcelamento
+Cluster#8:  mulheres violencia exame domesticos feminino metodos vitimas homens vereadora familia genero psicologica cancer sexual bastos
+Cluster#9:  pacientes unidades_saude medico hospital hospitais clinicas dr tratamento profissionais familia profissional exame urgencia obrigados doenca
+Cluster#10:  agua energia eletrica energia_eletrica edificacoes utilizacao solo consumo armazenamento sustentavel fornecimento recursos imoveis predios instalacao
+Cluster#11:  parque gas arvores esporte lazer natural ambiental lixo praca sustentavel planta efeitos edson_zanata zanata habitacionais
+Cluster#12:  carnaval alcool drogas bebidas banda musicais bebidas_alcool samba prevencao consumo quimicos dependencias substancias video artistas
+Cluster#13:  doenca campanha exame prevencao tratamento diagnostico conscientizacao medico sintomas teste cancer visual permanente orientacao pacientes
+Cluster#14:  alimentos consumo produtos alimentacao comercializados restaurantes comida organica prata feira comercializacao sanitario doenca similares produzido
+Cluster#15:  utilidade associacao trata_consolidacao municipal_utilidade consolidacao_municipal consolidacao utilidade_publico utilidade_pa instituto lucrativos fins_lucrativos assistencia prestados titulo dr
+Cluster#16:  idosos pessoas_idosos idade terceira_idade terceira assistencia conselho gestantes qualidade estacionamento gratuidade tutelares selo cartao violencia
+Cluster#17:  tombado tombamento imovel interesse_historia historia_cultural fica_tombado livre_tombado bens bens_cultura arquitetonico patrimonio decorrencia conselho_municipal fica_vedada protecao_patrimonio
+Cluster#18:  comemorado calendario data_comemorado oficial oficial_cidade ser_comemorado consolidado oficial_eventos comemorado_anualmente altera cidade_consolidado anualmente deus fica_altera piui
+Cluster#19:  estacionamento vagas reserva bicicletas vagas_estacionamento estacionamento_veiculos comerciais transito cento exclusivamente destinados concurso gestantes horario guarda
+Cluster#20:  bancarias agencias instituicoes caixas clientes financeira eletronico creditos materno fila pagamento localizada_municipio emprego drogas operacoes
+Cluster#21:  cidade_irma irma habitantes economia cooperacao turistico troca capital tecnologia rio_cidade referente aproximadamente regiao experiencia possui
+Cluster#22:  imposto isencao tributarios iptu imoveis predial_territorial predial territorial_urbana territorial fiscal propriedade concedido incentivo contribuinte imposto_propriedade
+Cluster#23:  prefeitura religiosa esporte profissionais ingresso fundamental emprego ensino_fundamental entidades internet piui civil jovens preconceito basica
+Cluster#24:  adolescentes celio lupparelli celio_lupparelli prof sexual tutelares estatuto jovens conselho_tutelares informacoes infantil conselho ensino_fundamental fundamental
+Cluster#25:  semana comemorado calendario oficial oficial_cidade consolidado ser_comemorado data_comemorado cidade_consolidado oficial_municipio esporte escolha comemorado_anualmente incentivar altera
+Cluster#26:  servidores anexo educacional proteger_interesse interesse_pa blico_carioca analise_aprove proteger cargo analise lider_democratas aprove situado democratas imovel
+Cluster#27:  produtos reais similares reincidencia infrator precos restaurantes supermercados indice clientes bares reciclaveis placas obrigados residuos
+Cluster#28:  favelas turismo turistico guia comunicacao agencias cursos estrangeiros setor voltadas fomento comunitaria celio implantado situado
+Cluster#29:  onibus passageiros transporte_coletivo motoristas transporte_publico linha rodoviarios terminais concessionarias usuarios sistema_transporte concessao taxa passagem transito
+Cluster0:92 documentos, esse cluster representa: 4.55% no total
+Cluster1:120 documentos, esse cluster representa: 5.93% no total
+Cluster2:150 documentos, esse cluster representa: 7.41% no total
+Cluster3:61 documentos, esse cluster representa: 3.02% no total
+Cluster4:51 documentos, esse cluster representa: 2.52% no total
+Cluster5:39 documentos, esse cluster representa: 1.93% no total
+Cluster6:55 documentos, esse cluster representa: 2.72% no total
+Cluster7:76 documentos, esse cluster representa: 3.76% no total
+Cluster8:37 documentos, esse cluster representa: 1.83% no total
+Cluster9:52 documentos, esse cluster representa: 2.57% no total
+Cluster10:45 documentos, esse cluster representa: 2.22% no total
+Cluster11:51 documentos, esse cluster representa: 2.52% no total
+Cluster12:40 documentos, esse cluster representa: 1.98% no total
+Cluster13:69 documentos, esse cluster representa: 3.41% no total
+Cluster14:43 documentos, esse cluster representa: 2.13% no total
+Cluster15:73 documentos, esse cluster representa: 3.61% no total
+Cluster16:38 documentos, esse cluster representa: 1.88% no total
+Cluster17:58 documentos, esse cluster representa: 2.87% no total
+Cluster18:90 documentos, esse cluster representa: 4.45% no total
+Cluster19:50 documentos, esse cluster representa: 2.47% no total
+Cluster20:23 documentos, esse cluster representa: 1.14% no total
+Cluster21:26 documentos, esse cluster representa: 1.29% no total
+Cluster22:60 documentos, esse cluster representa: 2.97% no total
+Cluster23:232 documentos, esse cluster representa: 11.47% no total
+Cluster24:44 documentos, esse cluster representa: 2.17% no total
+Cluster25:31 documentos, esse cluster representa: 1.53% no total
+Cluster26:77 documentos, esse cluster representa: 3.81% no total
+Cluster27:158 documentos, esse cluster representa: 7.81% no total
+Cluster28:18 documentos, esse cluster representa: 0.89% no total
+Cluster29:64 documentos, esse cluster representa: 3.16% no total

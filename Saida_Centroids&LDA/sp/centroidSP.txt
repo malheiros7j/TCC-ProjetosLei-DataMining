@@ -1,0 +1,129 @@
+n_documentos:6958 	 n_palavras: 3148 	 
+__________________________________________________________________________________
+
+
+Cluster#0(151):  confluencia confluencia_rua localizado_confluencia confluencia_ruas situado_confluencia confluencia_avenida denominacao_situado itaquera inominado_localizado delimitado mooca inominado_situado prefeitura_regional tucuruvi logradouro_inominado 
+-> Nomeacao Ruas/Bairros
+
+Cluster#1(1044):  creches cidadao pacientes vitimas doencas familiar psicologico sexual governamentais organizacoes firmar combate conselheiros vacinacao concurso 
+-> Saude
+
+Cluster#2(1782):  placas acrescenta fica_revogadas proibida sinalizacao circulacao pedestres trafego aurelio providenciasa obrigatoriamente restricao ferias descumprimento item 
+-> Urbano -> Transporte
+
+Cluster#3(108):  institui_passa passa_constar constar_calendario eventos_municipio eventos_institui oficial_data data_eventos institui_calendario realizar_anualmente institui_municipio oficial_municipio festa institui_ambito eventos_cidade passa_integrada 
+-> Institui Dias Festivos
+
+Cluster#4(662):  limpo animal unificados situado_rua itaquera pv escolas_municipal lapa musica capela veterinario cidade_irmas prefeitura_regional natalini turismo
+-> Turismo / Lazer / Cultura
+
+Cluster#5(325):  tarifa energia sangue edificacao eletrica obra terreno habitacionais laudo doador isencao energia_eletrica doacao emissao apresentacao 
+-> Tributacao / Urbano
+
+Cluster#6(292):  variacao ipca ibge acumulada amplo estatistica moeda aquisitivo extincao dobro perda criado_legislacao federal_perda acarretara indice_sao 
+-> Urbano -> Economia 
+
+Cluster#7(50):  penha subprefeitura_penha delimitado logradouro_inominado toninho vias_circulacao circulacao altura denominacao_localizado livre_denominacao moraes casa_cultura bairro_vila localizado_avenida confluencia 
+-> Nomeacao Ruas 
+
+Cluster#8(165):  dispoe_denominacao denominacao_logradouro denominacao_rua prudente sapopemba passa_denomina cep milton despesas_presente inominado_situado sul natalini denominacao_praca situado_bairro inominado_localizado 
+-> Nomeacao Ruas
+
+Cluster#9(95):  altura altura_rua localizado_altura logradouro_inominado inominado_localizado cep implantacao_correrao zona_sul denominacao_situado pirituba manoel inominado_situado travessa bairro_vila encontrar_amparo 
+-> Nomeacao Ruas
+
+Cluster#10(279):  estudantes aulas drogas curricular bilhete pedagogico bilhete_unico palestras tema lingua grade_curricular ministradas conteudo docentes ensino_medio 
+-> Educacao
+
+Cluster#11(110):  travessa denomina_travessa travessa_rua altura altura_rua itaim inominado_situado cep estrada toninho situado_rua logradouro_inominado itaquera rocha penha 
+-> Logradouro 
+
+Cluster#12(68):  trecho planta alinhamento projetos_viario extensao largura superintendencia extensao_aproximada prefeito_integrantes compreendendo aproximada arquivo classificacao atl sr
+-> Transporte
+
+Cluster#13(33):  determinado_emplacamento registro_codigo bairro_nova endereco_postal localizado_bairro ademar endereco destinados_recursos vigente_suplementadas fica_criterios fica_determinado 
+orcamentarias_vigente futuras mencionados_caput consignadas_orcamentarias
+-> Logradouros
+
+Cluster#14(190):  concessionaria viaduto arvores permissionario museu confrontando reta plantio area_municipal planta licitacao concessionaria_permissionario lado frente acervo
+-> Transporte
+
+Cluster#15(51):  alcool bebidas bebidas_alcool proibicao venda proibida comercializacao embalagens dobro variacao amplo ipca estatistica ibge dispoe_proibicao 
+-> Urbano
+
+
+
+Cluster#16(117):  amadeu adilson adilson_amadeu estrada parelheiros subprefeitura_parelheiros mooca viaduto implantacao_correrao executivo_prazo regulamentara_poder guaianases jaragua prudente denominacao_logradouro 
+-> Logradouros -> Transpoorte
+
+Cluster#17(134):  lixo descarte reciclaveis embalagens reciclagem plasticas destinacao seletiva coletivo_seletiva cooperativas papel oleo recolhimento coletivo_lixo importe 
+-> Meio Ambiente
+
+Cluster#18(48):  ubs basica_saude unidade_basica ama saude_municipio pacientes ambulatorial cep hospitais alfredinho assistencia_medico conta_dotacao dotacao clinicas regulamentara_executivo 
+-> Saude
+
+Cluster#19(84):  itaim cod subprefeitura_itaim denominacao_localizado quintas livre_denominacao localizado_ruas orcamentarias_vigente praca_inominado altura consignadas_orcamentarias vigente_suplementadas manoel vila_curuca consignadas 
+-> Urbano
+
+Cluster#20(173):  eventos_cidade finalidade_incluir realizar_anualmente inserido fica_inserido festa domingo calendario_eventos vereadora_edir anualmente_mes edir edir_sala sabado mes_setembro data_comemorado\
+->Dias festivos / Eventos Festivos
+
+Cluster#21(160):  delimitado logradouro_inominado utilidade declara_utilidade declarados_utilidade declarados mooca desapropriacao fica_declarados terreno judicial vias_circulacao itaquera circulacao formosa
+-> Nomeacao de Logradouros
+
+Cluster#22(103):  conscientizacao semana_municipal cancer palestras combate semana_mes realizar_anualmente ultimo institui_semana doencas seminarios municipal_prevencao tema diagnostico importancia 
+-> Saude
+
+Cluster#23(122):  psol toninho vespoli toninho_vespoli situado_ruas samia_bomfim acrescenta denominacao_situado livre_denominacao calendario_eventos subprefeitura_casa casa_verde reis expressa diagnostico
+-> Dias Festivos 
+
+Cluster#24(136):  iptu isencao predial territorial imposto_predial predial_territorial iss urbana_iptu imposto_servicos contribuinte servicos_natureza isentos natureza_iss incidente isencao_imposto 
+-> Tributacao
+
+Cluster#25(93):  exames maternidade gestantes retirada nascido rec rec_nascido hospitais realizacao_exames pre clinicas nascimento creches pacientes rede_saude
+-> Saude
+
+Cluster#26(65):  praca_inominado inominado_situado inominado_localizado localizado_ruas orcamentarias_vigente itaquera consignadas_orcamentarias situado_ruas sao_paulista consignadas franca jd confluencia bairro_vila lado
+-> Nomeacao de Logradouros
+
+Cluster#27(111):  pirituba brasilandia jaragua freguesia claudinho claudinho_souza subprefeitura_pirituba subprefeitura_freguesia parque_municipal encontrar_amparo amparo_legal presente_propositura denominacao_vias implantacao_correrao cep 
+-> Transporte
+
+
+Cluster#28(128):  incluir_calendario oficial_municipio eventos_cidade calendario_eventos fica_inserido data_comemorado domingo fica_incluir inserido festa eventos_municipio natalini anualmente_mes realizar_anualmente ultimo -> Dias Festivos
+
+Cluster#29:(78)  laercio_benko laercio phs dispoe_implantacao escolas_publico religiosos lapa adaptados comunidade_escolas captacao tarifa participantes publico_regulamentara couber_municipal terminais
+-> Educacao-> Urbano
+
+
+
+Cluster0:151 documentos, esse cluster representa: 2.17% no total
+Cluster1:1044 documentos, esse cluster representa: 15.00% no total
+Cluster2:1782 documentos, esse cluster representa: 25.61% no total
+Cluster3:108 documentos, esse cluster representa: 1.55% no total
+Cluster4:662 documentos, esse cluster representa: 9.51% no total
+Cluster5:325 documentos, esse cluster representa: 4.67% no total
+Cluster6:292 documentos, esse cluster representa: 4.20% no total
+Cluster7:50 documentos, esse cluster representa: 0.72% no total
+Cluster8:165 documentos, esse cluster representa: 2.37% no total
+Cluster9:95 documentos, esse cluster representa: 1.37% no total
+Cluster10:279 documentos, esse cluster representa: 4.01% no total
+Cluster11:110 documentos, esse cluster representa: 1.58% no total
+Cluster12:68 documentos, esse cluster representa: 0.98% no total
+Cluster13:33 documentos, esse cluster representa: 0.47% no total
+Cluster14:190 documentos, esse cluster representa: 2.73% no total
+Cluster15:51 documentos, esse cluster representa: 0.73% no total
+Cluster16:117 documentos, esse cluster representa: 1.68% no total
+Cluster17:134 documentos, esse cluster representa: 1.93% no total
+Cluster18:48 documentos, esse cluster representa: 0.69% no total
+Cluster19:84 documentos, esse cluster representa: 1.21% no total
+Cluster20:173 documentos, esse cluster representa: 2.49% no total
+Cluster21:160 documentos, esse cluster representa: 2.30% no total
+Cluster22:103 documentos, esse cluster representa: 1.48% no total
+Cluster23:122 documentos, esse cluster representa: 1.75% no total
+Cluster24:136 documentos, esse cluster representa: 1.95% no total
+Cluster25:94 documentos, esse cluster representa: 1.35% no total
+Cluster26:65 documentos, esse cluster representa: 0.93% no total
+Cluster27:111 documentos, esse cluster representa: 1.60% no total
+Cluster28:128 documentos, esse cluster representa: 1.84% no total
+Cluster29:78 documentos, esse cluster representa: 1.12% no total

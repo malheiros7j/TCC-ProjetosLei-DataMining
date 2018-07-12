@@ -1,0 +1,422 @@
+n_documentos:2023 	 n_palavras: 1449 	 
+__________________________________________________________________________________
+
+
+Realizando a modelagem de topicos LDA com tfidf features, n_documentos: 2023 e n_palavras = 1449 ...
+
+Topicos no Cluster_1 modelo LDA: 41
+Topico #0:  urbanizacao regularizacao ocupacao complementar parcelamento_terra fundiaria urbanistica aeis terra parcelamento
+Topico #1:  classe simbolo formas suplementadas ma busca normas_tecnico haja locais distribuicao
+Topico #2:  parcelamento_terra urbanizacao ocupacao denominada viario permitir protecao_patrimonio terra pares_presente diretrizes
+Topico #3:  favorecer venda regular diabetes relacionadas regularizacao instalados normas_tecnico operacao abastecimento_agua
+Topico #4:  tema automotores transporte_publico rodoviarios planejamento base capital alvara questoes vila
+
+Topicos no Cluster_2 modelo LDA: 33
+Topico #0:  fundiaria regularizacao urbanizacao regularizacao_fundiaria complementar urbanistica anexo pdf regularizacao_urbanistica moradores
+Topico #1:  classe simbolo formas suplementadas ma busca normas_tecnico haja locais distribuicao
+Topico #2:  permitir protecao_patrimonio pares_presente diretrizes denominada elaboracao viario firmar contratacao teste
+Topico #3:  favorecer venda regularizacao regular diabetes relacionadas instalados normas_tecnico operacao acesso_informacao
+Topico #4:  tema automotores transporte_publico rodoviarios planejamento base capital alvara questoes vila
+
+Topicos no Cluster_3 modelo LDA: 51
+Topico #0:  polo gastronomico gastronomico_cultural instalados moradores composta deficientes diz barra trazer
+Topico #1:  classe simbolo formas suplementadas ma busca normas_tecnico haja locais distribuicao
+Topico #2:  permitir protecao_patrimonio pares_presente denominada diretrizes elaboracao viario firmar contratacao teste
+Topico #3:  polo gastronomico gastronomico_cultural reconhecimento_polo comercial reconhecimento instalados_area denominacao intervencoes_urbana transito_veiculos
+Topico #4:  tema automotores transporte_publico rodoviarios planejamento base capital alvara questoes vila
+
+Topicos no Cluster_4 modelo LDA: 20
+Topico #0:  semana calendario comemorado oficial escolha data_comemorado incentivar oficial_municipio apontam consolidado
+Topico #1:  classe semana simbolo formas suplementadas busca ma haja normas_tecnico locais
+Topico #2:  atuacao permitir protecao_patrimonio pares_presente oficial_municipio comemorado denominada diretrizes internacional reunir
+Topico #3:  favorecer venda regular diabetes relacionadas instalados normas_tecnico operacao acesso_informacao acoes
+Topico #4:  tema automotores transporte_publico rodoviarios base planejamento capital alvara questoes homenagem
+
+Topicos no Cluster_5 modelo LDA: 57
+Topico #0:  moradores diz deficientes habitacionais trazer instalados clubes jesus declaracao obesidade
+Topico #1:  comemorado calendario data_comemorado oficial oficial_cidade consolidado ser_comemorado oficial_eventos altera piui
+Topico #2:  permitir protecao_patrimonio pares_presente denominada diretrizes elaboracao firmar viario contratacao feriados
+Topico #3:  comemorado calendario data_comemorado oficial_cidade consolidado oficial ser_comemorado comemorado_anualmente cidade_consolidado anualmente
+Topico #4:  tema automotores transporte_publico capital entrega rodoviarios comemorado base planejamento altera
+
+Topicos no Cluster_6 modelo LDA: 49
+Topico #0:  moradores deficientes diz trazer habitacionais instalados clubes menor declaracao obesidade
+Topico #1:  animal classe veterinario domesticos animais_domesticos abandono simbolo adocao suplementadas locais
+Topico #2:  permitir protecao_patrimonio pares_presente denominada diretrizes elaboracao viario firmar contratacao mensagem
+Topico #3:  animal venda favorecer capitulo maus relacionadas regular junto diabetes distribuicao
+Topico #4:  animal veterinario gatos caes animais_domesticos domesticos maus maus_trata abandono piui
+
+Topicos no Cluster_7 modelo LDA: 24
+Topico #0:  mulheres violencia sexual campanha deficientes exclusivamente domesticos feminino psicologica diz
+Topico #1:  mulheres violencia domesticos classe suplementadas formas simbolo busca locais distribuicao
+Topico #2:  permitir protecao_patrimonio pares_presente denominada diretrizes elaboracao viario firmar contratacao teste
+Topico #3:  favorecer regular venda diabetes relacionadas instalados normas_tecnico operacao acesso_informacao acoes
+Topico #4:  tema automotores transporte_publico capital rodoviarios planejamento base alvara questoes decorrentes
+
+Topicos no Cluster_8 modelo LDA: 116
+Topico #0:  pacientes medico exame tratamento cancer doenca unidades_saude clinicas obesidade campanha
+Topico #1:  prevencao pacientes unidades_saude classe causa medico formas simbolo paz busca
+Topico #2:  teste metodos permitir educacao_infantil hospital pares_presente diretrizes protecao_patrimonio denominada contratacao
+Topico #3:  favorecer diabetes materno cirurgia relacionadas venda regular doacao acoes distribuicao
+Topico #4:  doenca tema medicina cronica isencao transporte_publico automotores clinicas rodoviarios planejamento
+
+Topicos no Cluster_9 modelo LDA: 10
+Topico #0:  bicicletas estacionamento instalados moradores trazer composta diz deficientes itens habitacionais
+Topico #1:  classe simbolo formas suplementadas ma busca normas_tecnico haja locais distribuicao
+Topico #2:  permitir protecao_patrimonio pares_presente diretrizes denominada elaboracao viario firmar contratacao teste
+Topico #3:  favorecer venda regular diabetes relacionadas instalados normas_tecnico operacao acesso_informacao acoes
+Topico #4:  tema automotores transporte_publico rodoviarios base planejamento capital alvara questoes vila
+
+Topicos no Cluster_10 modelo LDA: 37
+Topico #0:  estacionamento vagas reserva comerciais cartao vagas_estacionamento militar deficientes estacionamento_veiculos horario
+Topico #1:  classe cartao estacionamento simbolo formas suplementadas haja ma locais normas_tecnico
+Topico #2:  vagas reserva permitir protecao_patrimonio blico_privadas pares_presente portadores denominada diretrizes elaboracao
+Topico #3:  idosos gestantes favorecer cartao sujeitara_infrator comerciais venda regular diabetes relacionadas
+Topico #4:  vagas automotores estacionamento tema transporte_publico reserva rodoviarios gestantes base planejamento
+
+Topicos no Cluster_11 modelo LDA: 15
+Topico #0:  moradores deficientes diz trazer instalados pedagio publico_municipais habitacionais clubes declaracao
+Topico #1:  pedagio pagamento isencao dupla usuarios condutores classe vias isentos tarifa
+Topico #2:  permitir protecao_patrimonio pares_presente denominada diretrizes elaboracao viario firmar contratacao teste
+Topico #3:  favorecer venda regular diabetes relacionadas instalados normas_tecnico operacao acesso_informacao acoes
+Topico #4:  tema automotores transporte_publico rodoviarios base planejamento capital alvara questoes vila
+
+Topicos no Cluster_12 modelo LDA: 86
+Topico #0:  onibus sentir moradores orla diz instalados deficientes trazer habitacionais permissionarias
+Topico #1:  banheiros classe metros ser_aplicadas simbolo onibus haja prazo_cento suplementadas indice
+Topico #2:  taxistas banheiros passageiros taxa permitir operadoras feriados profissao diretrizes protecao_patrimonio
+Topico #3:  onibus passageiros taxa transporte_coletivo motoristas usuarios cobranca transporte_publico rodoviarios terminais
+Topico #4:  banheiros transporte_publico rodoviarios motoristas tema automotores gratuidade permitir base transporte_coletivo
+
+Topicos no Cluster_13 modelo LDA: 54
+Topico #0:  imoveis iluminacao moradores diz instalados deficientes trazer declaracao habitacionais clubes
+Topico #1:  classe simbolo formas suplementadas ma busca normas_tecnico haja locais distribuicao
+Topico #2:  propriedade permitir diretrizes protecao_patrimonio pares_presente denominada reducao pagar elaboracao viario
+Topico #3:  tributarios isencao creditos imposto desportivas creditos_tributarios predial incentivo iss receita
+Topico #4:  isencao imposto fiscal territorial_urbana imoveis iptu concedido predial propriedade_predial imposto_propriedade
+
+Topicos no Cluster_14 modelo LDA: 14
+Topico #0:  agua utilizacao armazenamento edificacoes publico_municipais predios fiscal moradores recursos instalados
+Topico #1:  classe simbolo formas suplementadas ma normas_tecnico locais busca haja distribuicao
+Topico #2:  permitir protecao_patrimonio pares_presente diretrizes denominada elaboracao viario firmar contratacao teste
+Topico #3:  agua favorecer venda instalados regular diabetes normas_tecnico relacionadas operacao acesso_informacao
+Topico #4:  tema automotores transporte_publico rodoviarios base planejamento capital alvara questoes vila
+
+Topicos no Cluster_15 modelo LDA: 17
+Topico #0:  energia eletrica energia_eletrica concessionarias instalados solo moradores dispositivos atualmente permissionarias
+Topico #1:  classe simbolo distribuicao suplementadas eletrica formas ma normas_tecnico locais busca
+Topico #2:  permitir protecao_patrimonio pares_presente denominada diretrizes elaboracao viario firmar contratacao teste
+Topico #3:  energia favorecer solo venda relacionadas agua regular instalados diabetes normas_tecnico
+Topico #4:  tema automotores transporte_publico rodoviarios base planejamento capital alvara questoes vila
+
+Topicos no Cluster_16 modelo LDA: 16
+Topico #0:  moradores diz deficientes trazer instalados habitacionais clubes declaracao obesidade menor
+Topico #1:  classe simbolo formas suplementadas ma locais busca normas_tecnico haja distribuicao
+Topico #2:  permitir protecao_patrimonio pares_presente denominada diretrizes elaboracao viario firmar contratacao teste
+Topico #3:  favorecer operacao venda regular relacionadas diabetes instalados normas_tecnico acoes acesso_informacao
+Topico #4:  bancarias agencias clientes pagamento financeira caixas instituicoes tema transporte_publico auditiva
+
+Topicos no Cluster_17 modelo LDA: 72
+Topico #0:  moradores diz deficientes trazer jesus instalados habitacionais clubes declaracao menor
+Topico #1:  alimentos produtos consumo comercializados restaurantes bares similares precos validade clientes
+Topico #2:  alimentos permitir feriados organica pares_presente protecao_patrimonio elaboracao denominada diretrizes alimentacao
+Topico #3:  diabetes supermercados clientes comida estabelecimentos_comerciais comerciais venda produtos compra caixas
+Topico #4:  alimentos tema alvara automotores transporte_publico substancias base disciplina rodoviarios permitir
+
+Topicos no Cluster_18 modelo LDA: 66
+Topico #0:  moradores deficientes diz clubes trazer habitacionais instalados declaracao obesidade composta
+Topico #1:  classe professor simbolo busca formas ma suplementadas distribuicao exercer logradouro_publico
+Topico #2:  professor servidores cargo unidades_escolas horario pedagogico categoria funcional psicologica desempenho
+Topico #3:  favorecer venda relacionadas regular diabetes instalados normas_tecnico operacao junto acesso_informacao
+Topico #4:  tema automotores transporte_publico planejamento rodoviarios base capital alvara questoes homenagem
+
+Topicos no Cluster_19 modelo LDA: 693
+Topico #0:  barra tijuca barra_tijuca biblioteca praca museu chiquinho_brazao brazao velocidade chiquinho
+Topico #1:  cidadaos transito lixo recursos informacoes obrigados telefone indice acidentes emprego
+Topico #2:  bandeira mestre porte reciclaveis residuos materiais plasticos sala lingua reciclagem
+Topico #3:  santa jovens homenagear religiosa concurso feira estima presente_tem compreendendo escadarias
+Topico #4:  carros automotores prefeitura creches remocao localizada doadores alto educacao_infantil guarda
+
+Topicos no Cluster_20 modelo LDA: 37
+Topico #0:  representantes conselho membros entidades conselho_municipal moradores protecao mandato sociedade_civil composta
+Topico #1:  tutelares adolescentes classe conselho_tutelares simbolo formas suplementadas normas_tecnico ma busca
+Topico #2:  tutelares conselheiros barra permitir protecao_patrimonio assistencia pares_presente denominada diretrizes feriados
+Topico #3:  idosos terceira_idade idade pessoas_idosos terceira habitacionais assistencia normas_tecnico favorecer instalados
+Topico #4:  tema automotores transporte_publico rodoviarios base planejamento capital alvara questoes vila
+
+Topicos no Cluster_21 modelo LDA: 40
+Topico #0:  moradores deficientes diz cinema trazer habitacionais video instalados clubes declaracao
+Topico #1:  adolescentes drogas prevencao sexual video educativas informacoes abuso exploracao combate
+Topico #2:  alcool bebidas_alcool bebidas consumo permitir pares_presente protecao_patrimonio mensagem denominada diretrizes
+Topico #3:  favorecer acoes venda desportivas abuso regular relacionadas diabetes instalados normas_tecnico
+Topico #4:  alcool tema automotores transporte_publico rodoviarios planejamento capital base alvara questoes
+
+Topicos no Cluster_22 modelo LDA: 62
+Topico #0:  deficientes moradores trazer diz instalados habitacionais clubes declaracao obesidade composta
+Topico #1:  utilidade associacao trata_consolidacao consolidacao_municipal municipal_utilidade consolidacao utilidade_publico utilidade_pa instituto fins_lucrativos
+Topico #2:  permitir protecao_patrimonio denominada pares_presente diretrizes teste elaboracao viario firmar contratacao
+Topico #3:  utilidade_pa consolidacao_municipal trata_consolidacao acoes favorecer associacao utilidade organizacao venda regular
+Topico #4:  utilidade associacao tema automotores transporte_publico vila planejamento fins_lucrativos rodoviarios alto
+
+Topicos no Cluster_23 modelo LDA: 31
+Topico #0:  moradores diz deficientes clubes trazer instalados habitacionais situado declaracao obesidade
+Topico #1:  classe simbolo formas suplementadas ma busca normas_tecnico haja locais distribuicao
+Topico #2:  tombado protecao_patrimonio permitir pares_presente inscricao denominada diretrizes elaboracao viario firmar
+Topico #3:  venda favorecer instalados regular relacionadas diabetes normas_tecnico operacao santa acoes
+Topico #4:  tombado imovel tombamento historia_cultural interesse_historia bens bens_cultura livre_tombado patrimonio fica_vedada
+
+Topicos no Cluster_24 modelo LDA: 22
+Topico #0:  moradores deficientes diz trazer habitacionais instalados clubes declaracao obesidade composta
+Topico #1:  cidade_irma irma habitantes rio_cidade troca economia poder_legislativa capital aproximadamente educacional
+Topico #2:  permitir protecao_patrimonio pares_presente denominada diretrizes elaboracao firmar viario contratacao teste
+Topico #3:  favorecer venda regular diabetes relacionadas instalados normas_tecnico operacao acoes acesso_informacao
+Topico #4:  cidade_irma capital irma tema automotores transporte_publico vila cooperacao rodoviarios povo
+
+Topicos no Cluster_25 modelo LDA: 10
+Topico #0:  carnaval samba moradores banda deficientes diz bairro_campo trazer habitacionais instalados
+Topico #1:  classe simbolo formas suplementadas ma busca normas_tecnico haja locais distribuicao
+Topico #2:  permitir protecao_patrimonio pares_presente denominada diretrizes elaboracao viario firmar contratacao teste
+Topico #3:  carnaval banda povo_carioca favorecer regular venda diabetes relacionadas instalados normas_tecnico
+Topico #4:  tema automotores transporte_publico rodoviarios base planejamento capital alvara questoes vila
+
+Topicos no Cluster_26 modelo LDA: 24
+Topico #0:  moradores deficientes diz trazer habitacionais instalados clubes declaracao obesidade composta
+Topico #1:  imaterial natureza_imaterial patrimonio natureza popular classe metros simbolo pesquisa clubes
+Topico #2:  imaterial patrimonio povo_carioca povo natureza_imaterial popular protecao_patrimonio festa fica_declarada lugar
+Topico #3:  favorecer venda regular diabetes relacionadas instalados normas_tecnico operacao povo_carioca acesso_informacao
+Topico #4:  tema automotores transporte_publico rodoviarios base planejamento capital alvara questoes vila
+
+Topicos no Cluster_27 modelo LDA: 55
+Topico #0:  logradouro inominada moradores logradouro_pa diz logradouro_publico vila clubes deficientes situado
+Topico #1:  logradouro avenida logradouro_publico praca dara_nome executivo_dara observados_disposto executivo_observados inominada dara
+Topico #2:  avenida viario luiz permitir protecao_patrimonio pares_presente dara_nome denominada diretrizes santa
+Topico #3:  localizada santa avenida venda favorecer regular observados_disposto diabetes relacionadas instalados
+Topico #4:  tema automotores transporte_publico base rodoviarios homenagem planejamento capital alvara questoes
+
+Topicos no Cluster_28 modelo LDA: 13
+Topico #0:  deus moradores amor deficientes jesus diz trazer habitacionais instalados clubes
+Topico #1:  deus igreja amor classe simbolo logradouro_publico calendario jesus formas suplementadas
+Topico #2:  igreja permitir protecao_patrimonio pares_presente denominada diretrizes elaboracao viario firmar contratacao
+Topico #3:  favorecer venda regular diabetes relacionadas instalados normas_tecnico operacao acesso_informacao acoes
+Topico #4:  igreja tema automotores transporte_publico altera rodoviarios base planejamento capital alvara
+
+Topicos no Cluster_29 modelo LDA: 13
+Topico #0:  moradores deficientes diz trazer habitacionais instalados clubes declaracao obesidade composta
+Topico #1:  favelas turismo guia classe locais simbolo logradouro_publico base agencias formas
+Topico #2:  permitir protecao_patrimonio pares_presente denominada diretrizes elaboracao viario firmar contratacao teste
+Topico #3:  favorecer venda regular diabetes relacionadas instalados normas_tecnico operacao acesso_informacao acoes
+Topico #4:  tema automotores transporte_publico base rodoviarios planejamento capital alvara questoes decorrentes
+
+Topicos no Cluster_30 modelo LDA: 245
+Topico #0:  feira samba artes imovel assentamentos localizada_rua logradouro localizada campo praca
+Topico #1:  copacabana tombado musicais clubes simbolo dara tombamento governador logradouro morro
+Topico #2:  esporte praia olimpicos parque futebol popular regiao jogos zona praca
+Topico #3:  sepetiba militar amigos atletas cinema policia memoria associacao situado_rua lazer
+Topico #4:  anexo assentamentos altera transporte_publico vila ilha regiao fica_altera redacao militar
+
+
+
+
+
+Topicos no Cluster_29_30 modelo LDA: 258
+Topico #0:  feira feriados fica_autorizado tijuca ampliar praca autorizado horario meses epoca
+Topico #1:  esporte praia parque olimpicos favelas futebol atletas copacabana turismo governador
+Topico #2:  praia popular esporte ma_sica comunicacao lazer povo ma manifestacoes caminho
+Topico #3:  assentamentos cinema policia sanitario venda teatro compra amigos obesidade capitulo
+Topico #4:  zona_oeste oeste instituto zona ap area_planejamento especializado planejamento referencia filhos
+
+Topicos no Cluster_28_30 modelo LDA: 271
+Topico #0:  feira imovel samba campo zona_oeste oeste amigos zona bangu praca
+Topico #1:  simbolo clubes ingresso assentamentos futebol comemorado calendario popular festa transporte_publico
+Topico #2:  praia esporte parque olimpicos atletas recreio copacabana lazer treinamento denominada
+Topico #3:  praia atletas venda internet compra sepetiba localizada ingresso favorecer operacao
+Topico #4:  anexo aeis altera setor refere fica_altera situado baixa_renda delimitado adequacao
+
+Topicos no Cluster_27_30 modelo LDA: 326
+Topico #0:  samba artes zona_oeste oeste zona feira revogada fiscais complexo logradouro
+Topico #1:  logradouro praca localizada dara_nome parque avenida executivo_dara regiao observados_disposto dara
+Topico #2:  esporte praia danca atletas popular olimpicos futebol jogos turistico igreja
+Topico #3:  cinema ingresso internet compra venda teatro localizada troca imovel dimensoes
+Topico #4:  turismo assentamentos anexo favelas transporte_publico altera vila militar guia refere
+
+Topicos no Cluster_25_26 modelo LDA: 34
+Topico #0:  carnaval samba moradores bairro_campo diz deficientes clubes trazer habitacionais instalados
+Topico #1:  imaterial patrimonio natureza_imaterial natureza festa copacabana registro popular povo_carioca classe
+Topico #2:  imaterial patrimonio povo popular povo_carioca comerciais natureza_imaterial protecao_patrimonio permitir lugar
+Topico #3:  carnaval banda povo_carioca atila povo regular favorecer venda declara diabetes
+Topico #4:  tema automotores transporte_publico rodoviarios base planejamento capital alvara questoes vila
+
+Topicos no Cluster_25_30 modelo LDA: 360
+Topico #0:  carnaval samba feira artes zona_oeste oeste zona clubes logradouro aloisio
+Topico #1:  praca logradouro esporte patrimonio localizada praia regiao imaterial dara_nome dara
+Topico #2:  avenida praia popular localizada imaterial igreja dara_nome esporte tombado executivo_dara
+Topico #3:  assentamentos cinema atletas compra internet teatro venda ingresso obesidade povo_carioca
+Topico #4:  militar igreja transporte_publico gratuidade feira altera localizada homenagem vila tema
+
+Topicos no Cluster_24_30 modelo LDA: 382
+Topico #0:  inominada logradouro moradores vila logradouro_pa clubes artes situado observados_disposto diz
+Topico #1:  praca logradouro esporte patrimonio praia regiao imaterial localizada dara turistico
+Topico #2:  avenida entrada santa localizada dara_nome executivo_dara executivo_observados observados_disposto determinacao carentes
+Topico #3:  povo_carioca carnaval banda povo amigos patrimonio declara venda praia natureza_imaterial
+Topico #4:  feira militar igreja anexo altera transporte_publico gratuidade assentamentos vila irma
+
+Topicos no Cluster_23_30 modelo LDA: 413
+Topico #0:  militar logradouro clubes inominada bombeiros imovel situado vila tombado moradores
+Topico #1:  turismo cidade_irma favelas irma ingresso titulo adolescentes futebol logradouro popular
+Topico #2:  tombado imovel praca esporte patrimonio localizada clubes regiao feira logradouro
+Topico #3:  assentamentos avenida localizada santa obesidade cinema teatro venda praca internet
+Topico #4:  assentamentos transporte_publico idosos mulheres tombado atletas grave pessoas_idosos usuarios respeito
+
+Topicos no Cluster_22_30 modelo LDA: 475
+Topico #0:  aloisio circulacao animal logradouro revogada logradouro_pa deficientes horario dispositivos arquitetonico
+Topico #1:  utilidade praca esporte logradouro regiao praia localizada associacao feira parque
+Topico #2:  tombado imovel tombamento patrimonio bens historia_cultural bens_cultura livre_tombado fica_tombado interesse_historia
+Topico #3:  utilidade associacao utilidade_pa trata_consolidacao consolidacao_municipal carnaval tombado municipal_utilidade acoes organizacao
+Topico #4:  militar tombado utilidade gratuidade transporte_publico localizada avenida sepetiba associacao igreja
+
+Topicos no Cluster_20_21 modelo LDA: 77
+Topico #0:  representantes conselho membros habitacionais entidades obesidade conselho_municipal moradores protecao mandato
+Topico #1:  adolescentes drogas tutelares prevencao assistencia informacoes abuso sexual educativas video
+Topico #2:  alcool bebidas_alcool bebidas consumo tutelares conselheiros permitir pares_presente protecao_patrimonio denominada
+Topico #3:  idosos terceira_idade idade pessoas_idosos terceira favorecer relacionadas instalados acoes normas_tecnico
+Topico #4:  tema automotores transporte_publico alcool rodoviarios base planejamento alvara capital questoes
+
+Topicos no Cluster_19_21 modelo LDA: 770
+Topico #0:  barra tijuca barra_tijuca velocidade avenida biblioteca museu chiquinho_brazao brazao chiquinho
+Topico #1:  adolescentes rj abuso drogas acoes aberto humanos direitos_humanos defesa prevencao
+Topico #2:  bandeira mestre reciclaveis porte plasticos materiais residuos lingua reciclagem sala
+Topico #3:  santa religiosa homenagear escadarias concurso estima presente_tem compreendendo celio lupparelli
+Topico #4:  feira cidade_irma santa irma cooperacao carros automotores prefeitura referente economia
+
+Topicos no Cluster_18_21 modelo LDA: 836
+Topico #0:  orla lixo jovens deficientes prefeitura barra moradores emprego museu tijuca
+Topico #1:  sangue doadores comerciais reais doacao infrator indice urgencia professor reincidencia
+Topico #2:  adolescentes idosos professor drogas alcool conselho servidores prevencao jovens cargo
+Topico #3:  servidores celio matricula lupparelli prof uniformes celio_lupparelli selo escolas_municipais fundamental
+Topico #4:  feira santa cidade_irma irma cooperacao religiosa referente economia cemiterios liberdade
+
+Topicos no Cluster_16_17 modelo LDA: 88
+Topico #0:  restaurantes moradores trazer diz deficientes menor substancias instalados obrigados instituicoes
+Topico #1:  alimentos produtos comercializados consumo restaurantes alimentacao validade bares suplementadas organica
+Topico #2:  alimentos consumo comida organica permitir pares_presente pagar protecao_patrimonio elaboracao denominada
+Topico #3:  diabetes supermercados clientes produtos venda comida estabelecimentos_comerciais comerciais comercializados cartazes
+Topico #4:  bancarias agencias clientes alimentos pagamento tema financeira caixas instituicoes transporte_publico
+
+Topicos no Cluster_16_21 modelo LDA: 924
+Topico #0:  monitoramento lixo ruas barra agencias moradores biblioteca deficientes bancarias produtos
+Topico #1:  drogas adolescentes alcool consumo produtos prevencao alimentos reais acidentes bebidas
+Topico #2:  adolescentes professor servidores idosos jovens conselho profissionais concurso cargo entidades
+Topico #3:  clientes produtos celio lupparelli celio_lupparelli supermercados prof diabetes comerciais compra
+Topico #4:  feira santa cidade_irma irma bancarias alimentos cooperacao jovens economia referente
+
+Topicos no Cluster_14_15 modelo LDA: 31
+Topico #0:  agua energia eletrica energia_eletrica utilizacao edificacoes armazenamento concessionarias solo fiscal
+Topico #1:  classe simbolo formas suplementadas distribuicao ma normas_tecnico locais busca haja
+Topico #2:  permitir protecao_patrimonio pares_presente denominada diretrizes utilizacao elaboracao viario firmar contratacao
+Topico #3:  energia agua favorecer relacionadas venda instalados regular diabetes normas_tecnico operacao
+Topico #4:  tema automotores transporte_publico rodoviarios base planejamento capital alvara questoes decorrentes
+
+Topicos no Cluster_13_15 modelo LDA: 85
+Topico #0:  energia eletrica energia_eletrica iluminacao concessionarias moradores instalados agua contratos obrigados
+Topico #1:  classe simbolo distribuicao formas suplementadas ma normas_tecnico locais busca haja
+Topico #2:  agua utilizacao armazenamento imoveis propriedade permitir consumo economia edificacoes comerciais
+Topico #3:  tributarios energia solo creditos isencao imposto agua incentivo predial iss
+Topico #4:  isencao imposto imoveis fiscal territorial_urbana pagamento iptu contribuicao concedido predial
+
+Topicos no Cluster_13_21 modelo LDA: 1009
+Topico #0:  sangue barra barra_tijuca tijuca monitoramento energia doadores agua doacao recreio
+Topico #1:  alimentos cargo doadores urgencia agencias populacao_rua horario agua classe contribuinte
+Topico #2:  professor cargo servidores municipal_educacao estudantes unidades_escolas aula concurso curricular ensino_fundamental
+Topico #3:  adolescentes produtos idosos agua alimentos consumo comerciais obrigados cidadaos drogas
+Topico #4:  servidores chiquinho_brazao servidores_publico brazao residencia chiquinho praca isencao contribuicao inominada
+
+Topicos no Cluster_11_12 modelo LDA: 101
+Topico #0:  onibus pedagio passageiros motoristas transporte_coletivo cobranca usuarios concessionarias passagem pagamento
+Topico #1:  pedagio banheiros metros classe taxistas ser_aplicadas pagamento haja usuarios simbolo
+Topico #2:  onibus taxistas operadoras passageiros banheiros transporte_coletivo concessao utilizacao permitir transporte_publico
+Topico #3:  taxa onibus passageiros cobranca motoristas usuarios taxistas banheiros sanitario cor
+Topico #4:  rodoviarios transporte_publico banheiros motoristas terminais onibus passageiros gratuidade tema automotores
+
+Topicos no Cluster_9_10 modelo LDA: 47
+Topico #0:  bicicletas estacionamento vagas instalados baia obesidade moradores trazer deficientes composta
+Topico #1:  estacionamento vagas cartao reserva vagas_estacionamento comerciais cento estacionamento_veiculos classe normas_tecnico
+Topico #2:  vagas reserva permitir protecao_patrimonio blico_privadas pares_presente diretrizes denominada elaboracao portadores
+Topico #3:  idosos gestantes cartao favorecer venda sujeitara_infrator regular diabetes relacionadas instalados
+Topico #4:  automotores tema transporte_publico rodoviarios base planejamento vagas capital alvara questoes
+
+Topicos no Cluster_9_12 modelo LDA: 148
+Topico #0:  bicicletas estacionamento orla vagas cobranca instalados onibus tipo diz publico_municipais
+Topico #1:  estacionamento vagas pedagio vagas_estacionamento classe cento ser_aplicadas metros normas_tecnico simbolo
+Topico #2:  passagem transporte_coletivo banheiros oferta concessao quimicos fica_estabelecimentos gratuito adaptados orgaos_municipal
+Topico #3:  onibus taxa passageiros cobranca taxistas transporte_coletivo usuarios motoristas rodoviarios terminais
+Topico #4:  banheiros abrigos taxistas transporte_publico rodoviarios automotores tema instalacao auxiliar isencao
+
+Topicos no Cluster_9_21 modelo LDA: 1157
+Topico #0:  adolescentes drogas prevencao rj professor combate informacoes jovens acoes humanos
+Topico #1:  video drogas estacionamento educativas produtos usuarios consumo onibus transito infrator
+Topico #2:  cargo vagas onibus pedagogico horario professor passageiros taxa reducao sistema_transporte
+Topico #3:  tributarios iptu imposto onibus isencao creditos predial taxa predial_territorial territorial_urbana
+Topico #4:  feira santa cidade_irma irma cooperacao isencao taxistas referente transporte_publico inciso
+
+Topicos no Cluster_7_8 modelo LDA: 140
+Topico #0:  mulheres cancer doenca exame tratamento pacientes hospital medico obesidade clinicas
+Topico #1:  sinais unidades_saude hospitais pacientes clinicas localizada_municipio publico_privadas comunicacao instituicao profissional
+Topico #2:  hospital juventude visita unidades_escolas dr concurso localizada norte escolas_rede pontos
+Topico #3:  materno favorecer doacao regular venda diabetes relacionadas acoes instalados normas_tecnico
+Topico #4:  doenca tema automotores transporte_publico planejamento questoes capital rodoviarios base estende
+
+Topicos no Cluster_6_8 modelo LDA: 189
+Topico #0:  pacientes doenca mulheres medico exame tratamento cancer clinicas unidades_saude hospital
+Topico #1:  mulheres animal domesticos abandono animais_domesticos veterinario classe pacientes educativas peso
+Topico #2:  teste metodos hospital permitir pontos unidades_escolas juventude visita concurso povo
+Topico #3:  medico mulheres animal cirurgia doacao venda materno acoes favorecer capitulo
+Topico #4:  animal caes gatos domesticos animais_domesticos maus veterinario maus_trata abandono doenca
+
+Topicos no Cluster_6_21 modelo LDA: 1346
+Topico #0:  adolescentes idosos medico professor prevencao drogas produtos usuarios mulheres dr
+Topico #1:  taxistas pedagio mulheres imoveis isencao pagamento taxa vagas imposto animal
+Topico #2:  teste professor medico metodos mulheres clinicas cirurgia veterinario permitir denominada
+Topico #3:  onibus passageiros taxa agua energia comerciais animal cobranca rodoviarios utilizacao
+Topico #4:  gatos caes feira santa cidade_irma irma animal veterinario animais_domesticos domesticos
+
+Topicos no Cluster_6_30 modelo LDA: 1821
+Topico #0:  esporte tombado utilidade praca adolescentes imovel localizada vereadora patrimonio logradouro
+Topico #1:  azimute_distancia segue_azimute confrontando baia_guanabara distancia baia coordenadas guanabara segue taxistas
+Topico #2:  professor medico metodos teste mulheres cirurgia hospital clinicas clubes veterinario
+Topico #3:  iptu territorial_urbana predial_territorial predial territorial imposto tributarios propriedade_predial imposto_propriedade energia
+Topico #4:  gatos caes veterinario animal animais_domesticos domesticos abandono maus abrigos maus_trata
+
+Topicos no Cluster_4_5 modelo LDA: 77
+Topico #0:  semana calendario comemorado oficial oficial_municipio data_comemorado incentivar escolha altera apontam
+Topico #1:  comemorado calendario data_comemorado oficial semana oficial_cidade consolidado ser_comemorado oficial_eventos cidade_consolidado
+Topico #2:  permitir protecao_patrimonio pares_presente denominada diretrizes elaboracao viario firmar contratacao teste
+Topico #3:  comemorado calendario consolidado oficial_cidade data_comemorado ser_comemorado oficial comemorado_anualmente anualmente cidade_consolidado
+Topico #4:  comemorado altera calendario luta data_comemorado ser_comemorado piui oficial fica_altera tema
+
+Topicos no Cluster_4_30 modelo LDA: 1898
+Topico #0:  semana comemorado militar pedagio obesidade isencao calendario mulheres data_comemorado bicicletas
+Topico #1:  agua produtos reais infrator obrigados consumo alimentos proibe reincidencia estacionamento
+Topico #2:  azimute_distancia segue_azimute confrontando baia_guanabara distancia baia coordenadas guanabara segue comemorado
+Topico #3:  creditos creditos_tributarios tributarios contribuinte iptu comemorado solo onibus propriedade_predial imposto_propriedade
+Topico #4:  comemorado utilidade esporte tombado praca patrimonio professor oficial logradouro imovel
+
+Topicos no Cluster_3_30 modelo LDA: 1949
+Topico #0:  polo barra gastronomico tijuca barra_tijuca vagas avenida estacionamento estrada reconhecimento_polo
+Topico #1:  utilidade associacao trata_consolidacao professor municipal_utilidade consolidacao_municipal consolidacao mulheres praca dara_nome
+Topico #2:  azimute_distancia segue_azimute confrontando baia_guanabara distancia baia coordenadas guanabara segue teste
+Topico #3:  polo gastronomico comemorado oficial calendario gastronomico_cultural data_comemorado reconhecimento_polo reconhecimento comercial
+Topico #4:  esporte tombado imovel patrimonio comemorado altera vereadora idosos produtos regiao
+
+Topicos no Cluster_1_2 modelo LDA: 74
+Topico #0:  regularizacao urbanizacao fundiaria complementar regularizacao_fundiaria urbanistica ocupacao anexo aeis parcelamento_terra
+Topico #1:  classe simbolo formas suplementadas ma busca normas_tecnico haja locais distribuicao
+Topico #2:  parcelamento_terra urbanizacao denominada ocupacao permitir viario protecao_patrimonio pares_presente diretrizes elaboracao
+Topico #3:  regularizacao regularizacao_fundiaria urbanizacao favorecer complementar regular venda habitacionais diabetes relacionadas
+Topico #4:  tema automotores transporte_publico rodoviarios planejamento base capital alvara questoes vila
+
+Topicos no Cluster_1_30 modelo LDA: 2023
+Topico #0:  polo regularizacao gastronomico urbanizacao fundiaria complementar anexo regularizacao_fundiaria ocupacao urbanistica
+Topico #1:  esporte comemorado utilidade tombado adolescentes dr patrimonio oficial vereadora calendario
+Topico #2:  azimute_distancia segue_azimute confrontando baia_guanabara distancia baia coordenadas guanabara segue urbanizacao
+Topico #3:  polo gastronomico regularizacao urbanizacao fundiaria regularizacao_fundiaria complementar gastronomico_cultural ocupacao urbanistica
+Topico #4:  pedagio isencao iptu territorial_urbana predial_territorial predial territorial imposto imposto_propriedade propriedade_predial
