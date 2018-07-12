@@ -1,0 +1,218 @@
+n_documentos:3126 	 n_palavras: 2003 	 
+__________________________________________________________________________________
+
+Realizando a modelagem de topicos LDA com tfidf features, n_documentos: 3126 e n_palavras = 2003 ...
+
+
+CLUSTERING DENDROGRAMA INDIVIDUAL
+
+Topicos no Cluster_1 modelo LDA: 28
+Topico #0:  emilia_sulzer devera_observar preco lei_apresentamos youssif_domingos
+Topico #1:  aquiescencia_presidencia altera_lei abandono merenda_escola inscrito
+Topico #2:  medula medula_ossea ossea doadores rede_publica
+Topico #3:  sangue doadores doacao pedra voluntarios
+Topico #4:  ruas devera_constar documentacao grazielle_machado predios
+
+Topicos no Cluster_2 modelo LDA: 19
+Topico #0:  vacina vacinacao faixa_etaria emilia_sulzer etaria
+Topico #1:  vacinacao vacina programa_municipal exposicao ocupacao
+Topico #2:  rede_publica edicao divida tribunal ms_aprova
+Topico #3:  solucao pedra legislativo_assuntos cooperativas disposicao
+Topico #4:  ruas devera_constar documentacao grazielle_machado predios
+
+Topicos no Cluster_3 modelo LDA: 150
+Topico #0:  otavio_trad oficial_eventos calendario_oficial eventos_municipio trad
+Topico #1:  festa regional calendario_oficial calendario oficial_eventos
+Topico #2:  animal rede_publica edicao divida ms_aprova
+Topico #3:  religiosa templos culto alvara dispensa
+Topico #4:  animal calendario calendario_oficial oficial comemorado
+
+Topicos no Cluster_4 modelo LDA: 47
+Topico #0:  lixo descarte plasticos reciclaveis reciclagem
+Topico #1:  coletivo_seletiva seletiva organica lixo producao
+Topico #2:  rede_publica edicao divida tribunal ms_aprova
+Topico #3:  lixo reciclaveis coletivo_seletiva seletiva residuos_solo
+Topico #4:  ruas devera_constar lixo documentacao grazielle_machado
+
+Topicos no Cluster_5 modelo LDA: 120
+Topico #0:  tarifa concessionaria eletrica preco emilia_sulzer
+Topico #1:  altera_lei abandono tarifa bombeiros aquiescencia_presidencia
+Topico #2:  cabo_almi almi divida rede_publica ms_aprova
+Topico #3:  incendio cabo_almi almi concessionaria cabo
+Topico #4:  ruas devera_constar documentacao reajuste energia
+
+Topicos no Cluster_6 modelo LDA: 24
+Topico #0:  emilia_sulzer devera_observar preco lei_apresentamos youssif_domingos
+Topico #1:  alcool bebidas bebidas_alcool drogas abuso
+Topico #2:  rede_publica edicao divida tribunal ms_aprova
+Topico #3:  alcool bebidas_alcool bebidas liquido drogas
+Topico #4:  ruas devera_constar documentacao grazielle_machado predios
+
+Topicos no Cluster_7 modelo LDA: 1575
+Topico #0:  cacambas estrada afonso deficientes_fisica deficientes
+Topico #1:  paz violencia_domestica similares vitimas domestica
+Topico #2:  jornada_trabalho jornada necessario_especiais portadores_necessario feiras
+Topico #3:  agentes portadores estudantes incentivo placas
+Topico #4:  energizada municipal_protecao cerca_energizada indigenas direito_difusos
+
+Topicos no Cluster_8 modelo LDA: 26
+Topico #0:  emilia_sulzer devera_observar preco lei_apresentamos youssif_domingos
+Topico #1:  aquiescencia_presidencia altera_lei abandono merenda_escola inscrito
+Topico #2:  estacionamento vagas estacionamento_veiculos gratuidade cobranca
+Topico #3:  estacionamento solucao pedra motoristas legislativo_assuntos
+Topico #4:  ruas devera_constar documentacao grazielle_machado predios
+
+Topicos no Cluster_9 modelo LDA: 38
+Topico #0:  predial territorial_urbano predial_territorial territorial iptu
+Topico #1:  aposentados contribuinte debitos inferior inscrito
+Topico #2:  tribunal rede_publica edicao divida ms_aprova
+Topico #3:  iptu predial territorial_urbano isencao predial_territorial
+Topico #4:  contribuinte ruas devera_constar documentacao aposentados
+
+Topicos no Cluster_10 modelo LDA: 50
+Topico #0:  emilia_sulzer devera_observar preco lei_apresentamos youssif_domingos
+Topico #1:  aquiescencia_presidencia altera_lei abandono merenda_escola inscrito
+Topico #2:  associacao_moradores unanimidade vereador_presente municipal_associacao unanimidade_vereador
+Topico #3:  lider_bancada cooperativas alex solucao pedra
+Topico #4:  ruas documentacao devera_constar municipal_associacao grazielle_machado
+
+Topicos no Cluster_11 modelo LDA: 33
+Topico #0:  devera_observar discriminacao sexo emilia_sulzer mobilidade
+Topico #1:  inscrito aquiescencia_presidencia altera_lei abandono resgate
+Topico #2:  rede_publica edicao divida tribunal ms_aprova
+Topico #3:  vanderlei vanderlei_silva silva_mato vanderlei_cabeludoa cabeludoa
+Topico #4:  ruas devera_constar documentacao grazielle_machado predios
+
+Topicos no Cluster_12 modelo LDA: 420
+Topico #0:  pedestres comercial ferias faixa ordenamento
+Topico #1:  municipal_associacao sede_campo declara lucrativos rocha
+Topico #2:  academia pastor educacao_fisica permanencia publica_particulares
+Topico #3:  bibliotecas maria_cesar doacao cesar leitura
+Topico #4:  acrescenta maes ferias grazielle_machado grazielle
+
+Topicos no Cluster_13 modelo LDA: 30
+Topico #0:  emilia_sulzer devera_observar preco lei_apresentamos youssif_domingos
+Topico #1:  elias_gazal aquiescencia_presidencia altera_lei abandono dona
+Topico #2:  gazal elias_gazal gazal_dib elias dib
+Topico #3:  gazal gazal_dib elias_gazal dib pedra
+Topico #4:  ruas devera_constar documentacao grazielle_machado predios
+
+Topicos no Cluster_14 modelo LDA: 78
+Topico #0:  centro_educacao educacao_infantil infantil ceinf emilia_sulzer
+Topico #1:  aquiescencia_presidencia educacao_infantil abandono localizada_jardim altera_lei
+Topico #2:  emilia_sulzer maria_emilia rede_publica emilia edicao
+Topico #3:  pedra solucao legislativo_assuntos area_saude cooperativas
+Topico #4:  tutelar conselho_tutelar conselheiros ruas devera_constar
+
+Topicos no Cluster_15 modelo LDA: 488
+Topico #0:  centro_educacao cunho dom trad luiz
+Topico #1:  auto devera_conta localizada_bairro insercao saber
+Topico #2:  elevada travessa tela odontologia celso
+Topico #3:  bairro_jardim pedra celso celso_ianaze nelsinho
+Topico #4:  denominacao pedra vila trecho faleceu
+
+
+___________________________________________________________________________________________________
+
+CLUSTERING POR NIVEL DENDROGRAMA
+
+___________________________________________________________________________________________________
+
+
+Topicos no Cluster14_15 modelo LDA: 566
+Topico #0:  denominacao trecho vila pedra faleceu
+Topico #1:  educacao_infantil localizada_jardim infantil vencimento joao
+Topico #2:  tutelar conselho_tutelar elevada conselheiros tela
+Topico #3:  pedra vereador_pdt travessa tarifa paulo_pedra
+Topico #4:  tutelar conselho_tutelar flavio nr afonso
+
+Topicos no Cluster13_14_15 modelo LDA: 596
+Topico #0:  denominacao dib faleceu vila pedra
+Topico #1:  captacao auto recolhimento educacao_infantil implantar
+Topico #2:  tutelar conselho_tutelar conselheiros mandato tela
+Topico #3:  celso celso_ianaze pedra elevada travessa
+Topico #4:  flavio flavio_cesar afonso cesar afonso_pena
+
+Topicos no Cluster11_12 modelo LDA: 453
+Topico #0:  pedestres comercial faixa educacao_fisica youssif_domingos
+Topico #1:  vanderlei municipal_associacao declara lucrativos sede_campo
+Topico #2:  cobrado reciclaveis vanderlei academia pastor
+Topico #3:  maria_cesar cesar vanderlei obesidade vanderlei_silva
+Topico #4:  ferias acrescenta maria_cesar maes cesar
+
+Topicos no Cluster10_11_12 modelo LDA: 503
+Topico #0:  pedestres comercial educacao_fisica faixa oliveira_fonseca
+Topico #1:  municipal_associacao declara lucrativos associacao_moradores espirita
+Topico #2:  cobrado academia reciclaveis vanderlei pastor
+Topico #3:  maria_cesar cesar vereador_pmdb plano demanda
+Topico #4:  ferias acrescenta maria_cesar maes cesar
+
+Topicos no Cluster10_11_12_13_14_15 modelo LDA: 1099
+Topico #0:  municipal_associacao declara denominacao vila albuquerque
+Topico #1:  captacao recolhimento educacao_infantil infantil localizada_jardim
+Topico #2:  tutelar conselho_tutelar pedestres pastor conselheiros
+Topico #3:  odontologia pedra tarifa sistema_municipal travessa
+Topico #4:  afonso_pena afonso cesar flavio flavio_cesar
+
+Topicos no Cluster8_9 modelo LDA: 64
+Topico #0:  predial emilia_sulzer devera_observar preco territorial_urbano
+Topico #1:  aposentados inscrito residem abandono inferior
+Topico #2:  estacionamento vagas estacionamento_veiculos gratuidade cobranca
+Topico #3:  iptu predial isencao territorial_urbano predial_territorial
+Topico #4:  contribuinte ruas devera_constar documentacao aposentados
+
+Topicos no Cluster6_7 modelo LDA: 1599
+Topico #0:  cacambas afonso estrada deficientes_fisica deficientes
+Topico #1:  paz violencia_domestica similares vitimas domestica
+Topico #2:  jornada_trabalho jornada necessario_especiais portadores_necessario feiras
+Topico #3:  alcool bebidas drogas agentes acidentes
+Topico #4:  indigenas energizada municipal_protecao cerca_energizada direito_difusos
+
+Topicos no Cluster5_6_7 modelo LDA: 1719
+Topico #0:  cacambas afonso deficientes_fisica deficientes federacao
+Topico #1:  paz violencia_domestica similares vitimas domestica
+Topico #2:  jornada_trabalho jornada feiras_livre banheiros feiras
+Topico #3:  tarifa almi cabo_almi cabo concessionaria
+Topico #4:  indigenas energizada municipal_protecao cerca_energizada direito_difusos
+
+Topicos no Custers4_5_6_7 modelo LDA: 1766
+Topico #0:  cacambas afonso passeios estrada deficientes_fisica
+Topico #1:  paz violencia_domestica artistico similares vitimas
+Topico #2:  jornada_trabalho jornada banheiros feiras feiras_livre
+Topico #3:  almi cabo_almi lixo cabo tarifa
+Topico #4:  indigenas energizada municipal_protecao cerca_energizada direito_difusos
+
+Topicos no Cluster3_4_5_6_7 modelo LDA: 1916
+Topico #0:  cacambas afonso estrada deficientes_fisica deficientes
+Topico #1:  paz violencia_domestica artistico similares vitimas
+Topico #2:  jornada_trabalho jornada necessario_especiais portadores_necessario feiras
+Topico #3:  calendario oficial comemorado almi cabo_almi
+Topico #4:  indigenas energizada municipal_protecao cerca_energizada municipal_habitacao
+
+Topicos no Cluster2_3_4_5_6_7 modelo LDA: 1935
+Topico #0:  cacambas afonso estrada loteamento area_publica
+Topico #1:  paz violencia_domestica artistico similares vitimas
+Topico #2:  jornada_trabalho jornada necessario_especiais portadores_necessario feiras
+Topico #3:  vacina vacinacao obrigatoriedade calendario reduzir
+Topico #4:  indigenas energizada municipal_protecao cerca_energizada municipal_habitacao
+
+Topicos no Clusters2_3_4_5_6_7_8_9 modelo LDA: 1999
+Topico #0:  cacambas afonso estrada loteamento area_publica
+Topico #1:  paz violencia_domestica artistico similares vitimas
+Topico #2:  jornada_trabalho jornada necessario_especiais portadores_necessario portadores
+Topico #3:  estacionamento isencao vagas iptu calendario
+Topico #4:  indigenas energizada municipal_protecao cerca_energizada municipal_habitacao
+
+Topicos no Cluster1_2_3_4_5_6_7_8_9 modelo LDA: 2027
+Topico #0:  cacambas afonso estrada loteamento area_publica
+Topico #1:  paz violencia_domestica artistico similares vitimas
+Topico #2:  jornada_trabalho jornada necessario_especiais portadores_necessario feiras
+Topico #3:  estacionamento isencao calendario oficial comemorado
+Topico #4:  indigenas energizada municipal_protecao cerca_energizada municipal_habitacao
+
+Topicos no Cluster1_2_3_4_5_6_7_8_9_10_11_12_13_14_15 modelo LDA: 3126
+Topico #0:  trecho trecho_compreendido travessa denomina_rua denominacao
+Topico #1:  marcio_matozinhos tem_lei paz artistico miranda
+Topico #2:  jornada_trabalho jornada banheiros feiras_livre feiras
+Topico #3:  municipal_associacao declara associacao_moradores albuquerque comunitaria
+Topico #4:  iptu contribuinte imovel territorial_urbano predial_territorial

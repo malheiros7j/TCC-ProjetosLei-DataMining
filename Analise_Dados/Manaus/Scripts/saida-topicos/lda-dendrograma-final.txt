@@ -1,0 +1,216 @@
+n_documentos:1415 	 n_palavras: 733 	 
+__________________________________________________________________________________
+
+
+DENDROGRAMA SEPARADO POR CLUSTER
+_____________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Realizando a modelagem de topicos LDA com tfidf features, n_documentos: 1415 e n_palavras = 733 ...
+
+Topicos no Cluster_1 modelo LDA: 30
+Topico #0:  linha parcela identificar jornada referido correspondente mundial conservacao dezembro parque
+Topico #1:  relacionados divulgar colocar auto mitoso produzir implantacao alcance particulares vitimas
+Topico #2:  carratte gloria_carratte gloria gabinete_gloria martin_sao obrigatoriedade diagnostico esporte email junho
+Topico #3:  carratte gloria_carratte gloria gabinete_gloria imovel portadores existentes motorista relevancia razao
+Topico #4:  municipal_ensino antiga possivel onibus civil_www agente mecanismos ruas vagas aprovacao_presente
+
+Topicos no Cluster_2 modelo LDA: 41
+Topico #0:  linha parcela identificar jornada referido correspondente mundial conservacao dezembro parque
+Topico #1:  bibiano bibiano_cmm relacionados divulgar colocar auto implantacao mitoso particulares alcance
+Topico #2:  obrigatoriedade disponibilizar expressoes utilidade alimentos orgao_responsavel interno diagnostico comum entrara
+Topico #3:  imovel bibiano razao existentes relevancia motorista devera_estar t orgao_classe construir
+Topico #4:  bibiano bibiano_cmm gabinete_professor pt anaus sao_tado tramitacao municipal_ensino prevencao antiga
+
+Topicos no Cluster_3 modelo LDA: 45
+Topico #0:  therezinha ruiz linha referido parcela identificar dem operar jornada identificacao
+Topico #1:  relacionados divulgar auto ruiz colocar mitoso produzir implantacao alcance particulares
+Topico #2:  obrigatoriedade disponibilizar expressoes therezinha utilidade orgao_responsavel comum diagnostico interno basica
+Topico #3:  imovel ruiz existentes portadores razao relevancia therezinha motorista t orgao_classe
+Topico #4:  therezinha ruiz dem martim municipal_ensino caballero_martim esporte possivel escolas_rede abril
+
+Topicos no Cluster_4 modelo LDA: 31
+Topico #0:  linha parcela jornada identificar referido mundial correspondente conservacao dezembro parque
+Topico #1:  relacionados divulgar colocar auto mitoso produzir implantacao alcance particulares exclusivamente
+Topico #2:  reizo castelo branco gabinete_reizo castelobranco_cmm adolescentes estudantes sala educativas orientacao
+Topico #3:  imovel relevancia razao existentes motorista t orgao_classe devera_estar construir possivel
+Topico #4:  municipal_ensino antiga possivel civil_www onibus agente mecanismos ruas aprovacao_presente setembro
+
+Topicos no Cluster_5 modelo LDA: 13
+Topico #0:  linha parcela identificar jornada referido correspondente mundial conservacao dezembro parque
+Topico #1:  relacionados divulgar colocar auto mitoso produzir implantacao alcance particulares exclusivamente
+Topico #2:  obrigatoriedade disponibilizar expressoes utilidade orgao_responsavel diagnostico interno estrutura_organizacional entrara comum
+Topico #3:  imovel relevancia existentes razao motorista t orgao_classe devera_estar construir possivel
+Topico #4:  metros linha linha_reta lote concessao comercial unidade_fiscal geral_municipio limites titulo
+
+Topicos no Cluster_6 modelo LDA: 125
+Topico #0:  tabela magisterio padrao subsidio vencimento saude_medico f jornada dezembro parcela
+Topico #1:  gerencia divisao estrutura chefe departamento capitulo interno diretora assessoramento redacao
+Topico #2:  diretora origem cuidados remuneracao interno utilidade estrutura_organizacional obrigatoriedade disponibilizar emprego
+Topico #3:  excelencias anexo_unico financiamento redacao plano_plurianual dezembro deliberacao altera vossas_excelencias fundo
+Topico #4:  municipal_ensino antiga vagas aus_am possivel civil_www vencimento agente onibus mecanismos
+
+Topicos no Cluster_7 modelo LDA: 57
+Topico #0:  padre_martin endereco_rua hiram endereco colares religiosos gabinete_hiram gabinete_colares liberdade dezembro
+Topico #1:  colares gabinete_colares padre_martin endereco_rua endereco religiosos relacionados hiram sao_comemorado colocar
+Topico #2:  colares obrigatoriedade utilidade disponibilizar expressoes orgao_responsavel alimentos diagnostico entrara interno
+Topico #3:  imovel existentes relevancia razao motorista t devera_estar orgao_classe possivel construir
+Topico #4:  municipal_ensino antiga possivel civil_www onibus agente setembro mecanismos ruas linha
+
+Topicos no Cluster_8 modelo LDA: 24
+Topico #0:  rozenha ednailson_rozenha referido linha parcela identificar mundial jornada conservacao suplementadas_necessario
+Topico #1:  rozenha ednailson_rozenha esporte email anaus relacionados modalidade colocar exclusivamente divulgar
+Topico #2:  obrigatoriedade disponibilizar expressoes utilidade orgao_responsavel diagnostico interno estrutura_organizacional comum entrara
+Topico #3:  imovel existentes relevancia razao motorista t orgao_classe devera_estar construir animal
+Topico #4:  municipal_ensino antiga possivel onibus civil_www vagas esporte agente mecanismos ruas
+
+Topicos no Cluster_9 modelo LDA: 15
+Topico #0:  bicicleta linha parcela identificar jornada referido correspondente mundial conservacao dezembro
+Topico #1:  bicicleta relacionados divulgar colocar implantacao auto mitoso produzir exclusivamente alcance
+Topico #2:  bicicleta estacionamento obrigatoriedade disponibilizar therezinha mobilidade incentivo modalidade expressoes espaco
+Topico #3:  imovel relevancia existentes razao motorista t orgao_classe devera_estar construir possivel
+Topico #4:  municipal_ensino antiga possivel civil_www onibus agente mecanismos ruas aprovacao_presente vagas
+
+Topicos no Cluster_10 modelo LDA: 27
+Topico #0:  alcool bebidas sindrome bebidas_alcool linha mundial jornada parcela identificar referido
+Topico #1:  relacionados divulgar colocar auto mitoso produzir implantacao alcance particulares exclusivamente
+Topico #2:  drogas obrigatoriedade disponibilizar expressoes utilidade orgao_responsavel entrara diagnostico interno comum
+Topico #3:  alcool jovens imovel relevancia motorista existentes razao t orgao_classe devera_estar
+Topico #4:  alcool drogas bebidas bebidas_alcool consumo adolescentes sindrome morte municipal_ensino jovens
+
+Topicos no Cluster_11 modelo LDA: 21
+Topico #0:  linha jornada parcela identificar referido correspondente mundial dezembro conservacao parque
+Topico #1:  relacionados divulgar colocar auto mitoso produzir implantacao alcance particulares exclusivamente
+Topico #2:  obrigatoriedade disponibilizar expressoes utilidade orgao_responsavel diagnostico interno estrutura_organizacional entrara comum
+Topico #3:  idosos hissa_abrahao estatuto violencia paco_legislativo t qualidade_vida idade motorista postos
+Topico #4:  municipal_ensino antiga possivel onibus civil_www agente mecanismos ruas aprovacao_presente vagas
+
+Topicos no Cluster_12 modelo LDA: 22
+Topico #0:  linha parcela identificar jornada referido correspondente mundial conservacao dezembro complementar
+Topico #1:  frota bairro_sao mercado historico chegar clientes livre cultural agosto sede
+Topico #2:  obrigatoriedade disponibilizar mercado expressoes utilidade orgao_responsavel diagnostico interno estrutura_organizacional entrara
+Topico #3:  imovel relevancia existentes razao motorista t orgao_classe devera_estar construir possivel
+Topico #4:  municipal_ensino onibus antiga possivel civil_www agente mecanismos ruas aprovacao_presente vagas
+
+Topicos no Cluster_13 modelo LDA: 27
+Topico #0:  utilidade associacao felipe_souza cultural referido considera defesa sede linha conservacao
+Topico #1:  relacionados divulgar colocar auto fim_lucrativos mitoso produzir implantacao alcance orientar
+Topico #2:  utilidade instituto associacao fim_lucrativos sede considera promocao prefeitura_municipal cultura prefeitura
+Topico #3:  imovel relevancia existentes razao motorista t orgao_classe devera_estar prefeitura construir
+Topico #4:  municipal_ensino antiga possivel civil_www onibus agente mecanismos ruas aprovacao_presente vagas
+
+Topicos no Cluster_14 modelo LDA: 19
+Topico #0:  linha parcela identificar jornada referido correspondente mundial conservacao dezembro parque
+Topico #1:  relacionados dr auto divulgar colocar mitoso gabinete_dr produzir implantacao alcance
+Topico #2:  obrigatoriedade disponibilizar expressoes utilidade orgao_responsavel diagnostico interno estrutura_organizacional entrara comum
+Topico #3:  dr gabinete_dr pontos nobres_vereadores educativas escolha representante existentes outubro imovel
+Topico #4:  municipal_ensino antiga possivel civil_www onibus agente mecanismos ruas aprovacao_presente auto
+
+Topicos no Cluster_15 modelo LDA: 918
+Topico #0:  saude_medico registro_orgao estacionamento conselho executivo_atividades identificacao jornada hissa_abrahao placas bebidas
+Topico #1:  violencia fone_fax clientes fevereiro aus vitimas chefe licenca combate chefe_poder
+Topico #2:  violencia novembro comemorado oficial psl calendario andar cancer fone_fax esporte
+Topico #3:  ambiental logradouros lixo felipe_souza passageiros permissao residuos limpeza licenca imovel
+Topico #4:  energia eletrica energia_eletrica solo sao_manaus residuos email onibus bibiano descarte
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+SEPARADO POR NIVEL DE DENDROGRAMA CLUSTERING
+
+Topicos no Cluster14_15 modelo LDA: 937
+Topico #0:  sindrome arquivo_assinado assinado_digitalmente codigo saude_medico registro_orgao padre_martin onibus estacionamento concessionarias
+Topico #1:  regularizacao regularizacao_fundiaria gabinete_dr dr diretora origem area_especialista especialista_interesse cuidados motivo
+Topico #2:  lixo clientes estacionamento obrigados placas plinio_valor energia banco roberto_sabino jornada
+Topico #3:  violencia novembro oficial comemorado calendario esporte fone_fax homem outubro moradores
+Topico #4:  sao_manaus email residuos fiscalizar banco residuos_solo assuntos solo onibus faixa
+
+Topicos no Cluster13_14_15 modelo LDA: 964
+Topico #0:  saude_medico sindrome registro_orgao estacionamento onibus concessionarias jornada isaac_tayah assinado_digitalmente arquivo_assinado
+Topico #1:  regularizacao regularizacao_fundiaria especialista_interesse area_especialista parcela homem dr hissa_abrahao paco_legislativo gabinete_dr
+Topico #2:  clientes lixo estacionamento roberto_sabino plinio_valor energia obrigados jornada gabinete_farias farias_cmm
+Topico #3:  utilidade violencia oficial esporte comemorado calendario novembro associacao cultura homem
+Topico #4:  sao_manaus email residuos fiscalizar banco residuos_solo assuntos solo onibus faixa
+
+Topicos no Cluster12_13_14_15 modelo LDA: 986
+Topico #0:  saude_medico sindrome registro_orgao onibus concessionarias deficientes estacionamento jornada transporte_publico isaac_tayah
+Topico #1:  regularizacao regularizacao_fundiaria especialista_interesse area_especialista parcela dr gabinete_dr homem hissa_abrahao paco_legislativo
+Topico #2:  clientes estacionamento lixo roberto_sabino jornada plinio_valor energia gabinete_farias farias_cmm obrigados
+Topico #3:  frota utilidade violencia oficial esporte comemorado calendario cultura homem novembro
+Topico #4:  sao_manaus email residuos fiscalizar banco residuos_solo assuntos solo onibus faixa
+
+Topicos no Cluster11_12_13_14_15 modelo LDA: 1007
+Topico #0:  sindrome saude_medico registro_orgao onibus deficientes estacionamento concessionarias jornada transporte_publico isaac_tayah
+Topico #1:  regularizacao regularizacao_fundiaria especialista_interesse area_especialista parcela homem dr hissa_abrahao paco_legislativo fone_fax
+Topico #2:  clientes estacionamento lixo jornada roberto_sabino plinio_valor energia obrigados codigo residuos
+Topico #3:  idosos violencia frota utilidade oficial esporte calendario comemorado cultura fone_fax
+Topico #4:  sao_manaus email residuos fiscalizar banco residuos_solo assuntos solo onibus faixa
+
+Topicos no Cluster10_11_12_13_14_15 modelo LDA: 1034
+Topico #0:  saude_medico registro_orgao sindrome onibus deficientes estacionamento concessionarias isaac_tayah jornada transporte_publico
+Topico #1:  regularizacao_fundiaria regularizacao gabinete_dr dr area_especialista especialista_interesse diretora origem cuidados parcela
+Topico #2:  arquivo_assinado assinado_digitalmente alcool clientes estacionamento lixo identificacao venda jornada infrator
+Topico #3:  drogas alcool bebidas adolescentes bebidas_alcool violencia consumo andar idosos psl
+Topico #4:  sao_manaus email bibiano residuos artigos residuos_solo fiscalizar banco solo assuntos
+
+Topicos no Cluster9_10_11_12_13_14_15 modelo LDA: 1049
+Topico #0:  saude_medico registro_orgao bicicleta onibus sindrome deficientes concessionarias estacionamento isaac_tayah jornada
+Topico #1:  regularizacao_fundiaria regularizacao area_especialista especialista_interesse parcela homem hissa_abrahao dr paco_legislativo civil_www
+Topico #2:  bicicleta estacionamento clientes locais instalacao lixo mobilidade obrigados onibus arquivo_assinado
+Topico #3:  alcool drogas violencia idosos adolescentes bebidas esporte oficial calendario frota
+Topico #4:  sao_manaus email bibiano residuos residuos_solo fiscalizar bibiano_cmm banco assuntos solo
+
+Topicos no Cluster8_9_10_11_12_13_14_15 modelo LDA: 1073
+Topico #0:  saude_medico registro_orgao onibus sindrome isaac_tayah deficientes concessionarias estacionamento transporte_publico bicicleta
+Topico #1:  regularizacao_fundiaria regularizacao area_especialista especialista_interesse parcela dr homem hissa_abrahao paco_legislativo gabinete_dr
+Topico #2:  bicicleta estacionamento clientes lixo jornada obrigados instalacao onibus locais codigo
+Topico #3:  rozenha esporte violencia alcool idosos adolescentes drogas email utilidade oficial
+Topico #4:  sao_manaus email residuos fiscalizar banco residuos_solo assuntos solo onibus bibiano
+
+Topicos no Cluster7_8_9_10_11_12_13_14_15 modelo LDA: 1130
+Topico #0:  saude_medico registro_orgao sindrome onibus estacionamento concessionarias isaac_tayah deficientes transporte_publico assinado_digitalmente
+Topico #1:  regularizacao regularizacao_fundiaria gabinete_dr dr area_especialista especialista_interesse diretora origem cuidados motivo
+Topico #2:  bicicleta estacionamento clientes lixo obrigados plinio_valor energia gabinete_farias roberto_sabino farias_cmm
+Topico #3:  violencia esporte idosos rozenha comemorado calendario oficial utilidade religiosos frota
+Topico #4:  sao_manaus email residuos fiscalizar banco residuos_solo assuntos bibiano onibus solo
+
+Topicos no Cluster5_6 modelo LDA: 138
+Topico #0:  tabela magisterio padrao subsidio vencimento f saude_medico seguridade remuneracao jornada
+Topico #1:  gerencia divisao departamento estrutura capitulo chefe interno assessoramento controle_interno estrutura_organizacional
+Topico #2:  diretora origem cuidados remuneracao interno estrutura_organizacional utilidade motivo altera obrigatoriedade
+Topico #3:  anexo_unico financiamento excelencias redacao plano_plurianual deliberacao fundo vossas_excelencias dezembro aus_am
+Topico #4:  metros linha_reta linha concessao lote imovel concessionarias comercial concedido avenida
+
+Topicos no Cluster5_6_7_8_9_10_11_12_13_14_15 modelo LDA: 1268
+Topico #0:  saude_medico metros fiscal_saude registro_orgao sindrome linha lote tabela linha_reta onibus
+Topico #1:  regularizacao regularizacao_fundiaria area_especialista especialista_interesse parcela homem hissa_abrahao dr paco_legislativo civil_www
+Topico #2:  estacionamento bicicleta clientes lixo jornada obrigados metros reincidencia farias_cmm gabinete_farias
+Topico #3:  esporte violencia idosos utilidade comemorado diretora calendario emprego oficial frota
+Topico #4:  sao_manaus email chegar bibiano oficial escolas_nivel residuos tabela bibiano_cmm padrao
+
+Topicos no Cluster4_5_6_7_8_9_10_11_12_13_14_15 modelo LDA: 1299
+Topico #0:  arquivo_assinado assinado_digitalmente codigo saude_medico registro_orgao sindrome isaac_tayah onibus fiscal_saude concessionarias
+Topico #1:  regularizacao regularizacao_fundiaria area_especialista especialista_interesse parcela homem paco_legislativo hissa_abrahao dr civil_www
+Topico #2:  estacionamento bicicleta clientes lixo jornada metros obrigados reincidencia proibida passageiros
+Topico #3:  reizo castelo branco gabinete_reizo violencia castelobranco_cmm calendario esporte comemorado estudantes
+Topico #4:  sao_manaus email bibiano escolas_nivel tabela residuos bibiano_cmm magisterio padrao profissional_magisterio
+
+Topicos no Cluster3_4_5_6_7_8_9_10_11_12_13_14_15 modelo LDA: 1344
+Topico #0:  arquivo_assinado assinado_digitalmente codigo saude_medico registro_orgao sindrome fiscal_saude onibus isaac_tayah concessionarias
+Topico #1:  regularizacao regularizacao_fundiaria area_especialista especialista_interesse parcela dr homem paco_legislativo hissa_abrahao civil_www
+Topico #2:  therezinha ruiz bicicleta estacionamento lixo clientes jornada metros obrigados reincidencia
+Topico #3:  reizo ruiz therezinha branco castelo esporte violencia comemorado utilidade calendario
+Topico #4:  sao_manaus email bibiano escolas_nivel tabela magisterio padrao bibiano_cmm residuos profissional_magisterio
+
+Topicos no Cluster2_3_4_5_6_7_8_9_10_11_12_13_14_15 modelo LDA: 1385
+Topico #0:  arquivo_assinado assinado_digitalmente codigo saude_medico registro_orgao sindrome fiscal_saude onibus isaac_tayah tabela
+Topico #1:  regularizacao diretora regularizacao_fundiaria area_especialista gabinete_dr origem dr especialista_interesse cuidados motivo
+Topico #2:  bicicleta estacionamento lixo clientes therezinha ruiz metros obrigados reincidencia onibus
+Topico #3:  bibiano reizo esporte violencia comemorado branco adolescentes castelo calendario ruiz
+Topico #4:  sao_manaus email chegar oficial magisterio profissional_magisterio escolas_nivel tabela padrao f
+
+Topicos no Cluster1_2_3_4_5_6_7_8_9_10_11_12_13_14_15 modelo LDA: 1415
+Topico #0:  arquivo_assinado assinado_digitalmente codigo saude_medico registro_orgao sindrome tabela isaac_tayah onibus concessionarias
+Topico #1:  tabela magisterio padrao diretora regularizacao f regularizacao_fundiaria area_especialista profissional_magisterio origem
+Topico #2:  clientes consumo bicicleta estacionamento lixo similares reincidencia obrigados metros passageiros
+Topico #3:  carratte gloria_carratte gloria gabinete_gloria bibiano email esporte combate novembro campanhas
+Topico #4:  sao_manaus email chegar oficial terminais principais presente_propositura fevereiro vias longo

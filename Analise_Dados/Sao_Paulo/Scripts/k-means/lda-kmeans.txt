@@ -1,0 +1,110 @@
+n_documentos:6958 	 n_palavras: 3776 	 
+__________________________________________________________________________________
+
+
+Realizando a modelagem de topicos LDA com tfidf features, n_documentos: 6958 e n_palavras = 3776 ...
+
+Topicos no Cluster_0 modelo LDA:
+Topico #0:  economica_mista dia_maio secao_i concurso comissao_especifica
+Topico #1:  travessa travessa_rua remuneracao_dep ponto_deflete descentralizacao_gestao
+Topico #2:  centro_convivencia semaforos travessa convivencia pedestres
+Topico #3:  travessa denomina_travessa numero_rua altura boi
+Topico #4:  transfere codigo_transito veiculos_automotores serra conferencias_municipais
+
+Topicos no Cluster_1 modelo LDA:
+Topico #0:  vacinacao drogas creches radiodifusao_comunitaria domiciliar
+Topico #1:  associacoes basica_saude turismo saude_bucal celebrar
+Topico #2:  conscientizacao estudantes aulas pedagogico palestras
+Topico #3:  turistico cancer polo polo_cultural escolas_publico
+Topico #4:  fms inativacao exames sigla manutencao_conselho
+
+Topicos no Cluster_2 modelo LDA:
+Topico #0:  caes gatos caes_gatos entrada veterinario
+Topico #1:  animal veterinario maternidade nascido gestantes
+Topico #2:  estadios futebol automotores obrigatoria supermercados
+Topico #3:  museu acervo rodas cadeiras_rodas cadeiras
+Topico #4:  banheiros caixa similares descumprimento clientes
+
+Topicos no Cluster_3 modelo LDA:
+Topico #0:  viela denominacao_rua araujo cei viaduto
+Topico #1:  escolas_municipal vereador_ushitaro ushitaro_kamia capao_redondo ipiranga
+Topico #2:  viaduto praca_inominado altura itaim inominado_localizado
+Topico #3:  complexo_viario localizado_avenida praca_maria inominado_localizado complexo
+Topico #4:  utilidade_publico utilidade declara_utilidade declarados_utilidade terreno
+
+Topicos no Cluster_4 modelo LDA:
+Topico #0:  eventos_municipio institui_dia constar_calendario passa_constar institui_passa
+Topico #1:  institui_dia escolas_municipal comemorado_dia dia_novembro eventos_municipio
+Topico #2:  oficial_municipio incluir_calendario inciso_artigo anualmente_mes natalini
+Topico #3:  divisa_quadra transferidos eventos_municipio impacto frota
+Topico #4:  transfere codigo_transito veiculos_automotores serra conferencias_municipais
+
+Topicos no Cluster_5 modelo LDA:
+Topico #0:  moeda ipca acumulada ibge aquisitivo
+Topico #1:  moeda ibge ipca variacao oleo
+Topico #2:  ibge ipca proprietario_imovel coronel_telhada estatistica
+Topico #3:  divisa_quadra transferidos impacto farmacias frota
+Topico #4:  variacao ipca ibge acumulada moeda
+
+Topicos no Cluster_6 modelo LDA:
+Topico #0:  parque_municipal confluencia freguesia brasilandia criacao_parque
+Topico #1:  confluencia remuneracao_dep ponto_deflete localizado_confluencia descentralizacao_gestao
+Topico #2:  confluencia confluencia_rua localizado_confluencia confluencia_ruas freguesia
+Topico #3:  pinheiros confluencia confluencia_ruas mooca floriano_pesaro
+Topico #4:  brasilandia confluencia transfere norte codigo_transito
+
+Topicos no Cluster_7 modelo LDA:
+Topico #0:  economica_mista dia_maio secao_i concurso comissao_especifica
+Topico #1:  remuneracao_dep ponto_deflete descentralizacao_gestao odontologico bt
+Topico #2:  determinado_emplacamento registro_codigo bairro_nova endereco_postal localizado_bairro
+Topico #3:  divisa_quadra transferidos impacto frota futuras
+Topico #4:  transfere codigo_transito veiculos_automotores serra conferencias_municipais
+
+Topicos no Cluster_8 modelo LDA:
+Topico #0:  placas concessionaria lixo obra energia
+Topico #1:  dep al silvestre denominacao_rua santana
+Topico #2:  bilhete tarifa exclusivamente_onibus gestantes corredores
+Topico #3:  saude_familia equipe_saude carlos_neder qpl_clt paulo_dia
+Topico #4:  tribunal inativos dia_marco inciso_vii funcoes_gratificadas
+
+Topicos no Cluster_9 modelo LDA:
+Topico #0:  iptu isencao predial territorial imposto_predial
+Topico #1:  isencao iptu remuneracao_dep ponto_deflete descentralizacao_gestao
+Topico #2:  servicos_taxa iptu proprietario_imovel confluencia_rua urbana_universal
+Topico #3:  isencao tarifa urbana_municipio convenios_estado coletivo_urbana
+Topico #4:  isencao iptu predial territorial predial_territorial
+
+Topicos no Cluster_10 modelo LDA:
+Topico #0:  inciso_art floriano_pesaro floriano pesaro eventos_cidade
+Topico #1:  inciso_art eventos_cidade paulo_dia finalidade_incluir comemorado_dia
+Topico #2:  eventos_cidade alinea incluir_calendario alinea_inciso fica_inserido
+Topico #3:  alinea_inciso alinea divisa_quadra fica_inserido rafael
+Topico #4:  alinea_inciso alinea acrescido_alinea anualmente_dia finalidade_incluir
+
+Topicos no Cluster_11 modelo LDA:
+Topico #0:  incluir_dia anualmente_dia inciso_art cidadao altera_inciso
+Topico #1:  anualmente_dia incluir_dia inciso_art pmdb nelo_rodolfo
+Topico #2:  servicos_taxa proprietario_imovel confluencia_rua urbana_universal destinacao_finalidade
+Topico #3:  divisa_quadra transferidos impacto frota vereador_ricardo
+Topico #4:  dia_municipal incluir_dia acrescido_alinea alinea_inciso cancer
+
+Topicos no Cluster_12 modelo LDA:
+Topico #0:  economica_mista circulacao_veiculos dia_maio concurso secao_i
+Topico #1:  remuneracao_dep ponto_deflete descentralizacao_gestao odontologico bt
+Topico #2:  eliseu vereador_eliseu eliseu_gabriel gabriel psb
+Topico #3:  divisa_quadra transferidos impacto frota alfabetizacao_jovens
+Topico #4:  pirituba altura vereador_eliseu gabriel eliseu_gabriel
+
+Topicos no Cluster_13 modelo LDA:
+Topico #0:  economica_mista alcool dia_maio secao_i concurso
+Topico #1:  alcool bebidas bebidas_alcool embalagens comercializacao
+Topico #2:  bebidas bebidas_alcool servicos_taxa proprietario_imovel confluencia_rua
+Topico #3:  divisa_quadra transferidos impacto frota alfabetizacao_jovens
+Topico #4:  alcool bebidas bebidas_alcool transfere local_facil
+
+Topicos no Cluster_14 modelo LDA:
+Topico #0:  formosa sapopemba prudente distrito_vila carrao
+Topico #1:  prudente distrito_vila vereadora_edir edir edir_sala
+Topico #2:  logradouro_inominado delimitado zona_leste leste casos_verde
+Topico #3:  logradouro_inominado delimitado penha distrito_vila mooca
+Topico #4:  prudente logradouro_inominado delimitado sapopemba penha

@@ -1,0 +1,175 @@
+n_documentos:1415 	 n_palavras: 684 	 
+__________________________________________________________________________________
+
+
+Realizando a modelagem de topicos LDA com tfidf features, n_documentos: 1415 e n_palavras = 684 ...
+
+Topicos no Cluster_1 modelo LDA: 86
+Topico #0:  relevancia postos entende diagnostico elaboracao aplicacao lote ajuda capitulo obras
+Topico #1:  locais ambiental caixa busca representante parque faixa seguridade banco autoridade
+Topico #2:  estacionamento clientes vagas caixa reincidencia estabelecimentos_comerciais pagamento cobranca consumo banco
+Topico #3:  estacionamento faixa vias banco acidentes exclusivamente contrario basica encontra fiscalizar
+Topico #4:  faixa ambiental obras smtu pena prestacao ufms placas cobranca calcadas
+
+Topicos no Cluster_2 modelo LDA: 86
+Topico #0:  bolsa parcela cadastro edificacoes lote rua_pe regularizacao relevancia entende especialista_interesse
+Topico #1:  jovens auto juridica formacao metros busca seguridade antiga pessoas_fisica bolsa
+Topico #2:  metros imovel lote concessao excelencias ma residencial concessionarias autorizado_poder concedido
+Topico #3:  fone_fax bolsa cultural cultura educativas aus jovens conta_publicacao preventivas reconhecimento
+Topico #4:  solo relatorios instalacao ressaltar ambiental preventivas venda exercer obras arthur_virgilio
+
+Topicos no Cluster_3 modelo LDA: 96
+Topico #0:  emprego rua_pe mercado capitulo entende relevancia encontra ajuda vagas aplicacao
+Topico #1:  contratos aptidao concurso_publico concurso estrutura autoridade avaliar estadual exames base
+Topico #2:  departamento mundo excelencias falta prefeitura vagas representante estrutura relacionados promocao
+Topico #3:  aus aus_am basica educacao_basica interessado fone_fax emprego contrario elevada altera
+Topico #4:  gerencia divisao departamento emprego estrutura assessoramento coordenar chefe geral_municipio controle_interno
+
+Topicos no Cluster_4 modelo LDA: 74
+Topico #0:  postos livre estudantes idosos sao_manaus aplicacao possibilidade relevancia entende ajuda
+Topico #1:  gestantes idosos livre deficientes assegurar andar seguridade banco busca ma
+Topico #2:  venda morte estabelecimentos_comerciais similares alvara excelencias codigo reincidencia precos facil
+Topico #3:  banco fiscalizar portadores reais eletronico reincidencia instalados aplicacao gestantes basica
+Topico #4:  sao_manaus instalacao livre oficial alvara venda obrigados vista calcadas chegar
+
+Topicos no Cluster_5 modelo LDA: 83
+Topico #0:  cultural informar aplicacao elaboracao fornecimento reais relevancia postos encontra entende
+Topico #1:  historico representante reconhecimento andar busca parque dezembro cuidados aprovar banco
+Topico #2:  mundo excelencias prefeitura violencia falta enfrentamento idade promocao orgao_classe conscientizacao
+Topico #3:  violencia vitimas sofrem educativas prevencao idosos encontra emprego mundo combate
+Topico #4:  alcool bebidas bebidas_alcool consumo portadores violencia sindrome diretor_indireta sala julho
+
+Topicos no Cluster_6 modelo LDA: 24
+Topico #0:  agente aplicacao relevancia lote diagnostico deixar entende parque elaboracao guarda
+Topico #1:  individual logradouros busca subsidio exames apresentacao andar seguridade edificacoes calcadas
+Topico #2:  mundo excelencias prefeitura logradouros falta alvara promocao orgao_classe diz legais
+Topico #3:  logradouros nome logradouros_publico endereco civil_gc prefeitura alvara mudanca vias moradores
+Topico #4:  submeto arthur_virgilio ressaltar solo cobranca diretor_indireta coordenar instalacao qualidade_vida compete
+
+Topicos no Cluster_7 modelo LDA: 49
+Topico #0:  residuos residuos_solo descarte mobilidade solo portadores reduzir lixo materiais ambiental
+Topico #1:  mobilidade sildomar_abtibol mobilidade_urbano sanitaria matriculados busca pessoas_deficiencia locais edificacoes onibus
+Topico #2:  descarte sildomar_abtibol excelencias prefeitura residuos mundo falta interno guarda promocao
+Topico #3:  matriculados portadores sanitaria residencia estudantes descarte existe contrario basica banco
+Topico #4:  solo residuos_solo sildomar_abtibol cobranca arthur_virgilio submeto complementar vista busca ressaltar
+
+Topicos no Cluster_8 modelo LDA: 67
+Topico #0:  relevancia entende diagnostico lote aplicacao elaboracao parque postos ajuda guarda
+Topico #1:  busca homem seguridade parque animal exames representante viver edificacoes sao_pago
+Topico #2:  excelencias mundo falta prefeitura conscientizacao guarda diario_oficial promocao orgao_classe estacionamento
+Topico #3:  calendario institui_calendario oficial prevencao combate comemorado moradores conscientizacao campanhas oficial_municipio
+Topico #4:  animal guarda conscientizacao identificacao combate proprietario prevencao submeto livre existe
+
+Topicos no Cluster_9 modelo LDA: 37
+Topico #0:  tema pedagogico estudantes escolas_municipais municipal_ensino formacao aplicacao adolescentes relevancia disciplina
+Topico #1:  orientacao pedagogico estudantes busca formacao jovens conta_dotacoes escolas_municipais incentivo importancia
+Topico #2:  excelencias mundo falta prefeitura promocao orgao_classe voltadas morte multa_ufms legais
+Topico #3:  cancer prevencao preventivas pacientes campanhas estimativa homem contrario banco fornecimento
+Topico #4:  qualidade_vida arthur_virgilio submeto coordenar solo cobranca diretor_indireta ressaltar instalacao faixa
+
+Topicos no Cluster_10 modelo LDA: 62
+Topico #0:  idosos smtu idade emprego rua_pe estatuto aplicacao postos onibus entende
+Topico #1:  representante busca seguridade exames parque edificacoes sao_pago locais aprovar estadual
+Topico #2:  hospitalar guarda similares crimes proibida excelencias exigencias placas penalidades codigo
+Topico #3:  identificacao pago nome estudantes placas encontra vias motorista existe condicao
+Topico #4:  identificacao materiais passageiros placas violencia submeto reserva arthur_virgilio constitucional dobro
+
+Topicos no Cluster_11 modelo LDA: 105
+Topico #0:  parque creches ajuda idosos relevancia instalacao alimentos entende convenios menor
+Topico #1:  conselho parque representante subsidio conselho_municipal membros padrao fiscal_saude educacional magisterio
+Topico #2:  creches vagas excelencias basica mundo idade infantil estrutura falta prefeitura
+Topico #3:  junho pontos desenvolvimento_atividades institui_calendario sao_comemorado calendario acidentes banco mundo comemorado
+Topico #4:  alimentos santa comemorado alimentacao calcadas consumo sao_comemorado melhoria padrao setembro
+
+Topicos no Cluster_12 modelo LDA: 75
+Topico #0:  integracao postos jornada horaria ajuda relevancia idosos entende escolas_municipais terreno
+Topico #1:  jornada conta_dotacoes rua_pe disponibilizar exames busca representante locais banco idosos
+Topico #2:  excelencias mundo prefeitura falta alvara promocao orgao_classe facil multa_ufms legais
+Topico #3:  lixo limpeza moradores alimentacao residuos manaus_fone vias eletronico prefeitura vias_publico
+Topico #4:  jornada instalacao alimentacao busca eletronico construcao gratuito coordenar obras consulta
+
+Topicos no Cluster_13 modelo LDA: 63
+Topico #0:  material fiscais_municipio entende fornecimento gratuito dezembro passageiros idosos relevancia rua_pe
+Topico #1:  onibus transporte_publico horaria apresentacao trafego deficientes concessionarias pontos passageiros motorista
+Topico #2:  excelencias mundo falta prefeitura reincidencia instituicoes promocao transporte_publico orgao_classe legais
+Topico #3:  conjunto zona rio nome moradores avenida renda baixa educativas estimular
+Topico #4:  passageiros transporte_publico onibus material espaco outubro cobranca julho precisa precos
+
+Topicos no Cluster_14 modelo LDA: 77
+Topico #0:  endereco_rua endereco participacao ajuda entende consulta relevancia diz encontra dezembro
+Topico #1:  andar auto endereco_rua representante busca semana_municipal seguridade reconhecimento ocorre autoridade
+Topico #2:  religiosos excelencias mundo andar escolas_publico guarda prefeitura morte neto diz
+Topico #3:  endereco_rua endereco comemorado sao_comemorado junho reincidencia nome calendario leis correspondente
+Topico #4:  semana_municipal institui_semana religiosos comemorado sao_comemorado conscientizacao liberdade cultura calendario violencia
+
+Topicos no Cluster_15 modelo LDA: 59
+Topico #0:  energia eletrica concessionarias energia_eletrica solo postos pontos terreno fornecimento capitulo
+Topico #1:  deficientes pessoas_deficiencia andar inclusao mobilidade julho locais especiais assegurar busca
+Topico #2:  imoveis imovel mundo excelencias preservacao prefeitura venda diz concedido falta
+Topico #3:  pessoas_deficiencia banco basica encontra desenvolvimento_atividades estimativa deficientes contrario fiscalizar mensagem
+Topico #4:  solo venda arthur_virgilio submeto cobranca ressaltar diretor_indireta instalacao busca coordenar
+
+Topicos no Cluster_16 modelo LDA: 67
+Topico #0:  utilidade parque associacao relevancia cultural esporte fim_lucrativos diagnostico ajuda postos
+Topico #1:  esporte modalidade subsidio base busca lazer incentivo representante historico sao_tado
+Topico #2:  prefeitura excelencias mundo promocao utilidade falta legais orgao_classe multa_ufms idade
+Topico #3:  utilidade associacao instituto fim_lucrativos cultural sede considera prefeitura desenvolvimento_atividades centro
+Topico #4:  instituto promocao arthur_virgilio historico submeto instalacao solo ressaltar cobranca diretor_indireta
+
+Topicos no Cluster_17 modelo LDA: 30
+Topico #0:  mercado relevancia entende frota parque diagnostico elaboracao aplicacao lote ajuda
+Topico #1:  bicicleta estacionamento mobilidade mobilidade_urbano locais espaco busca parque andar trafego
+Topico #2:  excelencias mundo falta prefeitura estacionamento promocao frota orgao_classe multa_ufms legais
+Topico #3:  moradores tecnologia banco contrario mudanca basica desenvolvimento_atividades encontra fiscalizar mensagem
+Topico #4:  espaco bicicleta vista arthur_virgilio construcao busca submeto mercado solo qualidade_vida
+
+Topicos no Cluster_18 modelo LDA: 38
+Topico #0:  frota bairro_sao cultural livre liberdade chegar ajuda historico sede entende
+Topico #1:  busca frota onibus seguridade banco redacao representante exames organica parque
+Topico #2:  codigo frota excelencias mundo prefeitura falta bairro_sao departamento promocao orgao_classe
+Topico #3:  redacao banco contrario altera encontra basica desenvolvimento_atividades fiscalizar mensagem estimativa
+Topico #4:  redacao altera submeto arthur_virgilio janeiro precos julho faixa exercer solo
+
+Topicos no Cluster_19 modelo LDA: 42
+Topico #0:  porte adolescentes entende relevancia servicos_publico lote diagnostico postos encaminhamento elaboracao
+Topico #1:  adolescentes porte autoridade busca estatuto avaliar infantil seguridade sanitaria representante
+Topico #2:  categoria excelencias prefeitura mundo falta reincidencia cobranca alvara neto combate
+Topico #3:  permissao adolescentes vias instituicao interessado banco contrario permissionario alimentos fiscalizar
+Topico #4:  divulgacao cobranca onibus situacoes existe estrategias organizar reserva dobro instalacao
+
+Topicos no Cluster_20 modelo LDA: 62
+Topico #0:  relevancia entende postos capitulo diagnostico elaboracao ajuda aplicacao lote possibilidade
+Topico #1:  busca seguridade representante exames homem parque pesquisa edificacoes sao_pago aprovar
+Topico #2:  drogas combate sustentavel preservacao excelencias mundo legais prefeitura falta ambiental
+Topico #3:  obesidade drogas acidentes homem vitimas preventivas fato prevencao alimentos pacientes
+Topico #4:  consumo instalacao reducao arthur_virgilio busca submeto reserva solo coordenar ressaltar
+
+Topicos no Cluster_21 modelo LDA: 37
+Topico #0:  relevancia entende diagnostico elaboracao educacional aplicacao lote postos ajuda capitulo
+Topico #1:  magisterio seguridade julho base subsidio vencimento calculo redacao educacional busca
+Topico #2:  excelencias mundo falta prefeitura interno promocao orgao_classe legais morte diretora
+Topico #3:  diretora origem cuidados motivo magisterio remuneracao altera interno funcoes preventivas
+Topico #4:  diretora base vencimento complementar educacional arthur_virgilio sala chefe_poder solo cobranca
+
+Topicos no Cluster_22 modelo LDA: 50
+Topico #0:  relevancia entende aplicacao elaboracao diagnostico lote postos ajuda capitulo idosos
+Topico #1:  busca seguridade representante exames parque edificacoes aprovar augusta_casa sao_pago espera
+Topico #2:  plano_plurianual corrente orcamentaria_fiscal fundo excelencias complementar_federal adicionais acao complementar creditos_adicionais
+Topico #3:  mensagem redacao neto excelencias banco elevada altera necessario_aprovacao arthur_virgilio regime
+Topico #4:  financiamento caixa arthur_virgilio submeto consideracao renovo regime_urgencia instituto estrutura ordem
+
+Topicos no Cluster_23 modelo LDA: 46
+Topico #0:  sindrome diagnostico clinicas exames relacionados tratamento encaminhamento familiar saude_medico possibilidade
+Topico #1:  exames representante busca escolas_rede jovens ocorre seguridade andar formacao psicologico
+Topico #2:  excelencias mundo falta prefeitura pacientes promocao orgao_classe legais multa_ufms estacionamento
+Topico #3:  psicologico membros representante junho pacientes desenvolvimento_atividades campanhas titulo educativas encontra
+Topico #4:  pacientes tratamento exames clinicas portadores gratuito precos solo existe divulgacao
+
+
+
+Topicos no Cluster_1_30 modelo LDA: 1415
+Topico #0:  gerencia divisao sao_manaus departamento regularizacao_fundiaria assessoramento regularizacao escolas_nivel estrutura_organizacional capitulo
+Topico #1:  idosos gestantes onibus transporte_publico deficientes mobilidade obesidade saude_medico especiais padrao
+Topico #2:  estacionamento codigo metros caixa banco clientes imovel financiamento vagas concessionarias
+Topico #3:  comemorado frota calendario oficial religiosos dezembro cultural excelencias aus sao_comemorado
+Topico #4:  clinicas sindrome familiar pacientes atencao perda gratuito diagnostico outubro estudantes

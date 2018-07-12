@@ -1,0 +1,103 @@
+n_documentos:2023 	 n_palavras: 1449 	 
+__________________________________________________________________________________
+
+
+Cluster#0:  pedagio concessionarias pagamento vias isencao usuarios vias_publico cobranca tarifa isentos dupla publico_municipais condutores taxistas transito passeio concessao pagar diminuir passagem contratos fila trecho custo concedido obrigados veiculos_automotores cidadaos militar automotores
+
+Cluster#1:  regularizacao urbanizacao fundiaria complementar regularizacao_fundiaria ocupacao urbanistica anexo aeis urbanistica_fundiaria regularizacao_urbanistica parcelamento_terra declarada fins_urbanizacao parcelamento padroes fins_inclusao inclusao_programa terra necessario_regularizacao observados_arts declarada_area arts procedimentos_necessario adotara_procedimentos programa_urbanizacao declara moradores executivo_adotara fica_declarada
+
+Cluster#2:  bancarias produtos reais clientes reincidencia infrator precos obrigados similares restaurantes comerciais supermercados indice placas venda alvara gas descumprimento proibe informar usuarios bares telefone casas obrigatoriedade cemiterios eletronico estabelecimentos_comerciais internet defesa_consumidor
+
+Cluster#3:  polo gastronomico gastronomico_cultural reconhecimento_polo reconhecimento comercial instalados_area implantacao poder_estabelecimentos intermedio_orgaos denominacao transito_veiculos sinalizacao indicacao intervencoes_urbana vagas_estacionamento estacionamento_veiculos referencia pedestres roteiro_turistico transito integrantes intermedio roteiro guia intervencoes estrada turistico estacionamento instalados
+
+Cluster#4:  feira turistico parque regiao anexo santa imovel ilha oeste zona_oeste militar zona moradores artistas praca situado ambiental regiao_administrativa terreno lazer museu popular prefeitura utilidade bandeira campo taxistas comunicacao sepetiba localizada
+
+Cluster#5:  semana comemorado calendario oficial oficial_cidade consolidado ser_comemorado data_comemorado cidade_consolidado oficial_municipio esporte escolha comemorado_anualmente incentivar altera ideia artes anualmente acoes oficial_eventos conscientizacao memoria inciso teste prevencao contato arte inserir economia aspectos
+
+Cluster#6:  adolescentes jovens ensino_fundamental prevencao fundamental orcamentarias acoes curricular conselho estudantes matricula municipal_educacao recursos entidades campanha informacoes profissional politicas civil inclusao emprego auditiva financeira educacional basica sociais orientacao palestras combate constituicao
+
+Cluster#7:  celio celio_lupparelli lupparelli prof turismo favelas guia adolescentes consumo uniformes trafego turistico licenca alvara torna_obrigatoria ensino_fundamental clientes publico_privadas contribuir sucesso defesa_consumidor horario revertidas advertencia sustentavel obrigatoria oferecer estacionamento oferta fundamental
+
+Cluster#8:  pacientes medico doenca unidades_saude clinicas tratamento hospital exame hospitais cancer diagnostico dr familia prevencao profissionais profissional teste cirurgia nascido sintomas cronica especializado procedimentos medicina portadores municipal_saude diabetes campanha urgencia morte
+
+Cluster#9:  idosos pessoas_idosos idade terceira_idade assistencia conselho terceira gratuidade tutelares qualidade selo estacionamento cartao violencia amigos conselho_tutelares saudavel telefone igual assentamentos superior ambito cuidados portadores visita isencao doadores representantes protecao integridade
+
+Cluster#10:  praca avenida dara_nome executivo_dara inominada localizada dara executivo_observados observados_disposto campo santa ruas observados determinacao moradores entrada rogerio expressa cumprimento projetos professor filhos amigos nascido homenagear denominada frente primeira carentes busca
+
+Cluster#11:  alimentos descarte produtos consumo comercializados alimentacao organica restaurantes prata comida residuos doenca similares sanitario comercializacao obesidade produzido humanos tipo infrator adequada usado higiene campanha diabetes plasticos medico comerciais qualidade preparados
+
+Cluster#12:  imaterial patrimonio natureza_imaterial povo_carioca povo natureza registro declara popular carnaval declarada banda proprios festa fica_declarada competente militar bens arte copacabana policia grupos comerciais movimento manifestacoes procedimentos memoria preservacao danca praca
+
+Cluster#13:  utilidade associacao trata_consolidacao municipal_utilidade consolidacao_municipal consolidacao utilidade_publico utilidade_pa instituto lucrativos fins_lucrativos assistencia titulo prestados entidades instituicao dr adolescentes pesquisa recreativas sociais comunitaria promocao educacional esporte humanos cidadania grupos carentes reconhecimento
+
+Cluster#14:  agua armazenamento utilizacao consumo imoveis edificacoes sanitario recursos caixas predios residenciais monitoramento sustentavel comerciais tecnico economia acumulada instalacao escolas_municipais ambiental construcao dr limpeza mosquito dispositivos qualidade servir publico_municipais preservacao executivo_municipal
+
+Cluster#15:  tributarios iptu imposto isencao territorial_urbana predial_territorial predial territorial propriedade_predial imposto_propriedade creditos imoveis concedido propriedade incentivo contribuinte fiscais imovel creditos_tributarios desconto isentos divida pagamento iluminacao inciso fiscal contribuicao acrescido iss taxa
+
+Cluster#16:  tombado imovel tombamento historia_cultural interesse_historia fica_tombado livre_tombado bens bens_cultura arquitetonico patrimonio decorrencia fica_vedada conselho_municipal protecao_patrimonio municipal_protecao copacabana situado vedada conselho efetuado estetica localizada_rua atos_necessario inscricao conta_publicacao localizada cinema predios tijuca
+
+Cluster#17:  energia eletrica energia_eletrica solo concessionarias fornecimento iluminacao agua tributarios edificacoes fonte utilizacao moveis externa sustentavel telefone cento reduzir tecnologia instalados gerais contribuicao consumo distribuicao renovar pagamento reducao produzido visita alternativa
+
+Cluster#18:  comemorado calendario data_comemorado oficial oficial_cidade ser_comemorado consolidado oficial_eventos comemorado_anualmente altera cidade_consolidado anualmente deus fica_altera igreja amor piui importancia danca dr povo jovens homens meses jesus mundo familia festa celebrar importante
+
+Cluster#19:  animal veterinario caes animais_domesticos domesticos gatos maus_trata maus abandono adocao piui protecao donos proibe infrator entidades aloisio abrigos guarda proprietario controle doenca movel medico clinicas campanha membros possiveis especiais cirurgia
+
+Cluster#20:  onibus passageiros transporte_coletivo motoristas transporte_publico transito rodoviarios linha concessionarias terminais usuarios tarifa sistema_transporte pontos taxa concessao passagem municipal_transporte operadoras monitoramento motivo gratuidade deslocamento metros horario utilizacao permitir aumentar mobilidade autorizacao
+
+Cluster#21:  esporte praia olimpicos atletas jogos futebol orla clubes recreio modalidade lazer primeira educacao_fisica desportivas treinamento decada ilha natureza localizada construcao vila convenios copacabana sede vereadora patrimonio tijuca regiao autorizado parque
+
+
+Cluster#22:  religiosa preconceito discriminacao sangue doadores liberdade doacao sexual genero orientacao respeito identidade proibe constituicao origem humanos gratuidade entidades assegurar direitos_humanos biblioteca formacao principios cor permanente cadastro usuarios cemiterios combate estudantes
+
+
+Cluster#23:  cidade_irma irma habitantes economia turistico cooperacao troca capital rio_cidade referente aproximadamente regiao tecnologia experiencia possui santa poder_legislativa patrimonio ciencia acordo fica_autorizado inciso legislacao uniao legislativa unidos seculo cerca praia lider
+
+
+Cluster#24:  logradouro logradouro_publico samba dara_nome executivo_dara observados_disposto dara executivo_observados carnaval logradouro_pa publico_municipio tijuca barra observados governador regiao reconhecimento barra_tijuca homenagear administrativa homenagem favelas jacarepagua nascido filhos regiao_administrativa situado faleceu campo fabrica
+
+
+Cluster#25:  alcool bebidas drogas bebidas_alcool consumo prevencao dependencias quimicos substancias adolescentes combate dependentes causa abuso mensagem familiar jovens banda excesso interior consequencia produtos carnaval educacionais conscientizacao venda juventude risco instituicoes fornecimento
+
+
+Cluster#26:  servidores professor cargo unidades_escolas categoria profissionais aula sala funcional profissionais_educacao pedagogico horario desempenho sala_aula exercicio matricula servidores_publico jornada efetiva remuneracao assegurar escolas_rede tecnico nivel anexo redacao municipal_educacao funcao planejamento constitucional
+
+
+Cluster#27:  bicicletas velocidade instalacao transito acidentes vias calcadas lixo sinalizacao instalados acessibilidade colocacao pedestres dispositivos condutores arvores faixa placas cidadaos motoristas eletronico controle usuarios carros mobilidade saida banheiros localizacao fluxo trafego
+
+
+Cluster#28:  mulheres violencia exame vitimas domesticos feminino sexual metodos homens campanha vereadora genero familia psicologica cancer bastos combate acoes exclusivamente preventiva politicas igualdade taxistas gestantes familiar unidades_saude hospitais filhos taxa abuso
+
+
+Cluster#29:  estacionamento vagas reserva vagas_estacionamento gestantes comerciais estacionamento_veiculos cento idosos exclusivamente transito destinados concurso minimo pessoas_portadoras horario portadoras candidato vias guarda clientes militar bastos cobrado remocao portadoras_deficiencia total carros deficientes transtornos
+
+
+Cluster0:21 documentos, esse cluster representa: 1.04% no total
+Cluster1:76 documentos, esse cluster representa: 3.76% no total
+Cluster2:255 documentos, esse cluster representa: 12.61% no total
+Cluster3:51 documentos, esse cluster representa: 2.52% no total
+Cluster4:194 documentos, esse cluster representa: 9.59% no total
+Cluster5:30 documentos, esse cluster representa: 1.48% no total
+Cluster6:181 documentos, esse cluster representa: 8.95% no total
+Cluster7:31 documentos, esse cluster representa: 1.53% no total
+Cluster8:85 documentos, esse cluster representa: 4.20% no total
+Cluster9:35 documentos, esse cluster representa: 1.73% no total
+Cluster10:52 documentos, esse cluster representa: 2.57% no total
+Cluster11:53 documentos, esse cluster representa: 2.62% no total
+Cluster12:43 documentos, esse cluster representa: 2.13% no total
+Cluster13:70 documentos, esse cluster representa: 3.46% no total
+Cluster14:24 documentos, esse cluster representa: 1.19% no total
+Cluster15:42 documentos, esse cluster representa: 2.08% no total
+Cluster16:51 documentos, esse cluster representa: 2.52% no total
+Cluster17:22 documentos, esse cluster representa: 1.09% no total
+Cluster18:89 documentos, esse cluster representa: 4.40% no total
+Cluster19:58 documentos, esse cluster representa: 2.87% no total
+Cluster20:74 documentos, esse cluster representa: 3.66% no total
+Cluster21:62 documentos, esse cluster representa: 3.06% no total
+Cluster22:33 documentos, esse cluster representa: 1.63% no total
+Cluster23:25 documentos, esse cluster representa: 1.24% no total
+Cluster24:75 documentos, esse cluster representa: 3.71% no total
+Cluster25:21 documentos, esse cluster representa: 1.04% no total
+Cluster26:92 documentos, esse cluster representa: 4.55% no total
+Cluster27:95 documentos, esse cluster representa: 4.70% no total
+Cluster28:41 documentos, esse cluster representa: 2.03% no total
+Cluster29:42 documentos, esse cluster representa: 2.08% no total

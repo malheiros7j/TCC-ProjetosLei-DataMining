@@ -1,0 +1,493 @@
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = pt
+ directory    = /home/jordanmalheiros/TCC_Atualizado/Dados_txt/Sao_Paulo/ProjetoLeiSP_txt
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+ stoplist     = ENABLED
+  > directory = stoplist
+  > stopfile  = stoplist/port.xml
+ stemming     = ENABLED
+  > directory = steminfo
+
+    ### STOP LIST ###
+    Total StopWords 438
+    Total StopFiles 1
+
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          NGram.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ directory    = ngraminfo
+  1-Gram      = ENABLED
+  2-Gram      = ENABLED
+
+Criando 1Gram   :..........:..........:..........:..........:..........: OK
+Criando 2Gram   :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+ Taxonomy     = taxonomia.txt
+  1-Gram      = ENABLED
+   > Max      = 650
+   > Min      = 150
+   > Measure  = tfidf
+  2-Gram      = ENABLED
+   > Max      = 250
+   > Min      = 50
+   > Measure  = tfidf
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Cut with user defined restriction max = 650                 671
+ Cut with user defined restriction min = 150                 39744
+ Number of 1-gram loaded from ngraminfo/1Gram.all            1298
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-IDF
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+#------ 2-Gram -----#
+2Gram.all       :..........:..........:..........:..........:..........: OK
+ Cut with user defined restriction max = 250                 431
+ Cut with user defined restriction min = 50                  341119
+ Number of 2-gram loaded from ngraminfo/2Gram.all            2478
+
+2Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/2-StdDev.dat created!
+ graphics/2-StdDevFF.dat created!
+ graphics/2-GnuPlot.script created!
+
+Loading TF-IDF
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 1298
+Total Texts : 6959
+-----------------------
+   N-Gram   : 2
+Total Stems : 2478
+Total Texts : 6959
+-----------------------
+
+Matrix Density                                               2488.04
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              6959
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              3776
+
+#-------------------#
+Total Time: 264
+#-------------------#
+
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = pt
+ directory    = /home/jordanmalheiros/TCC_Atualizado/Dados_txt/Sao_Paulo/ProjetoLeiSP_txt
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+ stoplist     = ENABLED
+  > directory = stoplist
+  > stopfile  = stoplist/port.xml
+ stemming     = ENABLED
+  > directory = steminfo
+
+    ### STOP LIST ###
+    Total StopWords 950
+    Total StopFiles 1
+
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          NGram.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ directory    = ngraminfo
+  1-Gram      = ENABLED
+  2-Gram      = ENABLED
+
+Criando 1Gram   :..........:..........:..........:..........:..........: OK
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = pt
+ directory    = /home/jordanmalheiros/TCC_Atualizado/Dados_txt/Sao_Paulo/ProjetoLeiSP_txt
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+ stoplist     = ENABLED
+  > directory = stoplist
+  > stopfile  = stoplist/port.xml
+ stemming     = ENABLED
+  > directory = steminfo
+
+    ### STOP LIST ###
+    Total StopWords 952
+    Total StopFiles 1
+
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          NGram.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ directory    = ngraminfo
+  1-Gram      = ENABLED
+  2-Gram      = ENABLED
+
+Criando 1Gram   :..........:..........:..........:..........:..........: OK
+Criando 2Gram   :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+ Taxonomy     = taxonomia.txt
+  1-Gram      = ENABLED
+   > Max      = 650
+   > Min      = 150
+   > Measure  = tfidf
+  2-Gram      = ENABLED
+   > Max      = 250
+   > Min      = 50
+   > Measure  = tfidf
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Cut with user defined restriction max = 650                 602
+ Cut with user defined restriction min = 150                 39754
+ Number of 1-gram loaded from ngraminfo/1Gram.all            1210
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-IDF
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+#------ 2-Gram -----#
+2Gram.all       :..........:..........:..........:..........:..........: OK
+ Cut with user defined restriction max = 250                 333
+ Cut with user defined restriction min = 50                  304219
+ Number of 2-gram loaded from ngraminfo/2Gram.all            2015
+
+2Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/2-StdDev.dat created!
+ graphics/2-StdDevFF.dat created!
+ graphics/2-GnuPlot.script created!
+
+Loading TF-IDF
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 1210
+Total Texts : 6959
+-----------------------
+   N-Gram   : 2
+Total Stems : 2015
+Total Texts : 6959
+-----------------------
+
+Matrix Density                                               2276.09
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              6959
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              3225
+
+#-------------------#
+Total Time: 173
+#-------------------#
+
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = pt
+ directory    = /home/jordanmalheiros/TCC_Atualizado/Dados_txt/Sao_Paulo/ProjetoLeiSP_txt
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+ stoplist     = ENABLED
+  > directory = stoplist
+  > stopfile  = stoplist/port.xml
+ stemming     = ENABLED
+  > directory = steminfo
+
+    ### STOP LIST ###
+    Total StopWords 963
+    Total StopFiles 1
+
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          NGram.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ directory    = ngraminfo
+  1-Gram      = ENABLED
+  2-Gram      = ENABLED
+
+Criando 1Gram   :..........:..........:..........:..........:..........: OK
+Criando 2Gram   :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+ Taxonomy     = taxonomia.txt
+  1-Gram      = ENABLED
+   > Max      = 650
+   > Min      = 150
+   > Measure  = tfidf
+  2-Gram      = ENABLED
+   > Max      = 250
+   > Min      = 50
+   > Measure  = tfidf
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Cut with user defined restriction max = 650                 601
+ Cut with user defined restriction min = 150                 39756
+ Number of 1-gram loaded from ngraminfo/1Gram.all            1203
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-IDF
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+#------ 2-Gram -----#
+2Gram.all       :..........:..........:..........:..........:..........: OK
+ Cut with user defined restriction max = 250                 323
+ Cut with user defined restriction min = 50                  291959
+ Number of 2-gram loaded from ngraminfo/2Gram.all            1948
+
+2Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/2-StdDev.dat created!
+ graphics/2-StdDevFF.dat created!
+ graphics/2-GnuPlot.script created!
+
+Loading TF-IDF
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 1203
+Total Texts : 6959
+-----------------------
+   N-Gram   : 2
+Total Stems : 1948
+Total Texts : 6959
+-----------------------
+
+Matrix Density                                               2277.68
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              6959
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              3151
+
+#-------------------#
+Total Time: 201
+#-------------------#
+
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = pt
+ directory    = /home/jordanmalheiros/TCC_Atualizado/Dados_txt/Sao_Paulo/ProjetoLeiSP_txt
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+ stoplist     = ENABLED
+  > directory = stoplist
+  > stopfile  = stoplist/port.xml
+ stemming     = ENABLED
+  > directory = steminfo
+
+    ### STOP LIST ###
+    Total StopWords 966
+    Total StopFiles 1
+
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          NGram.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ directory    = ngraminfo
+  1-Gram      = ENABLED
+  2-Gram      = ENABLED
+
+Criando 1Gram   :..........:..........:..........:..........:..........: OK
+Criando 2Gram   :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+ Taxonomy     = taxonomia.txt
+  1-Gram      = ENABLED
+   > Max      = 650
+   > Min      = 150
+   > Measure  = tfidf
+  2-Gram      = ENABLED
+   > Max      = 250
+   > Min      = 50
+   > Measure  = tfidf
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Cut with user defined restriction max = 650                 601
+ Cut with user defined restriction min = 150                 39757
+ Number of 1-gram loaded from ngraminfo/1Gram.all            1201
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-IDF
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+#------ 2-Gram -----#
+2Gram.all       :..........:..........:..........:..........:..........: OK
+ Cut with user defined restriction max = 250                 322
+ Cut with user defined restriction min = 50                  291895
+ Number of 2-gram loaded from ngraminfo/2Gram.all            1947
+
+2Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/2-StdDev.dat created!
+ graphics/2-StdDevFF.dat created!
+ graphics/2-GnuPlot.script created!
+
+Loading TF-IDF
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 1201
+Total Texts : 6959
+-----------------------
+   N-Gram   : 2
+Total Stems : 1947
+Total Texts : 6959
+-----------------------
+
+Matrix Density                                               2271.36
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              6959
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              3148
+
+#-------------------#
+Total Time: 198
+#-------------------#
+

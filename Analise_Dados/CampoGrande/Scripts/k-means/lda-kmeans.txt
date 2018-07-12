@@ -1,0 +1,111 @@
+n_documentos:3126 	 n_palavras: 2003 	 
+__________________________________________________________________________________
+
+
+Realizando a modelagem de topicos LDA com tfidf features, n_documentos: 3126 e n_palavras = 2003 ...
+
+Topicos no Cluster_0 modelo LDA:
+Topico #0:  jornada_trabalho jornada calendario calendario_oficial dia_municipal
+Topico #1:  agentes calendario calendario_oficial oficial_eventos oficial
+Topico #2:  aerea institui_dia fixado rede_publica ms_aprova
+Topico #3:  povo pedra vanderlei comemorado institui_dia
+Topico #4:  comemorado institui_dia calendario dia_municipal ser_comemorado
+
+Topicos no Cluster_1 modelo LDA:
+Topico #0:  motivos_taxa taxistas ar preco venda
+Topico #1:  sonora suspensao reincidencia jamal gas
+Topico #2:  cacambas linha rede_publica alcool edicao
+Topico #3:  placas similares alvara tarifa alcool
+Topico #4:  reais recipientes ruas cartazes devera_constar
+
+Topicos no Cluster_2 modelo LDA:
+Topico #0:  emilia_sulzer devera_observar preco lei_apresentamos youssif_domingos
+Topico #1:  dib elias_gazal altera_lei aquiescencia_presidencia abandono
+Topico #2:  dib gazal gazal_dib elias_gazal elias
+Topico #3:  gazal gazal_dib dib elias_gazal solucao
+Topico #4:  ruas devera_constar documentacao grazielle_machado predios
+
+Topicos no Cluster_3 modelo LDA:
+Topico #0:  youssif_domingos youssif domingos municipal_associacao sexo
+Topico #1:  clube abandono aquiescencia_presidencia altera_lei youssif_domingos
+Topico #2:  unanimidade vereador_presente discussao_votacao unanimidade_vereador votacao
+Topico #3:  solucao pedra cooperativas legislativo_assuntos disposicao
+Topico #4:  ruas devera_constar documentacao grazielle_machado predios
+
+Topicos no Cluster_4 modelo LDA:
+Topico #0:  feiras feiras_livre emilia_sulzer devera_observar preco
+Topico #1:  feiras festa aquiescencia_presidencia altera_lei abandono
+Topico #2:  rede_publica edicao divida banheiros feiras
+Topico #3:  banheiros feiras quimicos feiras_livre sanitaria
+Topico #4:  feiras feiras_livre ferias lixo ruas
+
+Topicos no Cluster_5 modelo LDA:
+Topico #0:  sede_campo devera_observar exigencias_conta observar_exigencias entidades_devera
+Topico #1:  municipal_associacao declara lucrativos foro sede_foro
+Topico #2:  declara associados vereador_alex evangelica ms_aprova
+Topico #3:  pedra espirita conta_costumeira solucao estar_presente
+Topico #4:  documentacao ruas devera_constar grazielle_machado municipal_associacao
+
+Topicos no Cluster_6 modelo LDA:
+Topico #0:  deficientes_fisica educacao_fisica deficientes federacao emilia_sulzer
+Topico #1:  municipal_esporte fundo_municipal direito_difusos protecao_defesa defesa_consumidor
+Topico #2:  turismo resgate paz emilia_sulzer maria_emilia
+Topico #3:  estudantes seguranca_publica incentivo drogas artistico
+Topico #4:  tutelar conselho_tutelar indigenas conselheiros mandato
+
+Topicos no Cluster_7 modelo LDA:
+Topico #0:  concurso emilia_sulzer leite devera_observar negros
+Topico #1:  concurso inscricao aquiescencia_presidencia altera_lei abandono
+Topico #2:  medula medula_ossea ossea doadores rede_publica
+Topico #3:  sangue doadores doacao concurso vagas
+Topico #4:  ruas devera_constar documentacao grazielle_machado predios
+
+Topicos no Cluster_8 modelo LDA:
+Topico #0:  centro_educacao educacao_infantil infantil ceinf professora
+Topico #1:  educacao_infantil centro_educacao dedicou aquiescencia_presidencia moreninhas
+Topico #2:  rede_publica edicao divida ms_aprova tribunal
+Topico #3:  solucao pedra legislativo_assuntos area_saude cooperativas
+Topico #4:  ruas devera_constar documentacao grazielle_machado predios
+
+Topicos no Cluster_9 modelo LDA:
+Topico #0:  predial territorial_urbano predial_territorial iptu territorial
+Topico #1:  abandono calcadas altera_lei aquiescencia_presidencia terrenos
+Topico #2:  passeios calcadas logradouros dispositivos_lei complementar_n
+Topico #3:  iptu imovel contribuinte isencao energia
+Topico #4:  energizada cerca_energizada cerca maria_cesar cesar
+
+Topicos no Cluster_10 modelo LDA:
+Topico #0:  cabo cabo_almi almi emilia_sulzer devera_observar
+Topico #1:  almi cabo_almi cabo altera_lei saude_municipio
+Topico #2:  cabo_almi almi estacionamento lotes cabo
+Topico #3:  estacionamento isentos prestar_servicos lei_organica reducao
+Topico #4:  ruas devera_constar documentacao almi vereador_cabo
+
+Topicos no Cluster_11 modelo LDA:
+Topico #0:  portadoras pessoas_portadoras portadoras_deficiencia necessario_especiais portadores
+Topico #1:  vacinacao vacina exposicao programa_municipal pessoas_deficiencia
+Topico #2:  primeira_socorros socorros maternidade portadores_deficiencia portadores
+Topico #3:  exames cancer hospital gestantes diagnostico
+Topico #4:  cirurgia mobilidade_reduzir postos_saude postos obesidade
+
+Topicos no Cluster_12 modelo LDA:
+Topico #0:  emilia_sulzer albuquerque edil souza vila
+Topico #1:  localizada_bairro bairro_jardim moreninhas denomina_rua localizada_avenida
+Topico #2:  denominacao barros altera_denominacao francisco nelsinho_trad
+Topico #3:  cesar denominacao_rua pedra denomina_rua bairro_jardim
+Topico #4:  denominacao trecho vila denomina_rua antonio
+
+Topicos no Cluster_13 modelo LDA:
+Topico #0:  emilia_sulzer devera_observar lei_apresentamos preco ex
+Topico #1:  dedicou basica_saude aquiescencia_presidencia odontologia altera_lei
+Topico #2:  odontologia universidade rede_publica edicao federal_mato
+Topico #3:  celso celso_ianaze odontologia unidade_basica basica_saude
+Topico #4:  basica_saude unidade_basica saude_familia medicina odontologia
+
+Topicos no Cluster_14 modelo LDA:
+Topico #0:  materiais descarte construcao_civil recolhimento emilia_sulzer
+Topico #1:  pavimento pneus ecologico asfalto pavimentacao
+Topico #2:  agua_pluviais residenciais reciclaveis animal rede_publica
+Topico #3:  lixo descarte limpeza materiais reciclaveis
+Topico #4:  animal mosquito recipientes caes lixo
+

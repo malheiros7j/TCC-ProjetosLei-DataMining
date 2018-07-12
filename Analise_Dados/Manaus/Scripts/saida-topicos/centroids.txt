@@ -1,0 +1,20 @@
+n_documentos:1415 	 n_palavras: 733 	 
+__________________________________________________________________________________
+
+
+Cluster 0: bibian  bibian_cmm  gabinet_profess  pt  ser_tad 
+Cluster 1: fon_fax  seman_municipal  diretor  hom  comemor 
+Cluster 2: ruiz  therezinh  dem  mart  caball_mart 
+Cluster 3: estacion  client  fazer_cmm  gabinet_fazer  arqu_assin 
+Cluster 4: andar  violenc  psl  adolescent  abril 
+Cluster 5: carratt  glor_carratt  glor  gabinet_glor  martin_ser 
+Cluster 6: excelenc  anex_unic  deliberaca  voss  financi 
+Cluster 7: jorn  gabinet_jorn  beb  alcool  suplement_necess 
+Cluster 8: rozenh  ednailson_rozenh  esport  email  anaus 
+Cluster 9: reiz  castel  branc  gabinet_reiz  castelobranc_cmm 
+Cluster 10: enderec_rua  padr_martin  col  enderec  hir 
+Cluster 11: idos  biciclet  gestant  violenc  estacion 
+Cluster 12: frot  util  comemor  oficial  cultural 
+Cluster 13: dr  aliment  obes  gabinet_dr  alimentaca 
+Cluster 14: lix  metr  robert_sabin  residu  logradour 
+

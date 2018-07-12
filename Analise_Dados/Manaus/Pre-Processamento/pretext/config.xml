@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pretext
+    lang="pt"
+    dir="/home/jordanmalheiros/TCC_Atualizado/Dados_txt/Manaus/ProjetosTxtManaus"
+    log="pretext.log"
+    silence="off">
+
+    <maid>
+        <number/>
+        <html/>
+        <simbols/>
+        <stoplist dir="stoplist">
+            <stopfile>port.xml</stopfile>
+        </stoplist>
+        <stemming dir="steminfo"/>
+    </maid>
+
+    <ngram dir="ngraminfo">
+        <gram n="1"/>
+        <gram n="2"/>
+    </ngram>
+
+    <report
+        ngramdir="ngraminfo"
+        discover="discover"
+        graphics="graphics"
+        taxonomy="taxonomia.txt"
+        transpose="disabled">
+
+        <gram n="1"
+            max="450"
+            min="150"
+            measure="tfidf"
+            smooth="disabled"/>
+
+        <gram n="2"
+            max = "180"
+            min = "70"
+            measure = "tfidf"
+            smooth = "disabled"/>
+
+    </report>
+</pretext>

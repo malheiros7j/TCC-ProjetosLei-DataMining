@@ -1,0 +1,224 @@
+n_documentos:6958 	 n_palavras: 3776 	 
+__________________________________________________________________________________
+
+DENDROGRAMA SEPARADO POR CLUSTER
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Realizando a modelagem de topicos LDA com tfidf features, n_documentos: 6958 e n_palavras = 3776 ...
+
+Topicos no Cluster_1 modelo LDA: 33
+Topico #0:  economica_mista dia_maio secao_i concurso comissao_especifica
+Topico #1:  remuneracao_dep ponto_deflete descentralizacao_gestao odontologico bt
+Topico #2:  determinado_emplacamento registro_codigo bairro_nova endereco_postal localizado_bairro
+Topico #3:  divisa_quadra transferidos impacto frota futuras
+Topico #4:  transfere codigo_transito veiculos_automotores serra conferencias_municipais
+
+Topicos no Cluster_2 modelo LDA: 39
+Topico #0:  economica_mista dia_maio secao_i concurso comissao_especifica
+Topico #1:  alcool bebidas bebidas_alcool remuneracao_dep ponto_deflete
+Topico #2:  bebidas bebidas_alcool alcool servicos_taxa proprietario_imovel
+Topico #3:  divisa_quadra transferidos impacto frota alfabetizacao_jovens
+Topico #4:  alcool bebidas bebidas_alcool proibicao descumprimento
+
+Topicos no Cluster_3 modelo LDA: 118
+Topico #0:  moeda aquisitivo reflita acumulada ibge
+Topico #1:  moeda ibge similares adaptados remuneracao_dep
+Topico #2:  servicos_taxa proprietario_imovel confluencia_rua clara urbana_universal
+Topico #3:  divisa_quadra transferidos impacto frota alfabetizacao_jovens
+Topico #4:  aquisitivo acumulada ipca lei_acarretara variacao
+
+Topicos no Cluster_4 modelo LDA: 49
+Topico #0:  utilidade_publico utilidade declara_utilidade economica_mista fica_declarados
+Topico #1:  remuneracao_dep ponto_deflete descentralizacao_gestao odontologico bt
+Topico #2:  servicos_taxa proprietario_imovel confluencia_rua urbana_universal destinacao_finalidade
+Topico #3:  divisa_quadra transferidos impacto frota alfabetizacao_jovens
+Topico #4:  utilidade_publico utilidade declara_utilidade declarados_utilidade declarados
+
+Topicos no Cluster_5 modelo LDA: 21
+Topico #0:  cidade_irmas intercambio declaracao fica_declarados fortalecimento
+Topico #1:  remuneracao_dep ponto_deflete descentralizacao_gestao odontologico bt
+Topico #2:  servicos_taxa proprietario_imovel confluencia_rua urbana_universal destinacao_finalidade
+Topico #3:  divisa_quadra transferidos intercambio cidade_irmas impacto
+Topico #4:  transfere codigo_transito veiculos_automotores serra conferencias_municipais
+
+Topicos no Cluster_6 modelo LDA: 80
+Topico #0:  imposto_servicos iss servicos_natureza natureza_iss isencao
+Topico #1:  isencao remuneracao_dep ponto_deflete descentralizacao_gestao odontologico
+Topico #2:  residencial servicos_taxa proprietario_imovel confluencia_rua urbana_universal
+Topico #3:  iptu isencao predial imposto_predial territorial
+Topico #4:  predial urbana_iptu iptu isencao territorial
+
+Topicos no Cluster_7 modelo LDA: 124
+Topico #0:  descarte embalagens reciclagem plasticas destinacao
+Topico #1:  oleo embalagens plasticas oleo_lubrificante usados
+Topico #2:  servicos_taxa destinacao_finalidade proprietario_imovel confluencia_rua urbana_universal
+Topico #3:  cooperativas lixo descarte coletivo_lixo cooperativas_associacoes
+Topico #4:  lixo reciclaveis seletiva coletivo_seletiva coletivo_lixo
+
+Topicos no Cluster_8 modelo LDA: 4476
+Topico #0:  lingua libras lingua_brasileiro brasileiro_sinais sinais
+Topico #1:  samba domingos mes_agosto retirada realizar_anualmente
+Topico #2:  conscientizacao estudantes palestras doencas exames
+Topico #3:  guilherme trecho revogadas_lei carvalho fica_revogadas
+Topico #4:  placas descumprimento concessionaria proibida circulacao
+
+Topicos no Cluster_9 modelo LDA: 75
+Topico #0:  passa_constar constar_calendario institui_passa eventos_municipio eventos_institui
+Topico #1:  remuneracao_dep ponto_deflete descentralizacao_gestao odontologico bt
+Topico #2:  eventos_esportes servicos_taxa proprietario_imovel confluencia_rua urbana_universal
+Topico #3:  divisa_quadra transferidos impacto frota alfabetizacao_jovens
+Topico #4:  transfere codigo_transito veiculos_automotores serra conferencias_municipais
+
+Topicos no Cluster_10 modelo LDA: 319
+Topico #0:  dia_municipal incluir_dia institui_dia anualmente_dia dia_novembro
+Topico #1:  inciso_art eventos_cidade finalidade_incluir incluir_dia comemorado_dia
+Topico #2:  incluir_calendario festa alinea_inciso alinea fica_inserido
+Topico #3:  integracao divisa_quadra transferidos impacto diferentes
+Topico #4:  anualmente_dia alinea_inciso transfere codigo_transito finalidade_incluir
+
+Topicos no Cluster_11 modelo LDA: 57
+Topico #0:  economica_mista dia_maio secao_i concurso comissao_especifica
+Topico #1:  remuneracao_dep ponto_deflete descentralizacao_gestao odontologico bt
+Topico #2:  cod itaim adolfo_quintas vereador_adolfo adolfo
+Topico #3:  divisa_quadra transferidos impacto frota alfabetizacao_jovens
+Topico #4:  quintas adolfo transfere vereador_adolfo codigo_transito
+
+Topicos no Cluster_12 modelo LDA: 75
+Topico #0:  economica_mista dia_maio secao_i concurso comissao_especifica
+Topico #1:  remuneracao_dep ponto_deflete descentralizacao_gestao odontologico bt
+Topico #2:  gabriel inserido eventos_cidade eliseu eliseu_gabriel
+Topico #3:  evolucao_funcional quadra_apoio evolucao divisa_quadra transferidos
+Topico #4:  gabriel vereador_eliseu eliseu_gabriel eliseu pirituba
+
+Topicos no Cluster_13 modelo LDA: 91
+Topico #0:  viela araujo economica_mista dia_maio secao_i
+Topico #1:  remuneracao_dep ponto_deflete descentralizacao_gestao odontologico bt
+Topico #2:  viela travessa rua_jose altura denomina_travessa
+Topico #3:  travessa denomina_travessa altura_rua altura viela
+Topico #4:  transfere codigo_transito veiculos_automotores serra conferencias_municipais
+
+Topicos no Cluster_14 modelo LDA: 33
+Topico #0:  economica_mista dia_maio secao_i concurso comissao_especifica
+Topico #1:  reta remuneracao_dep ponto_deflete descentralizacao_gestao licitacao
+Topico #2:  reta confrontando servicos_taxa proprietario_imovel confluencia_rua
+Topico #3:  confrontando reta instrumentos_concessao lado area_municipal
+Topico #4:  transfere codigo_transito veiculos_automotores serra conferencias_municipais
+
+Topicos no Cluster_15 modelo LDA: 1368
+Topico #0:  orlando_silva orlando funaps cri pc_b
+Topico #1:  jair_tatto vereador_jair jair tatto data_comemorado
+Topico #2:  confluencia altura logradouro_inominado itaquera inominado_localizado
+Topico #3:  vereador_calvo especifica_providencias condicoes_especifica calvo pmdb
+Topico #4:  mirim escolas_municipal ma_boi dia_setembro boi
+
+
+**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+SEPARADO POR NIVEL DE DENDROGRAMA CLUSTERING
+
+Topicos no Cluster14-15 modelo LDA: 1401
+Topico #0:  formosa subprefeitura_aricanduva mariana denominacao_rua vila_mariana
+Topico #1:  jair_tatto vereador_jair jair tatto escolas_municipal
+Topico #2:  confluencia altura logradouro_inominado itaquera delimitado
+Topico #3:  boi ma_boi mirim capela confrontando
+Topico #4:  jose_ferreira ferreira_santos santos_zelao vereador_jose itaim
+
+Topicos no Cluster13-14-15 modelo LDA: 1492
+Topico #0:  formosa mariana denominacao_rua vila_mariana subprefeitura_aricanduva
+Topico #1:  jair_tatto jair vereador_jair tatto escolas_municipal
+Topico #2:  travessa altura denomina_travessa confluencia logradouro_inominado
+Topico #3:  boi ma_boi confrontando mirim reta
+Topico #4:  jose_ferreira ferreira_santos santos_zelao itaim vereador_jose
+
+Topicos no Cluster12-13-14-15 modelo LDA: 1567
+Topico #0:  descentralizada gestao_descentralizada direta_divisao tecnica_nucleo formosa
+Topico #1:  jair_tatto jair vereador_jair tatto evolucao_funcional
+Topico #2:  altura travessa confluencia eliseu gabriel
+Topico #3:  boi mooca mirim capela ma_boi
+Topico #4:  jose_ferreira ferreira_santos itaim santos_zelao prudente
+
+Topicos no Cluster11-12-13-14-15 modelo LDA: 1624
+Topico #0:  descentralizada gestao_descentralizada direta_divisao tecnica_nucleo departamento_parque
+Topico #1:  escolas_municipal jair_tatto jair vereador_jair tatto
+Topico #2:  travessa altura confluencia itaim logradouro_inominado
+Topico #3:  mooca boi mirim ma_boi capela
+Topico #4:  jose_ferreira ferreira_santos santos_zelao vereador_jose itaim
+
+Topicos no Cluster9-10 modelo LDA: 394
+Topico #0:  dia_municipal anualmente_dia eventos_municipio institui_dia incluir_dia
+Topico #1:  inciso_art celso_jatene finalidade_incluir eventos_cidade celso
+Topico #2:  constar_calendario passa_constar institui_passa incluir_calendario eventos_institui
+Topico #3:  divisa_quadra transferidos paulo_dia impacto frota
+Topico #4:  anualmente_dia alinea_inciso dia_municipal finalidade_incluir transfere
+
+Topicos no Cluster9-10-11-12-13-14-15 modelo LDA: 2018
+Topico #0:  funaps cri formosa descentralizada gestao_descentralizada
+Topico #1:  incluir_calendario escolas_municipal oficial_municipio jair jair_tatto
+Topico #2:  travessa altura confluencia logradouro_inominado itaim
+Topico #3:  boi mirim capela ma_boi confrontando
+Topico #4:  anualmente_dia incluir_dia eventos_cidade inciso_art incluir_calendario
+
+Topicos no Cluster7-8 modelo LDA: 4600
+Topico #0:  semana_municipal lingua libras primeira_semana lingua_brasileiro
+Topico #1:  domingos samba realizar_anualmente fica_inserido inciso_art
+Topico #2:  conscientizacao palestras estudantes exames doencas
+Topico #3:  ubs guilherme trecho revogadas_lei carvalho
+Topico #4:  placas lixo embalagens descumprimento descarte
+
+Topicos no Cluster6-7-8 modelo LDA: 4680
+Topico #0:  semana_municipal lingua libras primeira_semana lingua_brasileiro
+Topico #1:  domingos samba realizar_anualmente inciso_art fica_inserido
+Topico #2:  conscientizacao isencao palestras estudantes iss
+Topico #3:  ubs trecho guilherme revogadas_lei carvalho
+Topico #4:  iptu placas lixo predial isencao
+
+Topicos no Cluster4-5 modelo LDA: 70
+Topico #0:  cidade_irmas fica_declarados declaracao intercambio declarados
+Topico #1:  remuneracao_dep ponto_deflete descentralizacao_gestao odontologico bt
+Topico #2:  servicos_taxa proprietario_imovel confluencia_rua urbana_universal destinacao_finalidade
+Topico #3:  divisa_quadra transferidos impacto intercambio frota
+Topico #4:  utilidade_publico utilidade declara_utilidade declarados_utilidade declarados
+
+Topicos no Cluster4-5-6-7-8 modelo LDA: 4750
+Topico #0:  semana_municipal lingua libras clubes_comunidade primeira_semana
+Topico #1:  domingos inciso_art realizar_anualmente samba alinea
+Topico #2:  conscientizacao palestras estudantes pais doencas
+Topico #3:  utilidade_publico utilidade declara_utilidade declarados_utilidade declarados
+Topico #4:  placas lixo iptu embalagens descumprimento
+
+Topicos no Cluster2-3 modelo LDA: 157
+Topico #0:  moeda aquisitivo reflita ibge variacao
+Topico #1:  alcool moeda bebidas similares ibge
+Topico #2:  refere_art servicos_taxa mercadorias proprietario_imovel clara
+Topico #3:  divisa_quadra transferidos impacto frota alfabetizacao_jovens
+Topico #4:  alcool bebidas bebidas_alcool proibicao venda
+
+Topicos no Cluster2-3-4-5-6-7-8- modelo LDA: 4907
+Topico #0:  semana_municipal lingua libras incluir_dia primeira_semana
+Topico #1:  sangue domingos samba inciso_art realizar_anualmente
+Topico #2:  utilidade conscientizacao estudantes pais exames
+Topico #3:  trecho declara_utilidade guilherme delimitado revogadas_lei
+Topico #4:  alcool bebidas bebidas_alcool placas ipca
+
+Topicos no Cluster2-3-4-5-6-7-8-9-10-11-12-13-14-15 modelo LDA: 6925
+Topico #0:  alcool bebidas bebidas_alcool placas proibida
+Topico #1:  inciso_art incluir_calendario incluir_dia anualmente_dia alinea
+Topico #2:  confluencia altura utilidade_publico gabriel eliseu
+Topico #3:  amadeu adilson adilson_amadeu vereador_adilson mirim
+Topico #4:  travessa jose_ferreira prudente vereador_gilson ferreira_santos
+
+Topicos no Cluster1-2-3-4-5-6-7-8-9-10-11-12-13-14-15 modelo LDA: 6958
+Topico #0:  placas alcool proibida bebidas isencao
+Topico #1:  inciso_art incluir_calendario incluir_dia anualmente_dia alinea
+Topico #2:  altura confluencia travessa utilidade_publico delimitado
+Topico #3:  amadeu adilson adilson_amadeu vereador_adilson mirim
+Topico #4:  registro_codigo determinado_emplacamento ademar bairro_nova endereco_postal
+
+Topicos no Cluster1 modelo LDA: 33
+Topico #0:  economica_mista dia_maio secao_i concurso comissao_especifica
+Topico #1:  remuneracao_dep ponto_deflete descentralizacao_gestao odontologico bt
+Topico #2:  determinado_emplacamento registro_codigo bairro_nova endereco_postal localizado_bairro
+Topico #3:  divisa_quadra transferidos impacto frota futuras
+Topico #4:  transfere codigo_transito veiculos_automotores serra conferencias_municipais

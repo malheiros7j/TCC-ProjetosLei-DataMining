@@ -1,0 +1,19 @@
+n_documentos:1415 	 n_palavras: 692 	 
+__________________________________________________________________________________
+
+
+Cluster#0:  esporte modalidade lazer escolas_municipais estimular
+Cluster#1:  estudantes creches matriculados codigo pedagogico
+Cluster#2:  passageiros clientes endereco proibida jornada
+Cluster#3:  alimentos obesidade alimentacao consumo produzir
+Cluster#4:  lixo residuos descarte limpeza solo
+Cluster#5:  utilidade associacao instituto fim_lucrativos sede
+Cluster#6:  alcool bebidas drogas bebidas_alcool consumo
+Cluster#7:  comemorado calendario oficial sao_comemorado semana_municipal
+Cluster#8:  violencia vitimas adolescentes combate crimes
+Cluster#9:  prevencao cancer combate sindrome conscientizacao
+Cluster#10:  idosos gestantes idade estatuto jornada
+Cluster#11:  excelencias metros vossas anexo_unico dezembro
+Cluster#12:  bicicleta energia animal eletrica energia_eletrica
+Cluster#13:  frota bairro_sao diretora origem motivo
+Cluster#14:  estacionamento deficientes pessoas_deficiencia banco vagas

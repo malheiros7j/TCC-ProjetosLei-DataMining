@@ -1,0 +1,16 @@
+Cluster 0: registr_codig  determin_emplac  bairr_nov  enderec_postal  localiz_bairr 
+Cluster 1: iptu  isenca  predial  territorial  impost_predial 
+Cluster 2: incis_art  inclu_calend  inclu_dia  anual_dia  event_cidad 
+Cluster 3: veread_elis  elis_gabriel  elis  gabriel  psb 
+Cluster 4: travess  denomin_travess  altur  travess_rua  altur_rua 
+Cluster 5: plac  concession  acrescent  proib  item 
+Cluster 6: ita  altur  cep  estrad  inomin_localiz 
+Cluster 7: psol  vespol  toninh_vespol  toninh  sam_bomf 
+Cluster 8: conscientizaca  estudant  pedagog  drog  palestr 
+Cluster 9: ptb  adilson_amad  adilson  amad  veread_adilson 
+Cluster 10: lix  descart  veread_laerci  embalag  laerci_benk 
+Cluster 11: exam  pacient  animal  hospit  vacinaca 
+Cluster 12: variaca  ipca  ibge  amplo  estatist 
+Cluster 13: const_calend  pass_const  event_municipi  institu_dia  institu_pass 
+Cluster 14: confluenc  delimit  logradour_inomin  itaqu  confluenc_rua 
+

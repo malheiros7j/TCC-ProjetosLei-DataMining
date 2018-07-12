@@ -1,0 +1,15 @@
+Cluster 0: centr_educaca  educaca_infantil  infantil  ceinf  professor 
+Cluster 1: iptu  isenca  doad  sangu  territorial_urban 
+Cluster 2: lix  concession  instal  ambiental  propriet 
+Cluster 3: municipal_associaca  decl  lucrat  sed_camp  associaca_morad 
+Cluster 4: apresent_cas  proposica_apresent  leis_submet  vis_declar  municipal_associaca 
+Cluster 5: comemor  calend  institu_dia  calend_oficial  dia_municipal 
+Cluster 6: nelsinh_trad  nelsinh  trad  associaca_morad  discussa_votaca 
+Cluster 7: portad  portador  pesso_portador  deficient  pesso_deficienc 
+Cluster 8: denominaca  vil  antoni  falec  trech 
+Cluster 9: estudant  exam  red_public  canc  hospital 
+Cluster 10: vanderl  silv_mat  vanderl_silv  cabeludo  vanderl_cabeludo 
+Cluster 11: dib  gazal_dib  gazal  eli_gazal  eli 
+Cluster 12: unidad_basic  basic_saud  saud_famil  odontolog  medicin 
+Cluster 13: ces  mari_ces  flavi_ces  flavi  ces_olive 
+Cluster 14: estacion  vag  estacion_veicul  comercial  client

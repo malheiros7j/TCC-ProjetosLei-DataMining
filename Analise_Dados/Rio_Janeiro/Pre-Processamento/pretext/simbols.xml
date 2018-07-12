@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<simbols clearall="true">
+    <simbol break="true">.</simbol>
+    <simbol break="true">,</simbol>
+    <simbol break="true">;</simbol>
+    <simbol break="true">:</simbol>
+    <simbol break="true">"</simbol>
+    <simbol break="true">'</simbol>
+    <simbol break="true">`</simbol>
+    <simbol break="true">!</simbol>
+    <simbol break="true">?</simbol>
+    <simbol break="true">/</simbol>
+    <simbol break="true">\</simbol>
+    <simbol break="true">|</simbol>
+    <simbol break="true">%</simbol>
+    <simbol break="true">+</simbol>
+    <simbol break="true">{</simbol>
+    <simbol break="true">}</simbol>
+    <simbol break="true">[</simbol>
+    <simbol break="true">]</simbol>
+    <simbol break="true">(</simbol>
+    <simbol break="true">)</simbol>
+    <simbol break="true">*</simbol>
+    <simbol break="false">-</simbol>
+    <simbol break="false">$</simbol>
+    <simbol break="false">&amp;</simbol>
+    <simbol break="false">º</simbol>
+    <simbol break="false">§</simbol>
+    <simbol break="false">=</simbol>
+    <simbol break="false">&gt;</simbol>
+    <simbol break="false">&lt;</simbol>
+    <simbol break="false">^</simbol>
+    <simbol break="false">_</simbol>
+    <simbol break="false">~</simbol>
+    <simbol break="false">@</simbol>
+    <simbol break="false">#</simbol>
+</simbols>

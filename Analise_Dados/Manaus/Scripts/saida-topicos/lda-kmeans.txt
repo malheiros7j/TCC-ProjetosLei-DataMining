@@ -1,0 +1,111 @@
+n_documentos:1415 	 n_palavras: 733 	 
+__________________________________________________________________________________
+
+
+Realizando a modelagem de topicos LDA com tfidf features, n_documentos: 1415 e n_palavras = 733 ...
+
+Topicos no Cluster_0 modelo LDA: 14
+Topico #0:  linha parcela identificar jornada referido correspondente mundial conservacao dezembro parque
+Topico #1:  relacionados divulgar colocar auto mitoso produzir implantacao alcance exclusivamente particulares
+Topico #2:  obrigatoriedade disponibilizar expressoes utilidade orgao_responsavel diagnostico interno estrutura_organizacional entrara comum
+Topico #3:  imovel relevancia existentes razao motorista t orgao_classe devera_estar construir possivel
+Topico #4:  metros linha linha_reta lote concessao comercial unidade_fiscal geral_municipio imovel titulo
+
+Topicos no Cluster_1 modelo LDA: 48
+Topico #0:  linha parcela identificar jornada referido correspondente mundial conservacao dezembro parque
+Topico #1:  bibiano bibiano_cmm relacionados direito_humanos divulgar colocar auto mitoso particulares implantacao
+Topico #2:  obrigatoriedade disponibilizar expressoes utilidade orgao_responsavel diagnostico interno comum entrara estrutura_organizacional
+Topico #3:  bibiano imovel razao existentes relevancia motorista devera_estar t orgao_classe construir
+Topico #4:  bibiano bibiano_cmm gabinete_professor pt anaus sao_tado esporte tramitacao municipal_ensino residuos
+
+Topicos no Cluster_2 modelo LDA: 54
+Topico #0:  therezinha ruiz dem linha referido parcela bicicleta identificar suplementadas_necessario jornada
+Topico #1:  ruiz relacionados divulgar auto colocar implantacao mitoso produzir alcance therezinha
+Topico #2:  therezinha ruiz martim dem caballero_martim cadastro obrigatoriedade utilidade escolas_rede disponibilizar
+Topico #3:  ruiz therezinha animal infantil portadores imovel existentes razao motorista relevancia
+Topico #4:  therezinha ruiz dem municipal_ensino possivel pessoas_deficiencia esporte violencia tema vagas
+
+Topicos no Cluster_3 modelo LDA: 209
+Topico #0:  arquivo_assinado assinado_digitalmente codigo identificacao hospitalar consulta gabinete_farias sindrome isaac_tayah espaco
+Topico #1:  clientes animal alvara particulares precos infrator alimentos farias_cmm homem reincidencia
+Topico #2:  clientes estacionamento roberto_sabino farias_cmm alimentos gabinete_farias banco estabelecimentos_comerciais alvara reincidencia
+Topico #3:  animal venda motorista eletronico contratos banco fornecimento caixa devera_estar sao_aplicada
+Topico #4:  arquivo_assinado assinado_digitalmente estacionamento codigo onibus proibida setembro relatorios agente municipal_ensino
+
+Topicos no Cluster_4 modelo LDA: 145
+Topico #0:  hiram padre_martin endereco_rua gabinete_hiram endereco sindrome pessoas_deficiencia pena reincidencia dificuldades
+Topico #1:  comemorado padre_martin colares endereco_rua calendario sao_comemorado endereco familiar religiosos gabinete_colares
+Topico #2:  comemorado fone_fax reconhecimento calendario oficial novembro semana_municipal sao_comemorado cultura aus
+Topico #3:  rua_pe moradores calendario oficial bairro_sao sao_comemorado abril institui_calendario crescimento comemorado
+Topico #4:  municipal_ensino setembro antiga possivel civil_www agente ruas onibus mecanismos aprovacao_presente
+
+Topicos no Cluster_5 modelo LDA: 478
+Topico #0:  deficientes onibus saude_medico parque bebidas linha mobilidade dr centro pessoas_deficiencia
+Topico #1:  mitoso homem gabinete_mitoso cancer violencia preventivas prevencao gloria fone_fax avenida
+Topico #2:  obesidade diretora isaac_tayah plinio_valor pacientes cancer exames alimentacao sindrome diagnostico
+Topico #3:  idosos violencia dr andar psl passageiros esporte deficientes centro adolescentes
+Topico #4:  sao_manaus violencia email chegar combate oficial sildomar_abtibol vitimas onibus drogas
+
+Topicos no Cluster_6 modelo LDA: 30
+Topico #0:  linha parcela identificar jornada referido correspondente mundial conservacao dezembro parque
+Topico #1:  relacionados divulgar colocar auto mitoso produzir implantacao alcance particulares vitimas
+Topico #2:  carratte gloria_carratte gloria gabinete_gloria martin_sao obrigatoriedade diagnostico esporte email junho
+Topico #3:  carratte gloria_carratte gloria gabinete_gloria imovel portadores existentes motorista relevancia razao
+Topico #4:  municipal_ensino antiga possivel onibus civil_www agente mecanismos ruas vagas aprovacao_presente
+
+Topicos no Cluster_7 modelo LDA: 29
+Topico #0:  rozenha linha referido parcela ednailson_rozenha identificar jornada conservacao correspondente mundial
+Topico #1:  rozenha ednailson_rozenha esporte email anaus relacionados modalidade implantacao colocar exclusivamente
+Topico #2:  obrigatoriedade disponibilizar expressoes utilidade orgao_responsavel diagnostico interno entrara estrutura_organizacional comum
+Topico #3:  imovel motorista relevancia existentes razao t orgao_classe devera_estar construir possivel
+Topico #4:  municipal_ensino antiga possivel onibus civil_www vagas esporte agente mecanismos ruas
+
+Topicos no Cluster_8 modelo LDA: 55
+Topico #0:  jornada gabinete_jornada alcool bebidas bebidas_alcool sindrome idosos suplementadas_necessario suplementadas consumo
+Topico #1:  relacionados divulgar colocar auto mitoso implantacao produzir alcance particulares exclusivamente
+Topico #2:  obrigatoriedade disponibilizar expressoes utilidade orgao_responsavel diagnostico interno estrutura_organizacional adolescentes entrara
+Topico #3:  imovel relevancia existentes razao motorista t orgao_classe devera_estar construir envolvendo
+Topico #4:  jornada alcool municipal_ensino esporte onibus antiga linha especiais consumo possivel
+
+Topicos no Cluster_9 modelo LDA: 35
+Topico #0:  utilidade dezembro linha referido conservacao parcela identificar jornada correspondente mundial
+Topico #1:  relacionados fim_lucrativos divulgar colocar auto mitoso produzir implantacao alcance particulares
+Topico #2:  utilidade associacao instituto fim_lucrativos sede considera cultural promocao colares prefeitura
+Topico #3:  imovel relevancia existentes razao motorista t orgao_classe devera_estar construir prefeitura
+Topico #4:  municipal_ensino antiga possivel civil_www onibus agente mecanismos ruas aprovacao_presente esporte
+
+Topicos no Cluster_10 modelo LDA: 15
+Topico #0:  bicicleta linha parcela identificar jornada referido correspondente mundial conservacao dezembro
+Topico #1:  bicicleta relacionados divulgar colocar implantacao auto mitoso produzir exclusivamente alcance
+Topico #2:  bicicleta estacionamento obrigatoriedade disponibilizar therezinha mobilidade incentivo modalidade expressoes espaco
+Topico #3:  imovel relevancia existentes razao motorista t orgao_classe devera_estar construir possivel
+Topico #4:  municipal_ensino antiga possivel civil_www onibus agente mecanismos ruas aprovacao_presente vagas
+
+Topicos no Cluster_11 modelo LDA: 25
+Topico #0:  linha parcela identificar jornada referido proprietario correspondente mundial conservacao complementar
+Topico #1:  frota bairro_sao historico mercado chegar cultural clientes livre exclusivamente agosto
+Topico #2:  obrigatoriedade disponibilizar expressoes utilidade mercado orgao_responsavel diagnostico interno estrutura_organizacional entrara
+Topico #3:  imovel razao relevancia existentes motorista t orgao_classe devera_estar construir possivel
+Topico #4:  municipal_ensino antiga onibus possivel civil_www agente mecanismos ruas aprovacao_presente setembro
+
+Topicos no Cluster_12 modelo LDA: 100
+Topico #0:  parcela linha proprietario identificar jornada conservacao referido parque correspondente mundial
+Topico #1:  logradouros ambiental logradouros_publico sustentavel colocar auto moradores novembro divulgar calcadas
+Topico #2:  obrigatoriedade disponibilizar descarte expressoes utilidade roberto_sabino orgao_responsavel tecnologia interno diagnostico
+Topico #3:  imovel imoveis logradouros lixo vias venda prefeitura solo plinio_valor bens
+Topico #4:  lixo residuos energia ambiental solo limpeza descarte residuos_solo eletrica sustentavel
+
+Topicos no Cluster_13 modelo LDA: 135
+Topico #0:  logradouros compreendendo centro submeto criacao vossas_excelencias regime_urgencia financiamento excelencias_superior arthur_virgilio
+Topico #1:  seguridade redacao remuneracao conselho instituicao subsidio cargos_efetivo capitulo investimentos altera
+Topico #2:  divida geral_municipio sujeitos procuradoria_geral representante incluindo juridica dezembro processos efeitos
+Topico #3:  financiamento caixa aus_am aus emprego vencimento reais excelencias contratos submeto
+Topico #4:  tabela padrao municipal_ensino bolsa agente aus_am antiga possivel civil_www adicionais
+
+Topicos no Cluster_14 modelo LDA: 43
+Topico #0:  linha parcela identificar jornada referido mundial correspondente conservacao dezembro parque
+Topico #1:  relacionados divulgar colocar auto mitoso produzir implantacao alcance particulares exclusivamente
+Topico #2:  reizo castelo branco gabinete_reizo castelobranco_cmm adolescentes estudantes sala educativas matriculados
+Topico #3:  animal imovel relevancia existentes razao motorista t orgao_classe construir devera_estar
+Topico #4:  municipal_ensino esporte antiga possivel civil_www onibus agente mecanismos ruas setembro
+

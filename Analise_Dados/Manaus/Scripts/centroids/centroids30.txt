@@ -1,0 +1,65 @@
+n_documentos:1415 	 n_palavras: 684 	 
+__________________________________________________________________________________
+
+
+Cluster#0:  creches vagas educacao_infantil filhos infantil basica primeira bolsa demanda municipal_ensino estrutura prestacao residencia particulares parceria
+Cluster#1:  passageiros onibus transporte_publico contratos imovel horaria cadastro sao_manaus outubro smtu fixa obras porte pt chefe
+Cluster#2:  metros concessao imovel lote concessionarias faixa concedido comercial autorizado_poder avenida limites terreno fiscal_municipio sao_pago unidade_fiscal
+Cluster#3:  comemorado calendario oficial semana_municipal institui_calendario sao_comemorado religiosos moradores santa institui_semana novembro junho oficial_municipio organizar homem
+Cluster#4:  idosos idade gestantes estatuto jornada violencia qualidade_vida assegurar igual paco_legislativo familiar deficientes cultura dispoe_obrigatoriedade tema
+Cluster#5:  bicicleta estacionamento mobilidade espaco mobilidade_urbano locais instalacao incentivo modalidade similares construcao escolas_publico sustentavel vias transporte_publico
+Cluster#6:  frota bairro_sao mercado cultural historico livre agosto chegar patrimonio clientes liberdade ilustres permissionario calcadas sede
+Cluster#7:  utilidade associacao instituto fim_lucrativos sede considera cultural prefeitura promocao juridica anterior prefeitura_manaus finalidade sociedade_civil reconhecimento
+Cluster#8:  esporte modalidade lazer estimular parceria incentivo parque incentivar proporcionar espaco adolescentes cultural historico cultura participar
+Cluster#9:  energia eletrica energia_eletrica solo pontos concessionarias postos consumo implantacao sustentavel instalados instalacao terreno capitulo imoveis
+Cluster#10:  altera redacao excelencias dezembro deliberacao vossas submeto mensagem aus_am excelencias_superior prefeito aus regime arthur_virgilio virgilio_neto
+Cluster#11:  cancer adolescentes pacientes exames identificacao tratamento prevencao familiar diagnostico preventivas assistencia infantil atencao jovens cuidados
+Cluster#12:  codigo venda proibida reincidencia alvara similares estabelecimentos_comerciais jornada precos obrigados infrator ufm infracao fornecimento sancoes
+Cluster#13:  acidentes animal vitimas faixa fato condutores rua_pe proprietario instalados morte vias placas ocorre primeira instalacao
+Cluster#14:  drogas combate prevencao campanhas conscientizacao institui_semana tema alcool crimes vitimas sildomar_abtibol jovens educativas graves sao_humanos
+Cluster#15:  violencia vitimas adolescentes combate crimes sofrem prevencao educativas andar familiar filhos infantil conscientizacao homem campanhas
+Cluster#16:  emprego vagas mercado smtu concurso agente grupo reserva gerencia renda pessoal concurso_publico fixa indireta funcoes
+Cluster#17:  estacionamento banco vagas clientes caixa cobranca instituicoes motorista gestantes calcadas eletronico instalacao vias placas guarda
+Cluster#18:  financiamento fundo corrente orcamentaria_fiscal caixa adicionais creditos_adicionais programacao complementar acao complementar_federal investimentos divida fontes estimativa
+Cluster#19:  alcool bebidas bebidas_alcool consumo sindrome drogas adolescentes acidentes morte conscientizacao jovens prevencao violencia quantidade jornada
+Cluster#20:  deficientes pessoas_deficiencia mobilidade inclusao reduzir julho onibus similares instalados andar dificuldades placas livre disponibilizar idosos
+Cluster#21:  alimentos alimentacao consumo produzir quantidade producao organica fornecimento permissao infantil pequenos estabelecimentos_comerciais tema familiar compra
+Cluster#22:  bolsa criterios regular concedido concessao instituicao renda matriculados requisitos parcela penalidades rua_pe correspondente concessionarias regime
+Cluster#23:  clientes fone_fax aus preventivas conta_publicacao reconhecimento chefe_poder homem importancia chefe peco diferentes segmento atuar sao_humanos
+Cluster#24:  portadores sindrome tratamento pacientes dificuldades especiais mobilidade matriculados conscientizacao reduzir diagnostico perda residencia campanhas correrao
+Cluster#25:  endereco_rua endereco religiosos comemorado filhos sao_comemorado reincidencia proibida calendario dobro pena reconhecimento assegurar pagamento cadastro
+Cluster#26:  diretora origem cuidados motivo remuneracao funcoes interno altera reais emprego chefe procuradoria_geral concessao vencimento estrutura
+Cluster#27:  estudantes pedagogico cultural jovens cultura centro escolas_publico conselho educacional municipal_ensino educativas logradouros zona espaco tema
+Cluster#28:  obesidade gestantes graves idosos alimentacao hospitalar transporte_publico assistencia pagamento alimentos sao_tado caixa reserva disponibilizar escolha
+Cluster#29:  lixo residuos descarte limpeza solo residuos_solo materiais ambiental calcadas campanhas natureza preservacao prefeitura material consumo
+
+Cluster0:19 documentos, esse cluster representa: 1.34% no total
+Cluster1:180 documentos, esse cluster representa: 12.72% no total
+Cluster2:15 documentos, esse cluster representa: 1.06% no total
+Cluster3:84 documentos, esse cluster representa: 5.94% no total
+Cluster4:31 documentos, esse cluster representa: 2.19% no total
+Cluster5:18 documentos, esse cluster representa: 1.27% no total
+Cluster6:24 documentos, esse cluster representa: 1.70% no total
+Cluster7:38 documentos, esse cluster representa: 2.69% no total
+Cluster8:33 documentos, esse cluster representa: 2.33% no total
+Cluster9:18 documentos, esse cluster representa: 1.27% no total
+Cluster10:55 documentos, esse cluster representa: 3.89% no total
+Cluster11:82 documentos, esse cluster representa: 5.80% no total
+Cluster12:103 documentos, esse cluster representa: 7.28% no total
+Cluster13:44 documentos, esse cluster representa: 3.11% no total
+Cluster14:30 documentos, esse cluster representa: 2.12% no total
+Cluster15:34 documentos, esse cluster representa: 2.40% no total
+Cluster16:29 documentos, esse cluster representa: 2.05% no total
+Cluster17:34 documentos, esse cluster representa: 2.40% no total
+Cluster18:29 documentos, esse cluster representa: 2.05% no total
+Cluster19:20 documentos, esse cluster representa: 1.41% no total
+Cluster20:36 documentos, esse cluster representa: 2.54% no total
+Cluster21:33 documentos, esse cluster representa: 2.33% no total
+Cluster22:14 documentos, esse cluster representa: 0.99% no total
+Cluster23:44 documentos, esse cluster representa: 3.11% no total
+Cluster24:35 documentos, esse cluster representa: 2.47% no total
+Cluster25:45 documentos, esse cluster representa: 3.18% no total
+Cluster26:19 documentos, esse cluster representa: 1.34% no total
+Cluster27:201 documentos, esse cluster representa: 14.20% no total
+Cluster28:20 documentos, esse cluster representa: 1.41% no total
+Cluster29:48 documentos, esse cluster representa: 3.39% no total

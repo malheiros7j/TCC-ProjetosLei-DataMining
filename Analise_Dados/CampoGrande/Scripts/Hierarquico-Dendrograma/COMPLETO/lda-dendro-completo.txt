@@ -1,0 +1,226 @@
+n_documentos:3126 	 n_palavras: 1777 	 
+__________________________________________________________________________________
+
+
+Realizando a modelagem de topicos LDA com tfidf features, n_documentos: 3126 e n_palavras = 1777 ...
+
+Topicos no Cluster_1 modelo LDA: 55
+Topico #0:  clientes caixas fila agencia defesa_consumidor supermercados sanitaria obrigatoriamente maximo denuncias
+Topico #1:  restaurantes som altura empreendimentos calculo plano bebidas_alcool imprescindivel descarte indireta
+Topico #2:  limpeza residenciais restaurantes cirurgia enta bares fica_autorizado imoveis capacitados epoca
+Topico #3:  caixas desconto cirurgia ecologico preco carteira clube restaurantes limpeza celebrar
+Topico #4:  linha remunerado estima penalidades_previstas infracao sindicato grossense correta cobrado transporte_transito
+
+Topicos no Cluster_2 modelo LDA: 134
+Topico #0:  exames espaco_publico sus campanhas_educativas ceinfs avaliacao retirada hospitais matriculados apresentacao
+Topico #1:  feiras feiras_livre ayrton_araujo araujo classe comemorado face_exposto comercializados valorizacao regulamentacao
+Topico #2:  bares juros enta publico_municipais cirurgia epoca admite corpo capacitados fica_autorizado
+Topico #3:  debitos parcela contribuinte juros clube desconto celebrar credito moreninhas caixas
+Topico #4:  video formulario infantil adocao preventivas portadoras monitoramento conteudo maus_trata onibus
+
+Topicos no Cluster_3 modelo LDA: 131
+Topico #0:  municipal_seguranca fortalecimento plano segurado politicas_publico justica criminalidade proteger gestao aspectos
+Topico #1:  alcool bebidas_alcool bebidas mobilidade_reduzir mobilidade acidentes_transito reduzir acidentes comercializacao pessoas_deficiencia
+Topico #2:  espetaculos fica_proibida enta admite ingresso cancer cirurgia iptu corpo capacitados
+Topico #3:  fundo_municipal municipal_seguranca cancer guarda financiamento receita transferencia diagnostico representante_municipal celular
+Topico #4:  merenda_escola merenda alimentacao acessibilidade ferias alcool organica penalidades_previstas proibida remunerado
+
+Topicos no Cluster_4 modelo LDA: 101
+Topico #0:  primeira_socorros socorros emergencia ocorrencia incendio ser_regulamentara preferencialmente preocupacao presente_prazo obrigatoriamente
+Topico #1:  religiosa diabetes templos incendio culto portadores igreja instituicao socorros imoveis
+Topico #2:  incendio portadores_deficiencia bombeiros portadores corpo corpo_bombeiros taxistas auditiva artistico capacitados
+Topico #3:  socorros primeira_socorros habilitado clube celebrar caixas sujeito_infrator envolvidos provocar sistema_municipal
+Topico #4:  sindicato condutor condutor_autonomia entrega taxistas ministrar aprendizado aulas correta formacao
+
+Topicos no Cluster_5 modelo LDA: 64
+Topico #0:  escrito cidadania ser_regulamentara escola_rede letras terceiros presente_prazo ocorrencia obrigatoriamente assuntos_interesse
+Topico #1:  preventivas leitura relacionadas psicologia indireta informacao violencia_domestica som altura precisa
+Topico #2:  concurso concurso_publico vagas bibliotecas reserva negros candidatos escola_publico cidadania publico_municipais
+Topico #3:  bibliotecas envolvidos celebrar leitura clube sistema_municipal caixas agressor habilitado sujeito_infrator
+Topico #4:  psicologia municipal_educacao desemprego atencao institui_semana comportamento remunerado penalidades_previstas estima orientacao
+
+Topicos no Cluster_6 modelo LDA: 122
+Topico #0:  copia vereador_pmdb emergencia airton lider_psdb pmdb vereador_lider demanda ser_regulamentara lazer
+Topico #1:  jornada jornada_trabalho dependentes diario psicologia avenida_pena pena necessario_especiais fixado central
+Topico #2:  necessario_especiais pessoas_portadoras portadoras portadores_necessario portadores portadoras_deficiencia municipal_associacao integracao dependencias carater
+Topico #3:  associacao_amigos denomina_rua lar amigos delegado policia combustiveis ceinfs aerea clube
+Topico #4:  eleitoral sindicato unidade_escola conselho_municipais estima remunerado dependentes grossense penalidades_previstas amparo
+
+Topicos no Cluster_7 modelo LDA: 85
+Topico #0:  chuva agua_chuva captacao certificado defesa_consumidor armazenamento classificacao agua_pluviais hospitais incentivar
+Topico #1:  validade voluntarios defesa_consumidor dengue produtos_servicos sujeito_infrator som altura indireta informacao
+Topico #2:  guarda mercadorias previdencia segurado aposentadoria ambiental troca enta capacitados admite
+Topico #3:  crime defesa_consumidor direito_difusos direito_consumidor sistema_municipal municipal_defesa protecao_defesa validade clube envolvidos
+Topico #4:  danos emergencia desemprego cobrado divulgacao patrimonio estima espaco_publico saida danos_causa
+
+Topicos no Cluster_8 modelo LDA: 55
+Topico #0:  tarifa concessionaria servicos_publico defesa_consumidor reajuste esgoto abastecimento ser_regulamentara proibicao obrigatoriamente
+Topico #1:  sangue doadores doacao corrego voluntarios pontos informacao obrigatoria altura souza
+Topico #2:  aerea base epoca cirurgia enta tarifa corpo fica_autorizado capacitados admite
+Topico #3:  doadores sangue clube doacao celebrar pertinentes deslocamento gratuidade passagem caixas
+Topico #4:  coletivo_urbano tarifa transporte_transito empresas_concessionaria gratuidade gratuita doacao isencao remunerado portadores
+
+Topicos no Cluster_9 modelo LDA: 64
+Topico #0:  coordenadoria escola_municipal ser_regulamentara presente_prazo medicina povo obrigatoriamente defesa_consumidor professora proibicao
+Topico #1:  professora universidade professora_rose universidade_federal u flavio luz som souza relacionadas
+Topico #2:  universidade faculdade rio_janeiro medicina rio universidade_federal unidade_basica ciencia epoca federal_mato
+Topico #3:  professora clube celebrar localizada_rua caixas moreninhas sujeito_infrator sistema_municipal habilitado internacional
+Topico #4:  professora professora_rose rose vereadora_psdb psdb sede_campo colegio mae pertinentes remunerado
+
+Topicos no Cluster_10 modelo LDA: 197
+Topico #0:  gestantes domiciliar recem_nasceu ambiental recem arvores locomocao portadoras vagas vacinacao
+Topico #1:  violencia_domestica domestica vitimas vagas reserva_vagas regime reserva investimentos arvores cuidados
+Topico #2:  vacinacao maternidade vacina programa_municipal vagas mae exposicao ambiental licenca cirurgia
+Topico #3:  animal caes veterinario zoonoses domestica proprietario plasticos maus_trata pos abandono
+Topico #4:  pneus coletivo_seletiva reciclaveis seletiva condominios asfalto construcao_civil reciclagem lixo residuos_solo
+
+Topicos no Cluster_11 modelo LDA: 26
+Topico #0:  pequeno empresas_pequeno ser_regulamentara ocorrencia presente_prazo proibicao obrigatoriamente maxima defesa_consumidor pequeno_porte
+Topico #1:  perimetro_urbano perimetro trecho som altura indireta calculo bebidas_alcool descarte luz
+Topico #2:  enta corpo cirurgia epoca ingresso capacitados admite fica_autorizado ministerio_publico ministerio
+Topico #3:  celebrar clube caixas sujeito_infrator sistema_municipal habilitado envolvidos provocar preco desconto
+Topico #4:  conflitos justica seguindo perimetro remunerado estima penalidades_previstas correta sindicato agentes_comunitaria
+
+Topicos no Cluster_12 modelo LDA: 221
+Topico #0:  infantil educacao_infantil centro_educacao estudantes obesidade ceinf farmaceutico av professora vila
+Topico #1:  mercado_trabalho mercado desemprego qualificacao produzir estudantes proposicao_visa marcelo_bluma bluma culto
+Topico #2:  lista reclamacoes informar estudantes saude_municipio unidade_basica fixacao entrada basica_saude carteira
+Topico #3:  localizada_ruas bluma marcelo_bluma denomina_praca praca_localizada marcelo ruas localizada_bairro municipal_aprova santa
+Topico #4:  sede_campo entidades_devera pena_revogacao observar_exigencias revogacao_presente exigencias_conta devera_observar exigencias simbolica academia
+
+Topicos no Cluster_13 modelo LDA: 136
+Topico #0:  atletas prof sp guarda_municipal premio guarda saida acolhimento sus futebol
+Topico #1:  internet comerciante eduardo gratuita lotes loteamento industrial possibilitar situada engenharia
+Topico #2:  espirita cristo amor deus religiosa lucrativos coracao declara jesus luz
+Topico #3:  turistico vitimas futebol turismo acolhimento guarda imagens clube delegado central
+Topico #4:  premio modo segmentos academia valorizacao jornal manoel memoria reunir escrito
+
+Topicos no Cluster_14 modelo LDA: 95
+Topico #0:  esgoto concessionaria povo presente_prazo motoristas ser_regulamentara coordenadoria obrigatoriamente funcao profissionais_area
+Topico #1:  transporte_escola hospital passageiros cronicos permissao luz descarte troca adaptados acontece
+Topico #2:  liberdade estudantes moral ayrton_araujo epoca enta sala_aulas corpo proprios cirurgia
+Topico #3:  celebrar hospital povo socorros clube homem sistema_municipal envolvidos integral solidariedade
+Topico #4:  agentes agentes_comunitaria comunitaria_saude comunitaria saude_familia passageiros carla alternativas institui_municipal cobrado
+
+Topicos no Cluster_15 modelo LDA: 57
+Topico #0:  advogados ser_regulamentara presente_prazo povo prefeito terceiros subsidio obrigatoriamente agencia defesa_consumidor
+Topico #1:  advogados feiras_livre remuneracao nascimento som indireta altura denomina_dr plano relacionadas
+Topico #2:  educacional enta cirurgia carater epoca corpo capacitados admite fica_proibida aposentadoria
+Topico #3:  odontologia lagoa celebrar ecologico direito_humanos clube estrada internacional sujeito_infrator youssif
+Topico #4:  odontologia pastor plano receita fica_assegurar poder_legislativo estima demanda prof musica
+
+Topicos no Cluster_16 modelo LDA: 23
+Topico #0:  ser_regulamentara enfermagem presente_prazo enfermeiros obrigatoriamente quadro povo defesa_consumidor proibicao ocorrencia
+Topico #1:  patrimonio patrimonio_historia municipal_protecao valorizacao artistico patrimonio_publico som altura empresas_privadas pena
+Topico #2:  enta cirurgia epoca corpo capacitados admite fica_proibida fica_autorizado carater baixa_renda
+Topico #3:  celebrar clube caixas sujeito_infrator sistema_municipal habilitado envolvidos provocar preco infra_estrutura
+Topico #4:  patrimonio enfermeiros patrimonio_historia lojas imovel espaco_publico penalidades_previstas remunerado afins grossense
+
+Topicos no Cluster_17 modelo LDA: 232
+Topico #0:  postos_saude postos sanitaria resgate corpo obrigatoriamente celso faleceu publico_particulares particulares
+Topico #1:  denominacao trecho denominacao_rua unidade_basica basica_saude denomina_rua sr saude_familia faleceu souza
+Topico #2:  corpo parcela acrescenta epoca saude_populacao educacional costumeira_aquiescencia traz unidade_basica resgate
+Topico #3:  natural jamal sr pr sexo souza localizacao significa celso_ianaze identificacao
+Topico #4:  saude_trabalho penalidades_previstas odontologia atencao remunerado correta sindicato araujo localizada_bairro acoes_servicos
+
+Topicos no Cluster_18 modelo LDA: 64
+Topico #0:  telefone celular aparelhos ar denuncias ser_regulamentara clientes sanitaria defesa_consumidor ocorrencia
+Topico #1:  telefone estacionamento empreendimentos som altura urbanistico indireta luz bebidas_alcool informacao
+Topico #2:  passeios calcadas banheiros policia administrativa_municipio policia_administrativa edificados codigo_policia imoveis guia
+Topico #3:  clube celebrar condicionada caixas sujeito_infrator sistema_municipal habilitado provocar envolvidos residem
+Topico #4:  imobiliario empreendimentos correta desemprego imoveis negocios colegio remunerado pequeno sindicato
+
+Topicos no Cluster_19 modelo LDA: 103
+Topico #0:  regionais pratica_esporte ser_regulamentara obrigatoriamente lazer homem preocupacao presente_prazo transparencia ser_definidos
+Topico #1:  adaptados parque emenda lazer convivencia necessario_especiais mandato constitucional incluindo vias_publico
+Topico #2:  fundacao acao estatuto lucrativos sede_capital carater enta cirurgia pesquisa direito_privadas
+Topico #3:  moreninhas clube transparencia negros celebrar futebol envolvidos rocha parque caixas
+Topico #4:  lixo descarte municipal_esporte municipal_transporte pratica_esporte lazer transporte_transito esporte_lazer conselho_municipais saudavel
+
+Topicos no Cluster_20 modelo LDA: 50
+Topico #0:  bicicleta vacina vacinacao presente_prazo faixa etaria ser_regulamentara faixa_etaria quadro obrigatoriedade
+Topico #1:  incentivo som altura cinqa calculo bebidas_alcool u descarte indireta empresas_privadas
+Topico #2:  incentivo desenvolvimento_economia vacinacao enta cirurgia fiscal epoca corpo capacitados admite
+Topico #3:  pedestres issqn imposto_servicos faixa bicicleta debitos colocacao envolvidos clube elevada
+Topico #4:  credito descritos estima remunerado penalidades_previstas nota receita sindicato correta grossense
+
+Topicos no Cluster_21 modelo LDA: 131
+Topico #0:  ser_regulamentara agencia presente_prazo quadro obrigatoriamente letras espera defesa_consumidor turismo caixas
+Topico #1:  doadores empresas_privadas som altura deficientes_fisica descarte indireta informacao bebidas_alcool u
+Topico #2:  comercial estacionamento airton regiao ordenamento demanda universitario investimentos sonora desenvolvimento_sustentavel
+Topico #3:  turismo medula medula_ossea ossea doadores permissao guia turistico preco doacao
+Topico #4:  estacionamento isentos reducao organica regulamentara_poder ser_beneficio credito internet organica_municipal concessionaria
+
+Topicos no Cluster_22 modelo LDA: 119
+Topico #0:  municipal_habitacao habitacao comunitaria tutelar agencia conselho_tutelar supermercados h regularizacao habitacional
+Topico #1:  som dom ruido lojas simbolica irmaos sonora bosco maes u
+Topico #2:  ordem assentos propaganda municipal_habitacao habitacao epoca progresso carater traz enta
+Topico #3:  ferias maes clube lojas residencial lucrativos caixas direito_privadas simbolica youssif
+Topico #4:  eletronico conselho_tutelar tutelar publicitarias proibida remunerado sindicato empresas_concessionaria transporte_transito estima
+
+Topicos no Cluster_23 modelo LDA: 61
+Topico #0:  indigenas acidentes povo escola_rede vitimas ser_regulamentara ocorrencia obrigatoriamente presente_prazo conteudo
+Topico #1:  energia luz sexual iluminacao debates indireta som altura empresas_privadas calculo
+Topico #2:  iluminacao sexual exploracao denuncias abuso detectar metas energia estabelecimentos_ensino pontos
+Topico #3:  clube celebrar caixas revistas condicionada sujeito_infrator sistema_municipal habilitado envolvidos mundial
+Topico #4:  sexual abuso preservar corte institui_semana remunerado municipal_direito estima penalidades_previstas sindicato
+
+Topicos no Cluster_24 modelo LDA: 20
+Topico #0:  ser_regulamentara presente_prazo obrigatoriamente defesa_consumidor proibicao povo epoca ocorrencia regionais terceiros
+Topico #1:  som altura bebidas_alcool descarte indireta calculo luz empresas_privadas feiras_livre debates
+Topico #2:  travessa epoca enta cirurgia corpo telefone capacitados admite fica_proibida ingresso
+Topico #3:  travessa trecho residencial mora engenheiro aparecida trecho_compreendido residem clube celebrar
+Topico #4:  remunerado estima penalidades_previstas sindicato grossense correta cobrado transporte_transito conselho_municipais espaco_publico
+
+Topicos no Cluster_25 modelo LDA: 73
+Topico #0:  energia energia_eletrica eletrica concessionaria tarifa ser_regulamentara povo presente_prazo habitos captacao
+Topico #1:  cacambas material tabela informacao obrigatoria cartazes fundamental luz contribuinte estacionamento
+Topico #2:  velocidade energia edificacoes eletrica corpo edificados enta vantagens metros anuncios
+Topico #3:  debitos clube celebrar contribuinte aposentados caixas ensino_fundamental imovel preco sujeito_infrator
+Topico #4:  energizada cerca_energizada imoveis imovel vereador_vereador proprietario cerca requerimento regularizacao financiamento
+
+Topicos no Cluster_26 modelo LDA: 184
+Topico #0:  aero_rancho quadro obrigatoriamente realizacao_eventos crime povo discriminacao escola_municipal atitudes ser_regulamentara
+Topico #1:  dengue mosquito praca_localizada denomina_praca edil neto ruas nery athayde athayde_nery
+Topico #2:  militar mosquito mestre lider_bancada alex oliva_enciso municipal_associacao nery vereador_alex marcio_matozinhos
+Topico #3:  clube youssif plantas equivalente criterios considera bens amigos longo internacional
+Topico #4:  musica artistico arte concessionaria veiculos_automotores automotores empresas_concessionaria municipal_cultura grossense pps
+
+Topicos no Cluster_27 modelo LDA: 124
+Topico #0:  amp ser_regulamentara presente_prazo acervo obrigatoriamente defesa_consumidor habitos povo proibicao escola_rede
+Topico #1:  teste veiculos_divulgacao metros municipal_associacao anuncios expressamente_apreco leis_submetemos u renovamos pedagogico
+Topico #2:  museu teste recem_nasceu recem exames enta corpo epoca mental cirurgia
+Topico #3:  encaminhamos_presente aposentados clube conta_costumeira justifica presente_apreciacao pedagogico localizada_bairro casa_aprovacao moreninhas
+Topico #4:  grossense sul_mato municipal_associacao mato_grossense amp sede_cidade declara terrenos visa_declarada lucrativos
+
+Topicos no Cluster_28 modelo LDA: 131
+Topico #0:  calendario_oficial calendario oficial_eventos oficial eventos_municipio preservacao mundial comemorado incluindo_calendario conscientizacao
+Topico #1:  igreja luz evangelica flavio som debates altura comerciante indireta acontece
+Topico #2:  escola_municipal evangelica cristo jesus enta admite cirurgia antiga epoca municipal_associacao
+Topico #3:  ceinf verde localizada_rua chiquinho_telles souza regiao infra_estrutura igreja centro_educacao sr
+Topico #4:  sindicato afins estima calendario remunerado categoria apresentamos_casa penalidades_previstas domestica leis_submetemos
+
+Topicos no Cluster_29 modelo LDA: 169
+Topico #0:  engenharia localizada_avenida estrada sul_mato eletrica complexo radio rio engenheiro eleito
+Topico #1:  santa beneficente municipal_associacao denomina_dr drogas manoel santa_casa alcool associacao_moradores unidade_atendimento
+Topico #2:  foro_cidade sede_foro foro associacao_moradores municipal_associacao lucrativos associados moradores_bairro campo_grandea rocha
+Topico #3:  paz reciclaveis drogas taxistas recolhimento manoel papel materiais_reciclaveis nomeado contribuicao
+Topico #4:  drogas alcool cobrado reciclaveis sede_campo sustentavel mensagens foro sede_foro principal
+
+Topicos no Cluster_30 modelo LDA: 99
+Topico #0:  juventude vila rural alimentacao obesidade epoca quadro visual ser_regulamentara obrigatoriamente
+Topico #1:  festa luiz grave unidade_saude indireta denominacao_rua u amor santa informacao
+Topico #2:  creches ambulante exposicao visao baixa_renda visual cancer corpo fica_poder codigo_tributario
+Topico #3:  motivos_taxa taxistas alvara escola_municipal permissao exposicao youssif clube celebrar provocar
+Topico #4:  remunerado entrega publicitarias grossense taxistas unidade_saude cobrado profissao estima proibida
+
+
+
+
+
+Topicos no Cluster1_30 modelo LDA: 3126
+Topico #0:  estacionamento obrigatoriedade vagas evitar acidentes instalados placas portadores obrigatoriamente divulgacao
+Topico #1:  vila municipal_associacao denominacao declara homenagear santa comemorado homenagem edil faleceu
+Topico #2:  mosquito dengue pneus pneus_inserviveis asfalto aerea bebidas feiras_livre feiras alcool
+Topico #3:  iptu doadores isencao contribuinte predial territorial territorial_urbano predial_territorial imovel debitos
+Topico #4:  merenda_escola energizada cerca_energizada merenda condutor_autonomia monitoramento taxistas video passageiros onibus
