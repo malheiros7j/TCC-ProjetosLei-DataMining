@@ -17,3 +17,6 @@ Arquivos que realizam o pré-processamento e aplicam os algoritmos de extração
 Retorno das palavras e tópicos mais relevantes para cada base de dados selecionados.
 
 
+Link Artigo(Monografia): https://drive.google.com/open?id=1u5fZulQBOeIV6ZsBwo7d6fnv0k-_e-Xo 
+
+
