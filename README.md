@@ -1,23 +1,25 @@
-# TCC - Categorização Projetos de Lei Municipais
+# Categorização de projetos de leis municipais utilizando agrupamento de dados
+
 Trabalho de Conclusão de Curso UFMS - Ciência da Computação 
 
 Este trabalho tem como objetivo realizar a categorização de projetos de lei municipais extraídos da interface web das camaras municipais das cidades selecionadas. Dessa maneira, iremos realizar uma análise dessas base de dados e extrair conhecimentos utéis para o apoio a gestão de conhecimento.
 
-#Extrai_Dados
-Extração dos projetos de lei municipais das cidades selecionados(Rio de Janeiro, Manaus, Campo Grande, São Paulo).
-Ferramentas Utilizadas: scrapy, seleniumwebdriver, pdf2text.
+# Extrai_Dados
+* Dividida por cidades, cada cidade possui:
+  * Projeto de Extração de coleção de documentos de cada cidade baseada em seu site municipal(onde estão localizadas os projetos de leis) .
+* Ferramentas Utilizadas: scrapy, selenium, python, pdf2text.
 
-#projetos_txt
-Projetos de leis municipais em formato .txt separado por cidade.
+# Projetos_txt
+* Todos projetos retirados dos websites estão agrupados por cidade.
+* Cada documento é um projeto de lei legislativo em formato .txt
 
-#Analise_Dados
+# Analise_Dados
 Arquivos que realizam o pré-processamento e aplicam os algoritmos de extração de conhecimento(K-Means, Hierarquização).
 
-#Saida_Centroids&LDA
+# Saida_Centroids&LDA
 Retorno das palavras e tópicos mais relevantes para cada base de dados selecionados.
 
+[Link Artigo Completo - TCC ](https://drive.google.com/file/d/1WPOQ35GuQeacTvth0_t9ogh3xzspK4XG/view?usp=sharing)
 
-Link Artigo(Monografia): https://drive.google.com/open?id=1u5fZulQBOeIV6ZsBwo7d6fnv0k-_e-Xo 
 
-PS: Necessário redução do tamanho e última revisão para que possa ser submetido a eventuais revistas/eventos.
 
