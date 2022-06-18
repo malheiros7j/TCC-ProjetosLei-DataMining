@@ -14,10 +14,10 @@ Este trabalho tem como objetivo realizar a categorização de projetos de lei mu
 * Cada documento é um projeto de lei legislativo em formato .txt
 
 # Analise_Dados
-Arquivos que realizam o pré-processamento e aplicam os algoritmos de extração de conhecimento(K-Means, Hierarquização).
+* Arquivos e scripts que realizam o pré-processamento e aplicam os algoritmos de extração de conhecimento(K-Means, Hierarquização).
 
 # Saida_Centroids&LDA
-Retorno das palavras e tópicos mais relevantes para cada base de dados selecionados.
+* Retorno das palavras e tópicos mais relevantes para cada base de dados selecionados.
 
 [Link Artigo Completo - TCC ](https://drive.google.com/file/d/1WPOQ35GuQeacTvth0_t9ogh3xzspK4XG/view?usp=sharing)
 
